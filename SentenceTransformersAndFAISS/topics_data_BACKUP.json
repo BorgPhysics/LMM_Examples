@@ -1,0 +1,31 @@
+{
+    "topics": {
+        "AI": {
+            "topic_title": "Artificial Intelligence and Machine Learning",
+            "directives": {}
+        }
+    }
+  "topics": {
+      "AI": {
+          "topic_title": "",
+          "directives": {
+              "1": {
+                  "directive_title": ""
+                  "subdirectives": {
+                      "1": "",
+                      "2": "",
+                      "3": "",                      
+                  }
+              }
+              "2": {
+                  "directive_title": ""
+                  "subdirectives": {
+                      "1": "",
+                      "2": "",
+                      "3": "",                      
+                  }
+              }
+          }
+      }
+    }
+}

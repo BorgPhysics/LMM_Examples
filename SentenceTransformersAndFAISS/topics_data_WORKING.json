@@ -1,0 +1,33 @@
+{
+    "topics": {
+        "AI": {
+            "topic_title": "Artificial Intelligence and Machine Learning",
+            "directives": {
+                "1": {
+                    "directive_title": "Global Implementation of AI and ML",
+                    "subdirectives": {
+                        "1": "Identify key AI/ML initiatives in various countries.",
+                        "2": "Analyze adoption rates and trends of AI/ML technologies.",
+                        "3": "Compare and contrast scope and scale of AI/ML applications in different nations."
+                    }
+                },
+                "2": {
+                    "directive_title": "Policy and Regulation Variance",
+                    "subdirectives": {
+                        "1": "Investigate legal frameworks and policies governing AI/ML in different countries.",
+                        "2": "Assess ethical considerations and regulatory disparities.",
+                        "3": "Highlight geopolitical implications of AI/ML disparities among nations."
+                    }
+                },
+                "3": {
+                    "directive_title": "Technological Advancements and Competitiveness",
+                    "subdirectives": {
+                        "1": "Evaluate advancements in AI/ML research and development worldwide.",
+                        "2": "Examine competitive edge of different nations in AI/ML innovation.",
+                        "3": "Compare investments made by various countries in AI/ML infrastructure and education."
+                    }
+                }
+            }
+        }
+    }
+}
