@@ -1,0 +1,126 @@
+{
+    "topics": {
+        "AI": {
+            "topic_title": "Artificial Intelligence and Machine Learning",
+            "directives": {
+                "1": {
+                    "directive_title": "Global Implementation of AI and ML",
+                    "subdirectives": {
+                        "1": "Identify key AI/ML initiatives in various countries.",
+                        "2": "Analyze adoption rates and trends of AI/ML technologies.",
+                        "3": "Compare and contrast scope and scale of AI/ML applications in different nations."
+                    }
+                },
+                "2": {
+                    "directive_title": "Policy and Regulation Variance",
+                    "subdirectives": {
+                        "1": "Investigate legal frameworks and policies governing AI/ML in different countries.",
+                        "2": "Assess ethical considerations and regulatory disparities.",
+                        "3": "Highlight geopolitical implications of AI/ML disparities among nations."
+                    }
+                },
+                "3": {
+                    "directive_title": "Technological Advancements and Competitiveness",
+                    "subdirectives": {
+                        "1": "Evaluate advancements in AI/ML research and development worldwide.",
+                        "2": "Examine competitive edge of different nations in AI/ML innovation.",
+                        "3": "Compare investments made by various countries in AI/ML infrastructure and education."
+                    }
+                }
+            }
+        },
+        "Climate Change": {
+            "topic_title": "Documents covering climate change, global warming, environmental impacts, renewable energy, etc.",
+            "directives": {
+                "1": {
+                    "directive_title": "Climate Science and Impacts",
+                    "subdirectives": {
+                        "1": "Explore the scientific understanding of climate change and global warming.",
+                        "2": "Analyze the documented environmental impacts, such as rising temperatures, extreme weather events, and sea-level rise.",
+                        "3": "Assess the effects of climate change on ecosystems, biodiversity, and natural resources."
+                    }
+                },
+                "2": {
+                    "directive_title": "Mitigation and Adaptation Strategies",
+                    "subdirectives": {
+                        "1": "Investigate strategies and policies aimed at mitigating climate change effects.",
+                        "2": "Examine adaptation measures implemented worldwide to combat environmental challenges.",
+                        "3": "Analyze the role of renewable energy sources and sustainable practices in reducing carbon emissions."
+                    }
+                },
+                "3": {
+                    "directive_title": "Socio-Economic and Geopolitical Ramifications",
+                    "subdirectives": {
+                        "1": "Assess socio-economic consequences of climate change, including displacement, economic disruptions, and public health impacts.",
+                        "2": "Evaluate the geopolitical implications and international cooperation efforts in addressing climate change.",
+                        "3": "Explore disparities in climate change impacts among different regions and communities."
+                    }
+                }
+            }
+        },
+        "World Health Issues": {
+            "topic_title": "Gather documents related to health topics such as diseases, medical advancements, healthcare policies, etc.",
+            "directives": {
+                "1": {
+                    "directive_title": "Disease Surveillance and Epidemiology",
+                    "subdirectives": {
+                        "1": "Analyze global disease patterns, outbreaks, and epidemiological trends.",
+                        "2": "Investigate the spread and containment of infectious diseases worldwide.",
+                        "3": "Assess the impact of vaccination programs and disease surveillance systems."
+                    }
+                },
+                "2": {
+                    "directive_title": "Medical Advancements and Healthcare Innovations",
+                    "subdirectives": {
+                        "1": "Explore breakthroughs in medical technology, treatments, and therapies.",
+                        "2": "Examine healthcare innovations improving patient care and access globally.",
+                        "3": "Assess the role of telemedicine and digital health solutions in healthcare delivery."
+                    }
+                },
+                "3": {
+                    "directive_title": "Healthcare Policies and Access",
+                    "subdirectives": {
+                        "1": "Analyze healthcare policies, systems, and reforms across different nations.",
+                        "2": "Evaluate healthcare disparities, access to medical services, and healthcare infrastructure.",
+                        "3": "Assess the impact of socio-economic factors on public health and healthcare access."
+                    }
+                }
+            }
+        },
+        "Cultural Diversity": {
+            "topic_title": "Gather information about different cultures, traditions, languages, and societal practices.",
+            "directives": {
+                "1": {
+                    "directive_title": "Cultural Heritage and Traditions",
+                    "subdirectives": {
+                        "1": "Explore diverse cultural practices, rituals, and traditions worldwide.",
+                        "2": "Document languages, dialects, and linguistic diversity across different regions.",
+                        "3": "Examine historical and contemporary significance of cultural heritage.",
+                        "4": "Assess the preservation efforts of cultural traditions and intangible heritage.",
+                        "5": "Analyze the impact of globalization on indigenous cultures and traditions."
+                    }
+                },
+                "2": {
+                    "directive_title": "Socio-Cultural Norms and Values",
+                    "subdirectives": {
+                        "1": "Investigate societal norms, values, and belief systems in various cultures.",
+                        "2": "Explore gender roles, family structures, and social hierarchies within societies.",
+                        "3": "Examine the role of religion and spirituality in shaping cultural identities.",
+                        "4": "Assess the impact of globalization on cultural norms and values.",
+                        "5": "Analyze intercultural communication and cross-cultural understanding."
+                    }
+                },
+                "3": {
+                    "directive_title": "Diversity in Arts, Literature, and Entertainment",
+                    "subdirectives": {
+                        "1": "Explore diverse art forms, literature, music, dance, and visual arts globally.",
+                        "2": "Document cultural expressions and their significance in different societies.",
+                        "3": "Analyze the role of cultural arts in preserving heritage and identity.",
+                        "4": "Assess the influence of cultural diversity on entertainment and media.",
+                        "5": "Examine the impact of technological advancements on cultural expressions."
+                    }
+                }
+            }
+        }
+    }
+}

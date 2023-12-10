@@ -1,0 +1,83 @@
+11 global health issues to watch in 2023, according to IHME experts
+Published December 20, 2022
+
+Authors
+
+ANNIE CHAN
+CONTENT WRITER
+As the year 2022 winds down, what is next on the horizon for global health? We turned to our IHME experts for their takes on the most critical health issues to watch in 2023. Entering our fourth year grappling with COVID-19, most of our experts pointed to issues that were impacted in some way by the pandemic, like long COVID and mental health. They also offered potential interventions to address the threats. 
+
+The faculty members and research scientists who shared their insights are professor Mohsen Naghavi, assistant professor Hwme Kyu, assistant professor Angela Micah, affiliate professor Michael Brauer, affiliate assistant professor Alize Ferrari, lead research scientist Liane Ong, lead research scientist Sarah Wulf Hanson, postdoctoral scholar Christian Razo, postdoctoral scholar Ewerton Cousin, and researcher Emma Nichols. Their comments have been lightly edited for clarity.
+
+1. Long COVIDMan wearing mask experiencing chest pain
+“Long COVID is absolutely a health issue to watch in 2023. The health impact of long COVID often disrupts a person’s ability to engage with school, work, or relationships for months at a time.  
+
+“People with long COVID need diagnostic and proper rehabilitation support from primary care physicians. We desperately need more research to find effective treatments as well as preventive measures to reduce the risk of developing long COVID.” — Sarah Wulf Hanson, lead research scientist of the non-fatal and risk quality enhancement team and lead author of the JAMA paper(link is external) on long COVID  
+ 
+
+2. Mental healthA woman sits on the floor with her head in her hands.
+“Mental disorders are a leading cause of disability worldwide, with no evidence of a decrease in this burden since 1990. The impact of the COVID-19 pandemic, war, and violence on mental health remains a priority, specifically understanding how these have impacted the prevalence and burden of mental disorders in 2022 onward and how countries should be adapting their mental health response accordingly. 
+
+“Currently in the GBD study, we investigate childhood sexual abuse, intimate partner violence, and bullying victimization as risk factors for mental disorders. Going forward, we need a better understanding of the other risk factors for mental disorders, how these vary across different populations, and how to offer the best opportunities for prevention at the population level.” — Alize Ferrari, affiliate assistant professor and team lead for estimating the burden of mental disorders  
+ 
+
+
+
+3. Impact of climate changeA child looks out over a dried up lake
+“Climate change is already affecting the health of millions of people all over the world, and more importantly, climate change will worsen throughout this century. People are experiencing both the direct effects of extreme heat that we measure in the GBD and a myriad of indirect effects. Flooding can force people from their homes and affect their mental health, droughts and storms can impact food security and water availability, and wildfire smoke episodes can increase air pollution. As we know from the pandemic, preparedness is key, and we are far from prepared for the health impacts of a warmer climate.
+
+“Most of the emphasis to date on climate change – and rightly so – has been on what we call mitigation: reducing the emissions that lead to global warming. Yet to date these efforts have been far too modest. We are now at a point where climate change is clearly with us, and much more attention needs to be put on minimizing the impacts on global health through adaptation or enhancing resilience. 
+
+“One aspect of this is improving overall health and enhancing socioeconomic development because we know that those who are more vulnerable will suffer the most. In addition, there are technological solutions that can support adaptation(link is external), such as the use of drought-resistant crops, increasing vegetation in cities to reduce the urban heat island effect, or repurposing land use to adapt to rising sea levels. 
+
+“Air pollution is one of the leading global risk factors that we evaluate in the GBD – currently responsible for about 8% of all global mortality – yet it is a problem with known solutions. Increasing the speed at which we address air pollution will save lives today. Those solutions will move the world closer to the net-zero carbon emissions goals that we need to ultimately address the causes of climate change.” — Michael Brauer, affiliate professor and team lead for estimating the burden of environmental, occupational, and dietary risk factors  
+ 
+
+4. Cardiovascular diseasePerson lying on a hospital bed while doctors take notes on their condition
+“Cardiovascular diseases such as ischemic heart disease and stroke are the leading causes of death globally, accounting for 28% of total deaths in 2021. Additionally, cardiovascular diseases substantially contribute to health loss and the economic burden on health care systems. Most cardiovascular diseases can be prevented by addressing modifiable cardiovascular risk factors such as high blood pressure, high cholesterol, obesity, dietary risks, smoking, and air pollution.” — Christian Razo, postdoctoral scholar on the team estimating cardiovascular disease burden and lead author of a Burden of Proof study on the effects of elevated systolic blood pressure on ischemic heart disease  
+ 
+
+5. Lower respiratory infectionsChild wearing an oxygen mask
+“Lower respiratory infections (LRI), especially respiratory syncytial virus (RSV) and influenza, are health issues to watch in 2023.  
+
+“We saw a general decline in influenza and RSV infections in 2020 due to COVID-19 mitigation measures such as mask use and social distancing. With the relaxation of these measures, many young children who haven’t been exposed to RSV in the past couple of years are being infected, resulting in RSV outbreaks(link is external). Countries have also experienced a surge in influenza(link is external) across all ages.  
+
+“Annual influenza vaccination provides an opportunity to reduce the LRI burden attributable to flu. There is no vaccine yet to prevent RSV, but promising vaccine trials are underway(link is external).” — Hmwe Kyu, assistant professor and team lead for estimating the burden of HIV, TB, and select infectious diseases  
+
+“After experiencing significant disruptions to health care systems worldwide due to the COVID-19 pandemic, the increases in respiratory infections and other communicable diseases have been added to the existing burden of chronic non-communicable diseases, creating a dual burden of disease exacerbated by social inequalities observed globally.” — Christian Razo  
+ 
+
+6. Poverty’s role in healthWomen providing humanitarian aid in Afghanistan
+“It seems that poverty is the mother of inequality in health. The unequal distribution of resources has expanded due to climate change and increasing violence. Low- and middle-income countries experience worse health outcomes than high-income countries: the life expectancy is 34 years lower, the under-5 mortality around 100 times higher, deaths due to interpersonal violence and suicide are 30 times higher, and deaths attributable to antimicrobial resistance (AMR) are 12 times higher. We must urgently address the impact of poverty on health, life, and death.” — Mohsen Naghavi, professor and team lead for causes of death, shocks, intermediate causes and estimating the burden of AMR  
+ 
+
+7. Health systems strengtheningRow of empty hospital beds
+“Strengthening health systems globally remains a critical aspect of what is needed for resilient health systems. This will be particularly relevant as countries refocus their resources and attention after the acute phase of the COVID-19 pandemic.
+
+“I think what is needed is a longer-term commitment from donors and governments – financial and human resources, governance structures, management, information systems – to ensure that interventions are set up for long-term sustainability and can deliver the outcomes that are aspired to across health systems.” — Angela Micah, assistant professor and co-lead of the development assistance for health resource tracking team
+
+“Given the immense strain of COVID-19 on primary care and hospital systems the past two-and-a-half years, attention should be paid to building back up the health care system and enabling frontline workers to do their jobs effectively. Public health leaders and policymakers need to reflect on lessons learned from the pandemic to prevent health care system collapse in the next crisis and to ensure that people who need care can access quality health care.” — Sarah Wulf Hanson  
+ 
+
+8. DiabetesPerson getting finger pricked for a blood test
+“Diabetes is the fourth main cause of DALYs(link is external) in Latin America and the Caribbean, and among the top five causes, it is the only one that shows an increase in the age-standardized rate compared to 1990. The burden of diabetes in the Americas is large, increasing, heterogeneous, and expanding, especially in countries in Central Latin America and the Caribbean. 
+
+“Population-based interventions such as taxes and incentives, more informative food labeling, improving the built environment to facilitate exercise, and greater advocacy to inform people of the risk diabetes poses, combined with expanded health education to combat diabetes risk factors, seem the best options. Policies aimed to help avoid weight gain and improve dietary quality are also paramount. 
+
+“Another important aspect is improving the response of health systems in terms of access and quality care. These should include universal access to low-cost insulin and oral anti-diabetic medication to decrease avoidable deaths from acute complications. Health systems should also strive to furnish feedback from their administrative data systems to providers to help orient diabetes care.” — Ewerton Cousin, postdoctoral scholar on the neglected tropical diseases team and lead author of The Lancet Diabetes & Endocrinology paper(link is external) on diabetes burden in the Americas  
+ 
+
+9. Road injuriesEmergency workers attend to someone at the scene of a car accident
+“Road injuries are still an important and preventable injury. For people 15-49 years old, road injuries are the leading cause of death(link is external).
+
+"Interventions such as helmets, seatbelts, airbags, speed limits, and laws discouraging alcohol-impaired driving do work. But implementation is not the only thing that determines their success – human behavior must adhere to those policies to make them effective." — Liane Ong, lead research scientist and team lead for estimating the burden of injuries, chronic respiratory diseases, neurological disorders, substance use disorders, diabetes and kidney diseases, sensory organ diseases, musculoskeletal disorders, and impairments (BIRDS)  
+ 
+
+10. DementiaAn older man with a concerned expression attended by a woman
+“Anticipated trends in population growth and population aging are expected to lead to large increases in the number of people affected by dementia globally, underscoring the public health importance of dementia. To adequately care for those with dementia, appropriate planning for the necessary supports and services required is needed.
+
+“Interventions targeting modifiable risk factors, such as low education, smoking, and high blood sugar, have the potential to reduce the overall societal burden and should be prioritized.” — Emma Nichols, researcher on the BIRDS team and lead author of The Lancet Public Health paper(link is external) on dementia forecasting  
+ 
+
+11. Population agingA doctor escorts an elderly woman through a tree-filled park
+“Adapting health systems to support older populations’ needs should be front of mind in 2023. Globally, the proportion of the population that is above 65 is expected to increase in the coming years. While a lot of attention (and rightfully so) has historically focused on diseases that affect children, it will be prudent to begin thinking through and systematically planning for some of these upcoming changes in demography as well, especially in low- and middle-income countries.” — Angela Micah

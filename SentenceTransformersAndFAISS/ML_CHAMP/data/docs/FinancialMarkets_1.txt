@@ -1,0 +1,105 @@
+Financial Markets: Role in the Economy, Importance, Types, and Examples
+By ADAM HAYES Updated October 19, 2023
+Reviewed by CIERRA MURRY
+Fact checked by KIRSTEN ROHRS SCHMITT
+What Are Financial Markets?
+Financial markets refer broadly to any marketplace where securities trading occurs, including the stock market, bond market, forex market, and derivatives market. Financial markets are vital to the smooth operation of capitalist economies.
+
+KEY TAKEAWAYS
+Financial markets refer broadly to any marketplace where the trading of securities occurs.
+There are many kinds of financial markets, including (but not limited to) forex, money, stock, and bond markets.
+These markets may include assets or securities that are either listed on regulated exchanges or trade over-the-counter (OTC).
+Financial markets trade in all types of securities and are critical to the smooth operation of a capitalist society.
+When financial markets fail, economic disruption, including recession and rising unemployment, can result.
+Financial Markets
+Investopedia / Theresa Chiechi
+
+Understanding the Financial Markets
+Financial markets play a vital role in facilitating the smooth operation of capitalist economies by allocating resources and creating liquidity for businesses and entrepreneurs. The markets make it easy for buyers and sellers to trade their financial holdings. Financial markets create securities products that provide a return for those with excess funds (investors/lenders) and make these funds available to those needing additional money (borrowers). 
+
+The stock market is just one type of financial market. Financial markets are created when people buy and sell financial instruments, including equities, bonds, currencies, and derivatives. Financial markets rely heavily on informational transparency to ensure that the markets set prices that are efficient and appropriate.
+
+Some financial markets are small with little activity, and others, like the New York Stock Exchange (NYSE), trade trillions of dollars in securities daily. The equities (stock) market is a financial market that enables investors to buy and sell shares of publicly traded companies. The primary stock market is where new issues of stocks are sold. Any subsequent trading of stocks occurs in the secondary market, where investors buy and sell securities they already own.
+
+
+ Prices of securities traded in the financial markets may not necessarily reflect their intrinsic value.
+Types of Financial Markets
+There are several different types of markets. Each one focuses on the types and classes of instruments available on it.
+
+Stock Markets
+Perhaps the most ubiquitous of financial markets are stock markets. These are venues where companies list their shares, which are bought and sold by traders and investors. Stock markets, or equities markets, are used by companies to raise capital and by investors to search for returns.
+
+Stocks may be traded on listed exchanges, such as the New York Stock Exchange (NYSE), Nasdaq, or the over-the-counter (OTC) market. Most stock trading is done via regulated exchanges, which plays an important economic role because it is another way for money to flow through the economy.
+
+Typical participants in a stock market include (both retail and institutional) investors, traders, market makers (MMs), and specialists who maintain liquidity and provide two-sided markets. Brokers are third parties that facilitate trades between buyers and sellers but who do not take an actual position in a stock.
+
+Over-the-Counter Markets
+An over-the-counter (OTC) market is a decentralized market—meaning it does not have physical locations, and trading is conducted electronically—in which market participants trade securities directly (meaning without a broker). While OTC markets may handle trading in certain stocks (e.g., smaller or riskier companies that do not meet the listing criteria of exchanges), most stock trading is done via exchanges. Certain derivatives markets, however, are exclusively OTC, making up an essential segment of the financial markets. Broadly speaking, OTC markets and the transactions that occur in them are far less regulated, less liquid, and more opaque.
+
+Bond Markets
+A bond is a security in which an investor loans money for a defined period at a pre-established interest rate. You may think of a bond as an agreement between the lender and borrower containing the loan's details and its payments. Bonds are issued by corporations as well as by municipalities, states, and sovereign governments to finance projects and operations. For example, the bond market sells securities such as notes and bills issued by the United States Treasury. The bond market is also called the debt, credit, or fixed-income market.
+
+Money Markets
+Typically, the money markets trade in products with highly liquid short-term maturities (less than one year) and are characterized by a high degree of safety and a relatively lower interest return than other markets.
+
+At the wholesale level, the money markets involve large-volume trades between institutions and traders. At the retail level, they include money market mutual funds bought by individual investors and money market accounts opened by bank customers. Individuals may also invest in the money markets by purchasing short-term certificates of deposit (CDs), municipal notes, or U.S. Treasury bills, among other examples.
+
+Derivatives Markets
+A derivative is a contract between two or more parties whose value is based on an agreed-upon underlying financial asset (like a security) or set of assets (like an index). Rather than trading stocks directly, a derivatives market trades in futures and options contracts and other advanced financial products that derive their value from underlying instruments like bonds, commodities, currencies, interest rates, market indexes, and stocks.
+
+Futures markets are where futures contracts are listed and traded. Unlike forwards, which trade OTC, futures markets utilize standardized contract specifications, are well-regulated, and use clearinghouses to settle and confirm trades. Options markets, such as the Chicago Board Options Exchange (Cboe), similarly list and regulate options contracts. Both futures and options exchanges may list contracts on various asset classes, such as equities, fixed-income securities, commodities, and so on.
+
+Forex Market
+The forex (foreign exchange) market is where participants can buy, sell, hedge, and speculate on the exchange rates between currency pairs. The forex market is the most liquid market in the world, as cash is the most liquid of assets. The currency market handles more than $7.5 trillion in daily transactions, more than the futures and equity markets combined.
+1
+
+As with the OTC markets, the forex market is also decentralized and consists of a global network of computers and brokers worldwide. The forex market is made up of banks, commercial companies, central banks, investment management firms, hedge funds, and retail forex brokers and investors.
+
+Commodities Markets
+Commodities markets are venues where producers and consumers meet to exchange physical commodities such as agricultural products (e.g., corn, livestock, soybeans), energy products (oil, gas, carbon credits), precious metals (gold, silver, platinum), or "soft" commodities (such as cotton, coffee, and sugar). These are known as spot commodity markets, where physical goods are exchanged for money.
+
+However, the bulk of trading in these commodities takes place on derivatives markets that utilize spot commodities as the underlying assets. Forwards, futures, and options on commodities are exchanged both OTC and on listed exchanges around the world, such as the Chicago Mercantile Exchange (CME) and the Intercontinental Exchange (ICE).
+
+Cryptocurrency Markets
+Thousands of cryptocurrency tokens are available and traded globally across a patchwork of independent online crypto exchanges. These exchanges host digital wallets for traders to swap one cryptocurrency for another or for fiat monies such as dollars or euros.
+
+Because most crypto exchanges are centralized platforms, users are susceptible to hacks or fraudulent activity. Decentralized exchanges are also available that operate without any central authority. These exchanges allow direct peer-to-peer (P2P) trading without an actual exchange authority to facilitate the transactions. Futures and options trading are also available on major cryptocurrencies.
+
+Examples of Financial Markets
+The above sections make clear that the "financial markets" are broad in scope and scale. To give two more concrete examples, we will consider the role of stock markets in bringing a company to IPO and the role of the OTC derivatives market in the 2008-09 financial crisis.
+
+Stock Markets and IPOs
+As a company establishes itself over time and grows, it needs access to additional capital. It will often find itself in need of much larger amounts of capital than it can get from ongoing operations, traditional bank loans, or venture and angel funding. Firms can raise the amount of capital they need by selling shares of itself to the public through an initial public offering (IPO). This changes the company's status from a "private" firm whose shares are held by a few shareholders to a publicly traded company whose shares will be subsequently held by public investors.
+
+The IPO also offers early investors in the company an opportunity to cash out part of their stake, often reaping very handsome rewards in the process. Initially, the underwriters usually set the IPO price through their pre-marketing process.
+
+Once the company's shares are listed on a stock exchange, and trading commences, the price of these shares will fluctuate as investors and traders assess and reassess their intrinsic value and the supply and demand for those shares at any given moment.
+
+OTC Derivatives and the 2008 Financial Crisis: MBS and CDOs
+While the 2008-09 financial crisis was caused and made worse by several factors, one factor that has been widely identified is the market for mortgage-backed securities (MBS).
+2
+ These are OTC derivatives where cash flows from individual mortgages are bundled, sliced up, and sold to investors. The crisis resulted from a sequence of events, each with its own trigger—these events culminated in the banking system's near-collapse. It has been argued that the seeds of the crisis were sown as far back as the 1970s with the Community Development Act, which required banks to loosen their credit requirements for lower-income consumers, creating a market for subprime mortgages.
+
+The amount of subprime mortgage debt guaranteed by Freddie Mac and Fannie Mae continued to expand into the early 2000s when the Federal Reserve Board began to cut interest rates drastically to avoid a recession.
+3
+ The combination of loose credit requirements and cheap money spurred a housing boom, which drove speculation, pushing up housing prices and creating a real estate bubble. In the meantime, the investment banks, looking for easy profits in the wake of the dotcom bust and the 2001 recession, created a type of MBS called collateralized debt obligations (CDOs) from the mortgages purchased on the secondary market.
+
+Because subprime mortgages were bundled with prime mortgages, there was no way for investors to understand the risks associated with the product. When the market for CDOs began to heat up, the housing bubble that had been building for several years finally burst. As housing prices fell, subprime borrowers began to default on loans that were worth more than their homes, accelerating the decline in prices.
+
+When investors realized the MBS and CDOs were worthless due to the toxic debt they represented, they attempted to unload the obligations. However, there was no market for the CDOs. The subsequent cascade of subprime lender failures created liquidity contagion that reached the upper tiers of the banking system. Two major investment banks, Lehman Brothers and Bear Stearns, collapsed under the weight of their exposure to subprime debt, and more than 450 banks failed over the next five years.
+4
+ Several major banks were on the brink of failure and were rescued by a taxpayer-funded bailout.
+
+What Are the Different Types of Financial Markets?
+Some examples of financial markets and their roles include the stock market, the bond market, forex, commodities, and the real estate market, among others. Financial markets can also be broken down into capital markets, money markets, primary vs. secondary markets, and listed vs. OTC markets.
+
+How Do Financial Markets Work?
+Despite covering many different asset classes and having various structures and regulations, all financial markets work essentially by bringing together buyers and sellers in some asset or contract and allowing them to trade with one another. This is often done through an auction or price-discovery mechanism.
+
+What Are the Main Functions of Financial Markets?
+Financial markets exist for several reasons, but the most fundamental function is to allow for the efficient allocation of capital and assets in a financial economy. By allowing a free market for the flow of capital, financial obligations, and money, the financial markets make the global economy run more smoothly while allowing investors to participate in capital gains over time.
+
+The Bottom Line
+Financial markets provide liquidity, capital, and participation that are essential for economic growth and stability. Without financial markets, capital could not be allocated efficiently, and economic activity such as commerce and trade, investments, and growth opportunities would be greatly diminished.
+
+Many players make markets an essential part of the economy—firms use stock and bond markets to raise capital from investors. Speculators look to various asset classes to make directional bets on future prices. At the same time, hedgers use derivatives markets to mitigate various risks, and arbitrageurs seek to take advantage of mispricings or anomalies observed across various markets. Brokers often act as mediators that bring buyers and sellers together, earning a commission or fee for their services.

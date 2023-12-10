@@ -1,0 +1,88 @@
+Artificial intelligence (AI) vs. machine learning (ML)
+You might hear people use artificial intelligence (AI) and machine learning (ML) interchangeably, especially when discussing big data, predictive analytics, and other digital transformation topics. The confusion is understandable as artificial intelligence and machine learning are closely related. However, these trending technologies differ in several ways, including scope, applications, and more.  
+
+Increasingly AI and ML products have proliferated as businesses use them to process and analyze immense volumes of data, drive better decision-making, generate recommendations and insights in real time, and create accurate forecasts and predictions. 
+
+So, what exactly is the difference when it comes to ML vs. AI, how are ML and AI connected, and what do these terms mean in practice for organizations today? 
+
+We’ll break down AI vs. ML and explore how these two innovative concepts are related and what makes them different from each other.
+
+Get started for free
+What is artificial intelligence?
+Artificial intelligence is a broad field, which refers to the use of technologies to build machines and computers that have the ability to mimic cognitive functions associated with human intelligence, such as being able to see, understand, and respond to spoken or written language, analyze data, make recommendations, and more. 
+
+Although artificial intelligence is often thought of as a system in itself, it is a set of technologies implemented in a system to enable it to reason, learn, and act to solve a complex problem. 
+
+What is machine learning?
+Machine learning is a subset of artificial intelligence that automatically enables a machine or system to learn and improve from experience. Instead of explicit programming, machine learning uses algorithms to analyze large amounts of data, learn from the insights, and then make informed decisions. 
+
+Machine learning algorithms improve performance over time as they are trained—exposed to more data. Machine learning models are the output, or what the program learns from running an algorithm on training data. The more data used, the better the model will get. 
+
+How are AI and ML connected?
+While AI and ML are not quite the same thing, they are closely connected. The simplest way to understand how AI and ML relate to each other is:  
+
+AI is the broader concept of enabling a machine or system to sense, reason, act, or adapt like a human 
+ML is an application of AI that allows machines to extract knowledge from data and learn from it autonomously
+One helpful way to remember the difference between machine learning and artificial intelligence is to imagine them as umbrella categories. Artificial intelligence is the overarching term that covers a wide variety of specific approaches and algorithms. Machine learning sits under that umbrella, but so do other major subfields, such as deep learning, robotics, expert systems, and natural language processing.
+
+Differences between AI and ML
+Now that you understand how they are connected, what is the main difference between AI and ML? 
+While artificial intelligence encompasses the idea of a machine that can mimic human intelligence, machine learning does not. Machine learning aims to teach a machine how to perform a specific task and provide accurate results by identifying patterns. 
+
+Let’s say you ask your Google Nest device, “How long is my commute today?” In this case, you ask a machine a question and receive an answer about the estimated time it will take you to drive to your office. Here, the overall goal is for the device to perform a task successfully—a task that you would generally have to do yourself in a real-world environment (for example, research your commute time). 
+
+In the context of this example, the goal of using ML in the overall system is not to enable it to perform a task. For instance, you might train algorithms to analyze live transit and traffic data to forecast the volume and density of traffic flow. However, the scope is limited to identifying patterns, how accurate the prediction was, and learning from the data to maximize performance for that specific task.
+
+Artificial intelligence
+AI allows a machine to simulate human intelligence to solve problems
+The goal is to develop an intelligent system that can perform complex tasks
+We build systems that can solve complex tasks like a human
+AI has a wide scope of applications
+AI uses technologies in a system so that it mimics human decision-making
+AI works with all types of data: structured, semi-structured, and unstructured
+AI systems use logic and decision trees to learn, reason, and self-correct
+Machine learning
+ML allows a machine to learn autonomously from past data
+The goal is to build machines that can learn from data to increase the accuracy of the output
+We train machines with data to perform specific tasks and deliver accurate results
+Machine learning has a limited scope of applications
+ML uses self-learning algorithms to produce predictive models
+ML can only use structured and semi-structured data
+ML systems rely on statistical models to learn and can self-correct when provided with new data
+Benefits of using AI and ML together
+AI and ML bring powerful benefits to organizations of all shapes and sizes, with new possibilities constantly emerging. In particular, as the amount of data grows in size and complexity, automated and intelligent systems are becoming vital to helping companies automate tasks, unlock value, and generate actionable insights to achieve better outcomes. 
+
+Here are some of the business benefits of using artificial intelligence and machine learning: 
+
+Wider data ranges
+Analyzing and activating a wider range of unstructured and structured data sources.
+
+Faster decision-making
+Improving data integrity, accelerating data processing, and reducing human error for more informed, faster decision-making.
+
+Efficiency
+Increasing operational efficiency and reducing costs.
+
+Analytic integration
+Empowering employees by integrating predictive analytics and insights into business reporting and applications.
+
+Applications of AI and ML
+Artificial intelligence and machine learning can be applied in many ways, allowing organizations to automate repetitive or manual processes that help drive informed decision-making.
+Companies across industries are using AI and ML in various ways to transform how they work and do business. Incorporating AI and ML capabilities into their strategies and systems helps organizations rethink how they use their data and available resources, drive productivity and efficiency, enhance data-driven decision-making through predictive analytics, and improve customer and employee experiences.   
+
+Here are some of the most common applications of AI and ML: 
+
+Healthcare and life sciences
+Patient health record analysis and insights, outcome forecasting and modeling, accelerated drug development, augmented diagnostics, patient monitoring, and information extraction from clinical notes.
+
+Manufacturing
+Production machine monitoring, predictive maintenance, IoT analytics, and operational efficiency.
+
+Ecommerce and retail
+Inventory and supply chain optimization, demand forecasting, visual search, personalized offers and experiences, and recommendation engines.
+
+Financial services
+Risk assessment and analysis, fraud detection, automated trading, and service processing optimization.
+
+Telecommunications
+Intelligent networks and network optimization, predictive maintenance, business process automation, upgrade planning, and capacity forecasting.

@@ -1,0 +1,1030 @@
+doc_id,doc_filename,doc_contents
+2d28937a-69ae-4fc4-8543-1b9b5498fab2,AI_1.txt,"Artificial intelligence (AI) vs. machine learning (ML)
+You might hear people use artificial intelligence (AI) and machine learning (ML) interchangeably, especially when discussing big data, predictive analytics, and other digital transformation topics. The confusion is understandable as artificial intelligence and machine learning are closely related. However, these trending technologies differ in several ways, including scope, applications, and more.  
+
+Increasingly AI and ML products have proliferated as businesses use them to process and analyze immense volumes of data, drive better decision-making, generate recommendations and insights in real time, and create accurate forecasts and predictions. 
+
+So, what exactly is the difference when it comes to ML vs. AI, how are ML and AI connected, and what do these terms mean in practice for organizations today? 
+
+We’ll break down AI vs. ML and explore how these two innovative concepts are related and what makes them different from each other.
+
+Get started for free
+What is artificial intelligence?
+Artificial intelligence is a broad field, which refers to the use of technologies to build machines and computers that have the ability to mimic cognitive functions associated with human intelligence, such as being able to see, understand, and respond to spoken or written language, analyze data, make recommendations, and more. 
+
+Although artificial intelligence is often thought of as a system in itself, it is a set of technologies implemented in a system to enable it to reason, learn, and act to solve a complex problem. 
+
+What is machine learning?
+Machine learning is a subset of artificial intelligence that automatically enables a machine or system to learn and improve from experience. Instead of explicit programming, machine learning uses algorithms to analyze large amounts of data, learn from the insights, and then make informed decisions. 
+
+Machine learning algorithms improve performance over time as they are trained—exposed to more data. Machine learning models are the output, or what the program learns from running an algorithm on training data. The more data used, the better the model will get. 
+
+How are AI and ML connected?
+While AI and ML are not quite the same thing, they are closely connected. The simplest way to understand how AI and ML relate to each other is:  
+
+AI is the broader concept of enabling a machine or system to sense, reason, act, or adapt like a human 
+ML is an application of AI that allows machines to extract knowledge from data and learn from it autonomously
+One helpful way to remember the difference between machine learning and artificial intelligence is to imagine them as umbrella categories. Artificial intelligence is the overarching term that covers a wide variety of specific approaches and algorithms. Machine learning sits under that umbrella, but so do other major subfields, such as deep learning, robotics, expert systems, and natural language processing.
+
+Differences between AI and ML
+Now that you understand how they are connected, what is the main difference between AI and ML? 
+While artificial intelligence encompasses the idea of a machine that can mimic human intelligence, machine learning does not. Machine learning aims to teach a machine how to perform a specific task and provide accurate results by identifying patterns. 
+
+Let’s say you ask your Google Nest device, “How long is my commute today?” In this case, you ask a machine a question and receive an answer about the estimated time it will take you to drive to your office. Here, the overall goal is for the device to perform a task successfully—a task that you would generally have to do yourself in a real-world environment (for example, research your commute time). 
+
+In the context of this example, the goal of using ML in the overall system is not to enable it to perform a task. For instance, you might train algorithms to analyze live transit and traffic data to forecast the volume and density of traffic flow. However, the scope is limited to identifying patterns, how accurate the prediction was, and learning from the data to maximize performance for that specific task.
+
+Artificial intelligence
+AI allows a machine to simulate human intelligence to solve problems
+The goal is to develop an intelligent system that can perform complex tasks
+We build systems that can solve complex tasks like a human
+AI has a wide scope of applications
+AI uses technologies in a system so that it mimics human decision-making
+AI works with all types of data: structured, semi-structured, and unstructured
+AI systems use logic and decision trees to learn, reason, and self-correct
+Machine learning
+ML allows a machine to learn autonomously from past data
+The goal is to build machines that can learn from data to increase the accuracy of the output
+We train machines with data to perform specific tasks and deliver accurate results
+Machine learning has a limited scope of applications
+ML uses self-learning algorithms to produce predictive models
+ML can only use structured and semi-structured data
+ML systems rely on statistical models to learn and can self-correct when provided with new data
+Benefits of using AI and ML together
+AI and ML bring powerful benefits to organizations of all shapes and sizes, with new possibilities constantly emerging. In particular, as the amount of data grows in size and complexity, automated and intelligent systems are becoming vital to helping companies automate tasks, unlock value, and generate actionable insights to achieve better outcomes. 
+
+Here are some of the business benefits of using artificial intelligence and machine learning: 
+
+Wider data ranges
+Analyzing and activating a wider range of unstructured and structured data sources.
+
+Faster decision-making
+Improving data integrity, accelerating data processing, and reducing human error for more informed, faster decision-making.
+
+Efficiency
+Increasing operational efficiency and reducing costs.
+
+Analytic integration
+Empowering employees by integrating predictive analytics and insights into business reporting and applications.
+
+Applications of AI and ML
+Artificial intelligence and machine learning can be applied in many ways, allowing organizations to automate repetitive or manual processes that help drive informed decision-making.
+Companies across industries are using AI and ML in various ways to transform how they work and do business. Incorporating AI and ML capabilities into their strategies and systems helps organizations rethink how they use their data and available resources, drive productivity and efficiency, enhance data-driven decision-making through predictive analytics, and improve customer and employee experiences.   
+
+Here are some of the most common applications of AI and ML: 
+
+Healthcare and life sciences
+Patient health record analysis and insights, outcome forecasting and modeling, accelerated drug development, augmented diagnostics, patient monitoring, and information extraction from clinical notes.
+
+Manufacturing
+Production machine monitoring, predictive maintenance, IoT analytics, and operational efficiency.
+
+Ecommerce and retail
+Inventory and supply chain optimization, demand forecasting, visual search, personalized offers and experiences, and recommendation engines.
+
+Financial services
+Risk assessment and analysis, fraud detection, automated trading, and service processing optimization.
+
+Telecommunications
+Intelligent networks and network optimization, predictive maintenance, business process automation, upgrade planning, and capacity forecasting."
+ae79310b-1c53-4784-b813-08537e483b7e,ClimateChange_1.txt,"What Is Climate Change?
+Climate change refers to long-term shifts in temperatures and weather patterns. Such shifts can be natural, due to changes in the sun’s activity or large volcanic eruptions. But since the 1800s, human activities have been the main driver of climate change, primarily due to the burning of fossil fuels like coal, oil and gas.
+
+Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun’s heat and raising temperatures.
+
+The main greenhouse gases that are causing climate change include carbon dioxide and methane. These come from using gasoline for driving a car or coal for heating a building, for example. Clearing land and cutting down forests can also release carbon dioxide. Agriculture, oil and gas operations are major sources of methane emissions. Energy, industry, transport, buildings, agriculture and land use are among the main sectors causing greenhouse gases.
+
+ 
+
+The Earth is feeling the heat.
+ 
+
+Humans are responsible for global warming
+Climate scientists have showed that humans are responsible for virtually all global heating over the last 200 years. Human activities like the ones mentioned above are causing greenhouse gases that are warming the world faster than at any time in at least the last two thousand years.
+
+The average temperature of the Earth’s surface is now about 1.1°C warmer than it was in the late 1800s (before the industrial revolution) and warmer than at any time in the last 100,000 years. The last decade (2011-2020) was the warmest on record, and each of the last four decades has been warmer than any previous decade since 1850.
+
+Many people think climate change mainly means warmer temperatures. But temperature rise is only the beginning of the story. Because the Earth is a system, where everything is connected, changes in one area can influence changes in all others.
+
+The consequences of climate change now include, among others, intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms and declining biodiversity.
+
+ 
+
+The Earth is asking for help.
+ 
+
+People are experiencing climate change in diverse ways
+Climate change can affect our health, ability to grow food, housing, safety and work. Some of us are already more vulnerable to climate impacts, such as people living in small island nations and other developing countries. Conditions like sea-level rise and saltwater intrusion have advanced to the point where whole communities have had to relocate, and protracted droughts are putting people at risk of famine. In the future, the number of people displaced by weather-related events is expected to rise.
+
+ 
+
+Every increase in global warming matters
+In a series of UN reports, thousands of scientists and government reviewers agreed that limiting global temperature rise to no more than 1.5°C would help us avoid the worst climate impacts and maintain a livable climate. Yet policies currently in place point to a 3°C temperature rise by the end of the century.
+
+The emissions that cause climate change come from every part of the world and affect everyone, but some countries produce much more than others.The seven biggest emitters alone (China, the United States of America, India, the European Union, Indonesia, the Russian Federation, and Brazil) accounted for about half of all global greenhouse gas emissions in 2020.
+
+Everyone must take climate action, but people and countries creating more of the problem have a greater responsibility to act first.
+
+ 
+
+Photocomposition: an image of the world globe looking worried to a thermometer with raising temperatures
+ 
+
+We face a huge challenge but already know many solutions
+Many climate change solutions can deliver economic benefits while improving our lives and protecting the environment. We also have global frameworks and agreements to guide progress, such as the Sustainable Development Goals, the UN Framework Convention on Climate Change and the Paris Agreement. Three broad categories of action are: cutting emissions, adapting to climate impacts and financing required adjustments.
+
+Switching energy systems from fossil fuels to renewables like solar or wind will reduce the emissions driving climate change. But we have to act now. While a growing number of countries is committing to net zero emissions by 2050, emissions must be cut in half by 2030 to keep warming below 1.5°C. Achieving this means huge declines in the use of coal, oil and gas: over two-thirds of today’s proven reserves of fossil fuels need to be kept in the ground by 2050 in order to prevent catastrophic levels of climate change.
+
+ 
+
+Growing coalition
+ 
+
+Adapting to climate consequences protects people, homes, businesses, livelihoods, infrastructure and natural ecosystems. It covers current impacts and those likely in the future. Adaptation will be required everywhere, but must be prioritized now for the most vulnerable people with the fewest resources to cope with climate hazards. The rate of return can be high. Early warning systems for disasters, for instance, save lives and property, and can deliver benefits up to 10 times the initial cost.
+
+ 
+
+We can pay the bill now, or pay dearly in the future
+Climate action requires significant financial investments by governments and businesses. But climate inaction is vastly more expensive. One critical step is for industrialized countries to fulfil their commitment to provide $100 billion a year to developing countries so they can adapt and move towards greener economies."
+a97167de-a09a-4d43-92a2-efa489a237d7,CulturalDiversityAndTraditions_1.txt,"Cultural diversity
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+
+37th General Assembly of UNESCO in 2013, Paris
+Cultural diversity is the quality of diverse or different cultures, as opposed to monoculture. It has a variety of meanings in different contexts, sometimes applying to cultural products like art works in museums or entertainment available online, and sometimes applying to the variety of human cultures or traditions in a specific region, or in the world as a whole. It can also refer to the inclusion of different cultural perspectives in an organization or society.
+
+Cultural diversity can be affected by political factors such as censorship or the protection of the rights of artists, and by economic factors such as free trade or protectionism in the market for cultural goods. Since the middle of the 20th century, there has been a concerted international effort to protect cultural diversity, involving the United Nations Educational, Scientific and Cultural Organization (UNESCO) and its member states. This involves action at international, national, and local levels. Cultural diversity can also be promoted by individual citizens in the ways they choose to express or experience culture.
+
+Characteristics
+
+Harmony Day is dedicated to celebrating Australia's cultural diversity.
+In the context of national and international efforts to promote or preserve cultural diversity, the term applies to five overlapping domains:
+
+economic: the availability of diverse cultural goods or services,
+artistic: the variety of artistic genres and styles that coexist,
+participatory: the participation of diverse ethnic groups in a nation's culture,
+heritage: the diversity of cultural traditions that are represented in heritage institutions such as museums, and
+multicultural: the variety of ethnic groups and their traditions that are visible in a country.
+Of these five, the economic meaning has come to dominate in international negotiations. Nations have principally looked to protect cultural diversity by strengthening the ability of their domestic cultural industries to sell goods or services.[1] Since the 1990s, UNESCO has mainly used ""cultural diversity"" for the international aspects of diversity, preferring the term ""cultural pluralism"" for diversity within a country.[2]
+
+Governments and international bodies use ""cultural diversity"" in both a broad and a narrow sense. The broad meaning takes its inspiration from anthropology.[3] It includes lifestyles, value systems, traditions, and beliefs in addition to creative works. It emphasises an ongoing process of interaction and dialogue between cultures.[4][5] This meaning has been promoted to the international community by UNESCO, since the 2001 Universal Declaration on Cultural Diversity. In practice, governments use a narrower, more traditional, meaning that focuses on the economic domain mentioned above.[6]
+
+In the international legal context, cultural diversity has been described as analogous to biodiversity.[7] The General Conference of UNESCO took this position in 2001, asserting in Article 1 of the Universal Declaration on Cultural Diversity that ""cultural diversity is as necessary for humankind as biodiversity is for nature.""[8] The authors John Cavanagh and Jerry Mander took this analogy further, describing cultural diversity as ""a sort of cultural gene pool to spur innovation toward ever higher levels of social, intellectual and spiritual accomplishment.""[9]
+
+Quantification
+
+Countries ranked by ethnic and cultural diversity level[10]
+Cultural diversity is difficult to quantify. One measure of diversity is the number of identifiable cultures. The United Nations Department of Economic and Social Affairs reports that, although their numbers are relatively small, indigenous peoples account for 5,000 distinct cultures and thus the majority of the world's cultural diversity.[11][9]
+
+Another aspect of cultural diversity is measured by counting the number of languages spoken in a region or in the world as a whole. By this measure, the world's cultural diversity is rapidly declining. Research carried out in the 1990s by David Crystal suggested that at that time, on average, one language was falling into disuse every two weeks. He calculated that if that rate of the language death were to continue, then by the year 2100, more than 90% of the languages currently spoken in the world will have gone extinct.[12]
+
+In 2003, James Fearon of Stanford University published, in the Journal of Economic Growth, a list of countries based on the diversity of ethnicities, languages, and religions.[10]
+
+International legal context
+At the international level, the notion of cultural diversity has been defended by UNESCO since its founding in 1945, through a succession of declarations and legal instruments.[13]
+
+Many of the international legal agreements addressing cultural diversity were focused on intellectual property rights, and thus on tangible cultural expressions that can be bought or sold.[14] The World Heritage List, established in 1972 by UNESCO, mainly listed architectural features and monuments.[15] In the late 20th century, the diplomatic community recognised a need to protect intangible cultural heritage: the traditions, social structures, and skills that support creative expression.[14] International efforts to define and protect this aspect of culture began with the 1989 UNESCO Recommendation on the Safeguarding of Traditional Culture and Folklore. UNESCO's Proclamation of Masterpieces of the Oral and Intangible Heritage of Humanity began in 2001, highlighting specific masterpieces to promote the responsibility of nations to protect intangible cultural heritage.[14] Further proclamations were added in 2003 and 2005, bringing the total number of masterpieces to ninety.[16] In 2001, UNESCO also hosted expert meetings to create a definition of intangible cultural heritage and a more legally binding treaty to protect it, resulting in the Convention for the Safeguarding of the Intangible Cultural Heritage. This was passed in 2003 and came into force in 2006. One result of this convention was the 2008 creation of UNESCO Representative List of Intangible Heritage, which incorporated the masterpieces from the 2001, 2003, and 2005 proclamations.[14]
+
+The first international instrument enshrining the value of cultural diversity and intercultural dialogue was the UNESCO Universal Declaration on Cultural Diversity, adopted unanimously in 2001.[8] It calls on nations and institutions to work together for the preservation of culture in all its forms, and for policies that help to share ideas across cultures and inspire new forms of creativity. UNESCO no longer interpreted ""culture"" in terms of artistic masterpieces. With the Universal Declaration, it adopted a more expansive understanding based on anthropology. This defined cultural diversity as ""the set of distinctive spiritual, material, intellectual, and emotional features of society or a social group"", including lifestyles, value systems, traditions, and beliefs.[17] The twelve articles of the Universal Declaration were published with an action plan for ways to promote cultural diversity. This action plan connected cultural diversity explicitly to human rights including freedom of expression, freedom of movement, and protection of indigenous knowledge.[17] The declaration identifies cultural diversity as a source of innovation and creativity, as well as a driver of both economic development and personal development.[18][19] UNESCO made a submission to a 2002 UN report on Human Rights and Cultural Diversity, quoting part of the declaration to emphasise that cultural diversity must not be used to infringe the rights of minorities and that cultural diversity requires the protection of individual freedoms.[20]
+
+Citing the Universal Declaration, the United Nations General Assembly established the World Day for Cultural Diversity for Dialogue and Development in December 2002. This continues to be celebrated on May 21 each year.[21][22]
+
+The Convention for the Safeguarding of the Intangible Cultural Heritage drew attention to increasing cultural homogenization by economic globalization and motivated UNESCO to negotiate a treaty protecting cultural diversity.[14] The resulting Convention on the Protection and Promotion of the Diversity of Cultural Expressions (the ""2005 Convention"") was adopted in October 2005.[23] This was the first international treaty to establish rights and obligations specifically relating to culture.[24] The convention defines cultural diversity as referring to the many ways in which cultures find expression. These expressions are passed on within and among groups and societies.[25] The convention builds on the 2001 declaration by naming linguistic diversity as a fundamental part of cultural diversity and stating that cultural diversity depends on the free flow of ideas.[26] To date, 151 signatory states, as well as the European Union, have registered their ratification of the convention, or a legally equivalent process.[27]
+
+The 2005 Convention created an International Fund for Cultural Diversity (IFCD), funded by voluntary contributions. This makes funding available to developing countries that are parties to the convention for specific activities that develop their cultural policies and cultural industries.[28] As of April 2023, UNESCO reports that 140 projects in 69 developing countries have been carried out with funding from the IFCD.[29]
+
+Factors
+Cultural policy scholar Johnathan Vickery has observed that cultural diversity, like biological diversity, is continually under threat from various factors. These threats often come from other cultural expressions, as when imported entertainment undermines interest in a nation's own culture. Other examples he mentions include religious revivals and modern Western education systems.[30] Factors that promote a country's cultural diversity include migration and a nation's openness to discussing and celebrating cultural differences (which is itself an aspect of culture).[31]
+
+The actions of governments, international bodies, and civil society (meaning non-governmental and cultural sector organisations) can promote or restrict cultural diversity. As part of the international effort to promote and preserve cultural diversity, the 2005 Convention established processes to monitor progress towards a favourable environment, including global reports every four years and national reports from individual states.[32]
+
+Imperialism and colonialism
+Main article: Cultural imperialism
+Colonialism has frequently involved an intentional destruction of cultural diversity, when the colonising powers use education, media, and violence to replace the languages, religions, and cultural values of the colonised people with their own.[9][33][34] This process of forced assimilation has been used many times in history, particularly by the European colonial powers from the 18th to 20th centuries, taking the form of forced conversion to the coloniser's religion, privatisation of community property, and replacement of systems of work.[35][36] The protection of indigenous peoples' rights to maintain their own languages, religions, and culture has been enshrined in treaties including the 1965 International Covenant on Civil and Political Rights and the 1989 UN Convention on the Rights of the Child.[37]
+
+Artistic freedom
+Artistic freedom, as defined by the 2005 Convention, includes the freedom of artists to work without government interference, and also the freedom of citizens to access diverse cultural content.[38] Governments can repress these freedoms through censorship or surveillance of artists, or can choose to actively protect artists and their free expression. According to the 2017 and 2022 global reports, attacks against artists — including prosecution, imprisonment, or even killing — have increased in recent years.[38][39] In 2020, 978 cases were reported around the world, compared to 771 in 2019 and 673 in 2018. Musicians are the most threatened group, especially rap musicians, whose lyrics tend to be provocative and politically challenging.[38] While online services have provided new ways for artists to distribute images, music, and video to large audiences, they have brought their own threats to freedom in the form of censorship, surveillance, and trolling.[38] The 2022 global report found that some countries had repealed laws restricting free expression, including blasphemy and defamation laws, but that in practice artistic freedom was not being better monitored or protected.[39]
+
+Mobility of artists and cultural professionals
+
+Average number of countries accessible without visas passport-holders Global North and Global South. 2017 (source: Henley Passport Index)
+Mobility restrictions present challenges to professionals in the cultural and creative industries, specifically to those from the Global South.[40] Artists and cultural professionals need to travel to perform to new audiences or to attend a residency or to engage in networking. Their ability to do so depends on their country of origin; the holder of a German passport can travel to 176 countries without a visa while for an Afghan passport the number of countries is 24.[40] Travel restrictions, including difficulties in obtaining visas, often impede artists from the Global South to participate in art biennales or film festivals, even when invited to receive an award or to promote their works.[41] The 2022 global report found that, despite governments and civil society organisations taking this inequality more seriously, concrete improvements are lacking. Thus, the ability of artists from the Global South to reach audiences in the Global North ""remains extremely weak"".[42]
+
+Governance of culture
+As well as protecting free expression and free movement, governments can promote cultural diversity by recognising and enforcing the rights of artists. The working conditions of artists are affected by their rights to organise labor unions, to workplace safety, and to social security protections for times when their work does not produce income. These economic and social rights are formally recognised by the International Covenant on Economic, Social and Cultural Rights passed by the UN in 1966 and by the 1980 Recommendation concerning the Status of the Artist adopted by UNESCO in 1980.[38] Social security in particular allows a more diverse range of citizens to take part in artistic activities, because without it, financially insecure people are discouraged from working in a field with unstable income.[38]
+
+Gender equality in cultural and creative industries
+
+Proportion of female artists in ten recent global biennales, 2017 (source: BOP Consulting)
+A gender gap persists worldwide concerning equal pay, access to funding and prices charged for creative works. Consequently, women remain under-represented in key creative roles and are outnumbered in decision-making positions.[38][43] As of 2018, women made up only 34% of Ministers for Culture (compared to 24% in 2005) and only 31% of national arts program directors. Generally, women are better represented in specific cultural fields such as arts education and training (60%), book publishing and press (54%), audiovisual and interactive media (26%), as well as design and creative services (33%).[44] The 2022 global report found that cultural industries were increasingly making gender equality a priority, but that actual progress was slow. Though 48.1% of the work in cultural and entertainment sectors is done by women, the report concluded that they are still under-represented in leadership positions, get less public funding, and get less recognition for their work.[45]
+
+Trade and investment in cultural goods and services
+Between 2015 and 2017, at least eight bilateral and regional free trade agreements have introduced cultural clauses or list of commitments that promote the objectives and principles of the 2005 Convention. Despite the lack of the promotion of the objectives and principles of the 2005 Convention with regard to the negotiation of mega-regional partnership agreements, some parties to the Trans Pacific Partnership (TTP) have succeeded in introducing cultural reservations to protect and promote the diversity of cultural expressions.[38] The growth of online digital content has increased the diversity of culture that a person can get immediate access to, but also increased the threat to cultural diversity by making it easier for a small number of large companies to flood markets with their cultural products. Digital delivery of culture has also given a great deal of power to companies in the technology sector.[46]
+
+Cultural platforms
+Organisations that promote access to culture can reflect diversity in what they choose to host or to exclude. Google Arts and Culture and Europeana are among the platforms who state a commitment to promoting cultural diversity. For Google Arts and Culture, diversity implies ""working with communities that have historically been left out of the mainstream cultural narrative"" while Europeana acknowledges that ""stories told with/by cultural heritage items have not historically been representative of the population, and so we strive to share lesser-told stories from underrepresented communities.""[47][48]
+
+Individual choices
+Individual citizens can experience and promote cultural diversity through their own choices, including the choice to share their own culture. The ""Do One Thing for Diversity and Inclusion"" campaign has been run annually since 2011 by the United Nations Alliance of Civilizations (UNAOC) as a way to commemorate the World Day for Cultural Diversity. It encourages people to explore the music, literature, art, and traditions of unfamiliar cultures and to share their own culture with strangers.[49][50]
+
+The American lawyer Juliette Passer describes the UNESCO Universal Declaration on Cultural Diversity as prompting each individual to consider their own and others' diverse identities:
+
+""We need social and educational experiences plus reflection on the experience to go beyond reliance on stereotypes. The more we interact with diverse others and mindfully reflect on the experience, the more we can improve our competency with differences.""[8]
+
+National and local initiatives
+In September 2002, the city of Porto Alegre in Brazil organized a world meeting for culture, bringing together mayors and technical directors of culture from different cities of the world, with observers from civil society.[51] The cities of Porto Alegre and Barcelona have proposed the drafting of a reference document for the development of local cultural policies, inspired by Agenda 21, created in 1992 for the environment. The Culture 21 was thus designed with the aim of including cultural diversity at the local level. The document was approved on May 8, 2004 during the first edition of the Universal Forum of Cultures in Barcelona.[52][verification needed]"
+b58716b5-0ef5-4967-8cfa-96d71ce04f3e,FinancialMarkets_1.txt,"Financial Markets: Role in the Economy, Importance, Types, and Examples
+By ADAM HAYES Updated October 19, 2023
+Reviewed by CIERRA MURRY
+Fact checked by KIRSTEN ROHRS SCHMITT
+What Are Financial Markets?
+Financial markets refer broadly to any marketplace where securities trading occurs, including the stock market, bond market, forex market, and derivatives market. Financial markets are vital to the smooth operation of capitalist economies.
+
+KEY TAKEAWAYS
+Financial markets refer broadly to any marketplace where the trading of securities occurs.
+There are many kinds of financial markets, including (but not limited to) forex, money, stock, and bond markets.
+These markets may include assets or securities that are either listed on regulated exchanges or trade over-the-counter (OTC).
+Financial markets trade in all types of securities and are critical to the smooth operation of a capitalist society.
+When financial markets fail, economic disruption, including recession and rising unemployment, can result.
+Financial Markets
+Investopedia / Theresa Chiechi
+
+Understanding the Financial Markets
+Financial markets play a vital role in facilitating the smooth operation of capitalist economies by allocating resources and creating liquidity for businesses and entrepreneurs. The markets make it easy for buyers and sellers to trade their financial holdings. Financial markets create securities products that provide a return for those with excess funds (investors/lenders) and make these funds available to those needing additional money (borrowers). 
+
+The stock market is just one type of financial market. Financial markets are created when people buy and sell financial instruments, including equities, bonds, currencies, and derivatives. Financial markets rely heavily on informational transparency to ensure that the markets set prices that are efficient and appropriate.
+
+Some financial markets are small with little activity, and others, like the New York Stock Exchange (NYSE), trade trillions of dollars in securities daily. The equities (stock) market is a financial market that enables investors to buy and sell shares of publicly traded companies. The primary stock market is where new issues of stocks are sold. Any subsequent trading of stocks occurs in the secondary market, where investors buy and sell securities they already own.
+
+
+ Prices of securities traded in the financial markets may not necessarily reflect their intrinsic value.
+Types of Financial Markets
+There are several different types of markets. Each one focuses on the types and classes of instruments available on it.
+
+Stock Markets
+Perhaps the most ubiquitous of financial markets are stock markets. These are venues where companies list their shares, which are bought and sold by traders and investors. Stock markets, or equities markets, are used by companies to raise capital and by investors to search for returns.
+
+Stocks may be traded on listed exchanges, such as the New York Stock Exchange (NYSE), Nasdaq, or the over-the-counter (OTC) market. Most stock trading is done via regulated exchanges, which plays an important economic role because it is another way for money to flow through the economy.
+
+Typical participants in a stock market include (both retail and institutional) investors, traders, market makers (MMs), and specialists who maintain liquidity and provide two-sided markets. Brokers are third parties that facilitate trades between buyers and sellers but who do not take an actual position in a stock.
+
+Over-the-Counter Markets
+An over-the-counter (OTC) market is a decentralized market—meaning it does not have physical locations, and trading is conducted electronically—in which market participants trade securities directly (meaning without a broker). While OTC markets may handle trading in certain stocks (e.g., smaller or riskier companies that do not meet the listing criteria of exchanges), most stock trading is done via exchanges. Certain derivatives markets, however, are exclusively OTC, making up an essential segment of the financial markets. Broadly speaking, OTC markets and the transactions that occur in them are far less regulated, less liquid, and more opaque.
+
+Bond Markets
+A bond is a security in which an investor loans money for a defined period at a pre-established interest rate. You may think of a bond as an agreement between the lender and borrower containing the loan's details and its payments. Bonds are issued by corporations as well as by municipalities, states, and sovereign governments to finance projects and operations. For example, the bond market sells securities such as notes and bills issued by the United States Treasury. The bond market is also called the debt, credit, or fixed-income market.
+
+Money Markets
+Typically, the money markets trade in products with highly liquid short-term maturities (less than one year) and are characterized by a high degree of safety and a relatively lower interest return than other markets.
+
+At the wholesale level, the money markets involve large-volume trades between institutions and traders. At the retail level, they include money market mutual funds bought by individual investors and money market accounts opened by bank customers. Individuals may also invest in the money markets by purchasing short-term certificates of deposit (CDs), municipal notes, or U.S. Treasury bills, among other examples.
+
+Derivatives Markets
+A derivative is a contract between two or more parties whose value is based on an agreed-upon underlying financial asset (like a security) or set of assets (like an index). Rather than trading stocks directly, a derivatives market trades in futures and options contracts and other advanced financial products that derive their value from underlying instruments like bonds, commodities, currencies, interest rates, market indexes, and stocks.
+
+Futures markets are where futures contracts are listed and traded. Unlike forwards, which trade OTC, futures markets utilize standardized contract specifications, are well-regulated, and use clearinghouses to settle and confirm trades. Options markets, such as the Chicago Board Options Exchange (Cboe), similarly list and regulate options contracts. Both futures and options exchanges may list contracts on various asset classes, such as equities, fixed-income securities, commodities, and so on.
+
+Forex Market
+The forex (foreign exchange) market is where participants can buy, sell, hedge, and speculate on the exchange rates between currency pairs. The forex market is the most liquid market in the world, as cash is the most liquid of assets. The currency market handles more than $7.5 trillion in daily transactions, more than the futures and equity markets combined.
+1
+
+As with the OTC markets, the forex market is also decentralized and consists of a global network of computers and brokers worldwide. The forex market is made up of banks, commercial companies, central banks, investment management firms, hedge funds, and retail forex brokers and investors.
+
+Commodities Markets
+Commodities markets are venues where producers and consumers meet to exchange physical commodities such as agricultural products (e.g., corn, livestock, soybeans), energy products (oil, gas, carbon credits), precious metals (gold, silver, platinum), or ""soft"" commodities (such as cotton, coffee, and sugar). These are known as spot commodity markets, where physical goods are exchanged for money.
+
+However, the bulk of trading in these commodities takes place on derivatives markets that utilize spot commodities as the underlying assets. Forwards, futures, and options on commodities are exchanged both OTC and on listed exchanges around the world, such as the Chicago Mercantile Exchange (CME) and the Intercontinental Exchange (ICE).
+
+Cryptocurrency Markets
+Thousands of cryptocurrency tokens are available and traded globally across a patchwork of independent online crypto exchanges. These exchanges host digital wallets for traders to swap one cryptocurrency for another or for fiat monies such as dollars or euros.
+
+Because most crypto exchanges are centralized platforms, users are susceptible to hacks or fraudulent activity. Decentralized exchanges are also available that operate without any central authority. These exchanges allow direct peer-to-peer (P2P) trading without an actual exchange authority to facilitate the transactions. Futures and options trading are also available on major cryptocurrencies.
+
+Examples of Financial Markets
+The above sections make clear that the ""financial markets"" are broad in scope and scale. To give two more concrete examples, we will consider the role of stock markets in bringing a company to IPO and the role of the OTC derivatives market in the 2008-09 financial crisis.
+
+Stock Markets and IPOs
+As a company establishes itself over time and grows, it needs access to additional capital. It will often find itself in need of much larger amounts of capital than it can get from ongoing operations, traditional bank loans, or venture and angel funding. Firms can raise the amount of capital they need by selling shares of itself to the public through an initial public offering (IPO). This changes the company's status from a ""private"" firm whose shares are held by a few shareholders to a publicly traded company whose shares will be subsequently held by public investors.
+
+The IPO also offers early investors in the company an opportunity to cash out part of their stake, often reaping very handsome rewards in the process. Initially, the underwriters usually set the IPO price through their pre-marketing process.
+
+Once the company's shares are listed on a stock exchange, and trading commences, the price of these shares will fluctuate as investors and traders assess and reassess their intrinsic value and the supply and demand for those shares at any given moment.
+
+OTC Derivatives and the 2008 Financial Crisis: MBS and CDOs
+While the 2008-09 financial crisis was caused and made worse by several factors, one factor that has been widely identified is the market for mortgage-backed securities (MBS).
+2
+ These are OTC derivatives where cash flows from individual mortgages are bundled, sliced up, and sold to investors. The crisis resulted from a sequence of events, each with its own trigger—these events culminated in the banking system's near-collapse. It has been argued that the seeds of the crisis were sown as far back as the 1970s with the Community Development Act, which required banks to loosen their credit requirements for lower-income consumers, creating a market for subprime mortgages.
+
+The amount of subprime mortgage debt guaranteed by Freddie Mac and Fannie Mae continued to expand into the early 2000s when the Federal Reserve Board began to cut interest rates drastically to avoid a recession.
+3
+ The combination of loose credit requirements and cheap money spurred a housing boom, which drove speculation, pushing up housing prices and creating a real estate bubble. In the meantime, the investment banks, looking for easy profits in the wake of the dotcom bust and the 2001 recession, created a type of MBS called collateralized debt obligations (CDOs) from the mortgages purchased on the secondary market.
+
+Because subprime mortgages were bundled with prime mortgages, there was no way for investors to understand the risks associated with the product. When the market for CDOs began to heat up, the housing bubble that had been building for several years finally burst. As housing prices fell, subprime borrowers began to default on loans that were worth more than their homes, accelerating the decline in prices.
+
+When investors realized the MBS and CDOs were worthless due to the toxic debt they represented, they attempted to unload the obligations. However, there was no market for the CDOs. The subsequent cascade of subprime lender failures created liquidity contagion that reached the upper tiers of the banking system. Two major investment banks, Lehman Brothers and Bear Stearns, collapsed under the weight of their exposure to subprime debt, and more than 450 banks failed over the next five years.
+4
+ Several major banks were on the brink of failure and were rescued by a taxpayer-funded bailout.
+
+What Are the Different Types of Financial Markets?
+Some examples of financial markets and their roles include the stock market, the bond market, forex, commodities, and the real estate market, among others. Financial markets can also be broken down into capital markets, money markets, primary vs. secondary markets, and listed vs. OTC markets.
+
+How Do Financial Markets Work?
+Despite covering many different asset classes and having various structures and regulations, all financial markets work essentially by bringing together buyers and sellers in some asset or contract and allowing them to trade with one another. This is often done through an auction or price-discovery mechanism.
+
+What Are the Main Functions of Financial Markets?
+Financial markets exist for several reasons, but the most fundamental function is to allow for the efficient allocation of capital and assets in a financial economy. By allowing a free market for the flow of capital, financial obligations, and money, the financial markets make the global economy run more smoothly while allowing investors to participate in capital gains over time.
+
+The Bottom Line
+Financial markets provide liquidity, capital, and participation that are essential for economic growth and stability. Without financial markets, capital could not be allocated efficiently, and economic activity such as commerce and trade, investments, and growth opportunities would be greatly diminished.
+
+Many players make markets an essential part of the economy—firms use stock and bond markets to raise capital from investors. Speculators look to various asset classes to make directional bets on future prices. At the same time, hedgers use derivatives markets to mitigate various risks, and arbitrageurs seek to take advantage of mispricings or anomalies observed across various markets. Brokers often act as mediators that bring buyers and sellers together, earning a commission or fee for their services."
+b78ff432-aa81-4a95-b3ec-9b4d050daaae,HistoryAndHistoricalEvents_1.txt,"Americans Name the 10 Most Significant Historic Events of Their Lifetimes
+9/11, Obama election and the tech revolution among those with greatest impact on the country
+
+Shared experiences define what it means to be an American. The Sept. 11, 2001, terrorist attacks were such a unifying event for modern Americans. Nothing else has come close to being as important or as memorable, according to a new survey conducted by Pew Research Center in association with A+E Networks’ HISTORY.
+
+Roughly three-quarters (76%) of the public include the Sept. 11 terror attacks as one of the 10 events during their lifetime with the greatest impact on the country, according to a national online survey of 2,025 adults conducted June 16-July 4, 2016.
+
+The perceived historic importance of the attacks on New York and the Pentagon, span virtually every traditional demographic divide. Majorities of men and women, Millennials and Baby Boomers, Americans with college degrees and those without a high school diploma rate 9/11 as one of the 10 most historically significant events to occur during their lifetime. And while they seem to agree on little else this election year, the survey finds that more than seven-in-ten Republicans and Democrats name the attacks as one of their top 10 historic events.
+
+The one exception to this pattern is the views of blacks and whites. While the Sept. 11 attacks easily top the list for whites, it shares the top spot with the election of President Barack Obama among blacks. Similarly, the civil rights movement ranks behind only the election of Obama and 9/11 on the list of most significant events for blacks but is absent from the top 10 lifetime events for whites.
+
+Just as striking as the public’s consensus on the impact of 9/11 is the steep drop-off in the proportion of Americans who name other notable events. The election of Obama is the second-most frequently named event, listed by 40% of the public. Every other event is named by fewer than one-quarter of all adults. This includes the changes ushered in by the internet, personal computers, smartphones and other innovations of the tech revolution, the assassination of John F. Kennedy, and the Vietnam War.
+
+To measure how Americans view the importance of recent historic events, Pew Research Center conducted a national, probability-based survey with a representative sample of adults who are members of the GfK KnowledgePanel, a national, probability-based online panel. Pew Research Center received supplemental funding from HISTORY to conduct this survey.
+
+Survey participants were asked to list the 10 historic events that occurred during their lifetimes that they thought “have had the greatest impact on the country.” Respondents were further told that they could name a specific event, a series of related events or any other historic development that had a major influence on American life.
+
+The survey finds that Americans are primarily bound together by their generation and the major events that occurred during their formative years. For the oldest Americans, the Silent and Greatest generations, that unifying event is World War II. For Baby Boomers, the assassination of John F. Kennedy and the Vietnam War are defining moments. For Millennials and Gen Xers, the 9/11 terror attacks and the Obama election leads the list by a greater margin than for other generations.
+
+The top 10 list for these young Americans also varies from the rankings of other generations. For example, the Columbine school shooting makes the top 10 list of Millennials and Gen Xers but not Boomers or the Silent Generation. Millennials also are unique in that five of their top 10 events – the Sandy Hook and Orlando/Pulse nightclub shootings, the death of Osama bin Laden, the Boston Marathon bombing and the Great Recession – appear in no other generation’s top 10 list.
+
+The public’s responses to two other survey questions are even more varied. When asked to name the historic event that made them feel the proudest of their country, the country’s collective response to Sept. 11 led the list, although it is only named by 19% of adults. The Obama election finishes a distant second with 14%, while the moon landing, the killing of bin Laden and the legalization of gay marriage receive single-digit support.
+
+At the same time, the Obama presidency and the presidential campaign of Republican Donald Trump top the rankings of events that most disappoint the country (about one in ten named each), views that are clearly associated with the partisan leanings of respondents.
+
+The remainder of this report explores these results in more detail. The first sections report the similarities and differences in the rankings by generation, race and ethnicity, gender, income, education, political party and region of the country. The following sections examine events Americans consider the most significant to the country and to them personally, and which occurrence makes them the proudest and most disappointed in their country.
+
+Generations experience recent history through the lens of their lifetimes
+
+How to interpret the generational data
+Since the survey question asks respondents to name events that occurred during their lifetimes, a number of these results are highly age-specific and should be interpreted in that light. Younger adults – Millennials and Gen Xers – have experienced fewer historic events simply because they have not lived as long as Baby Boomers or members of the Silent Generation. In other words, the fact that younger Americans don’t list World War II doesn’t mean they believe the Second World War is not a historically important event, it just means it was not an event that occurred in their lifetime.
+
+Like people, generations have distinctive identities that are linked, in part, to singular events that occurred during their members’ formative years. For the oldest Americans, the Silent and Greatest generations,1 that unifying event is World War II. These men and women name the Second World War (44%) near the top of their list of important events, behind only 9/11 (59%).
+
+Similarly, the assassination of John F. Kennedy, the Vietnam War and the Apollo 11 moon landing stand out on Baby Boomers’ list of major historic events that occurred in their lifetimes. Fully 45% of Boomers list the Kennedy assassination as one of their top 10 events, while nearly as many (41%) name the Vietnam War and about a third (35%) name the moon landing (events that also appear on the Silent Generation’s top 10 list).
+
+
+While much of the historic record remains largely to be written for the Millennials and Generation X, two singular historic events already stand out at the top of their lists: Sept. 11 and the election of Barack Obama, the first black president. These younger generations are unique in the high level of consensus of their rankings. Fully 86% of Millennials list 9/11 as a significant event in their lifetimes and 47% name the Obama presidency. Likewise, 79% of Gen Xers name Sept. 11 at the top of their list, while 40% list Obama’s election. Among older generations, a larger selection of historic events garners mention by more than a quarter of their members.
+
+The generations differ primarily in the relative importance they place on Sept. 11 compared with the Obama presidency. The Sept. 11 terrorist attacks are the single most frequently mentioned historic event across all generations. However, the proportions of each generation who share this view differ significantly.
+
+For example, almost nine-in-ten Millennials (86%) name the terror attacks as an important historic event, compared with 59% of those in the Silent Generation or older.
+
+Obama’s election and presidency finishes as the second-most frequently named historic event among Millennials and Gen Xers (47% and 40%, respectively). By contrast, among members of the Silent Generation, Obama’s election (28%) finishes well behind three other historic events: 9/11 (59%), World War II (44%) and the assassination of John F. Kennedy (41%).
+
+Millennials have entered into the stream of history relatively recently, and as a result a number of modern events stand out more to them than to their counterparts in other generations. The wars in Iraq and Afghanistan make the top 10 list of Millennials (24%) and Gen Xers (18%) but barely make the top rankings of Baby Boomers (11%). The U.S. Supreme Court decision legalizing gay marriage makes the top 10 list of Millennials (19%) but is mentioned significantly less often by Gen Xers (10%), Baby Boomers (7%) and members of the Silent Generation (3%). And the Orlando shooting ranks as one of the top historic events that have occurred in the lives of Millennials (17%, compared with 9% of Gen Xers, 7% of Boomers and 6% of Silents).
+
+Millennials are also unique in that five of their top 10 events appear in no other generation’s top 10: the Killing of Osama bin Laden (10%), the Sandy Hook school shootings (7%), the Boston Marathon bombing (7%) and the Great Recession (7%). In addition, the Gulf War and the Challenger disaster are only named by Gen X (15% and 14%, respectively), while the Martin Luther King Jr. assassination (15%) appears on only one generation’s list – Baby Boomers.
+
+To some extent, these findings are predictable: Young Americans simply have not lived long enough to have experienced the same number of history-making events of older adults. Conversely, some events like World War II could only be experienced by one generation, and other events like the Korean War occurred during another generation’s formative years.
+
+Just four events appear on the top 10 lists of all four generations: Sept. 11, the Obama election, the wars in Iraq/Afghanistan and the tech revolution.
+
+For blacks, Obama presidency ranks with 9/11 as most significant event
+Blacks and whites view recent history differently in several key ways, beginning at the very top of the rankings: Blacks are the only demographic group in which any other historic event challenges the prominence of Sept. 11 in importance. Specifically, among blacks, as many people (roughly six-in-ten) named Barack Obama’s election as one of the top 10 historic events of their lifetime as named Sept. 11. Among whites, Obama’s election ranks a distant second (36%) compared with the 80% who name Sept. 11.
+
+
+Not surprisingly, events related to the black struggle for equal rights also have particular relevance to black Americans, though far less so for whites. Among blacks, 18% say the civil rights movement 2 is one of the 10 most significant events to occur during their lifetimes. By contrast, only 8% of whites cite the civil rights movement – and it fails to make their top 10 events list.
+
+Even though the fight for black equality continues today, the civil rights movement is more salient to blacks who lived during the 1960s, when many of the seminal events of the movement occurred. Among blacks ages 45 and older, roughly a third (32%) rate the struggle for equal rights as a touchstone event in their lives.
+
+Eight of the 10 events on the top 10 lists of blacks and whites are the same. Beyond 9/11 and the Obama election, the top 10 lists of blacks and whites include the assassination of John F. Kennedy, the tech revolution, Vietnam, Iraq/Afghanistan wars, the Gulf War and the moon landing.
+
+On six of the eight events that appeared on both lists, significantly smaller proportions of blacks view the event as impactful compared with whites. For example, the tech revolution appears on both top 10 lists and is cited by 28% of whites but only 12% of blacks. Similarly, the Vietnam War is cited by 26% of whites but 11% of blacks.
+
+Much like the civil rights movement, the historical significance of the Martin Luther King Jr. assassination is perceived differently by blacks and whites. Some 14% of black respondents name the civil rights leader’s assassination, compared with only 7% of whites. Further, while the MLK assassination ranks fifth for blacks, it fails to make the top 10 list of historic events for whites.
+
+Meanwhile, the Orlando/Pulse nightclub shooting ranks relatively high among Hispanics (mentioned by 19%). By contrast, 9% of whites and 7% of blacks say this mass shooting is equally momentous. While these data cannot explain why Latinos disproportionately see the Orlando/Pulse mass shooting as historically significant, the circumstances of the attack provide some clues. The attack occurred on the night that Pulse, a popular nightclub, was hosting a “Latin Night” celebration, and counts immediately after the tragedy indicate that 90% of the 49 murder victims were Latino. Also, the shooting victims were predominantly young, and Hispanics as a group are disproportionately young relative to the white and black populations.
+
+Republicans, Democrats have more similarities than differences
+The events in American history named by Republicans and Democrats overlap substantially, and differences between the two parties are primarily a matter of degree. Large majorities of both Republicans (80%) and Democrats (74%) name Sept. 11 as a significant event in their lifetimes. While both parties name the election of Obama as president the second-most often, Democrats are somewhat more likely than Republicans to cite this event (46% vs. 33%).
+
+
+No real gender gap in views of historic events
+When it comes to evaluating recent American history, the new survey data suggest there is little to no gender gap in the way men and women rank the events that shape their times. As is true across generations, Sept. 11 stands out by far as the most impactful event among both men and women, with Obama’s election following as a distant second. Other events are clustered in roughly similar patterns among both sexes, and include the tech revolution, the Vietnam War and the moon landing. These events are named by between 15% and 25% of both male and female respondents.
+
+
+In terms of differences, the recent wars in Iraq and Afghanistan rank higher among men (fifth, at 21%) than among women (eighth at 14%). The Gulf War that took place during the George H.W. Bush administration is named by 12% of men and 8% of women. Women are slightly more likely to name gay marriage (14% do, compared with 8% of men).
+
+Across regions, 9/11 tops the list
+
+Americans living in various parts of the U.S. think remarkably alike about the historic events that have had the greatest impact on the country. Sept. 11 tops each regional list by a large margin, from the attacks’ geographical centers of New York City and outside Washington, D.C., to the West Coast. Fully 80% in the Northeast name the terrorist attacks, as do 77% of those in the Midwest, 75% in the West and 74% in the South.
+
+As has been true across various demographic breaks, the election of Barack Obama as commander in chief ranks a clear but distant second.
+
+The differences from there are limited and subtle; in fact, the percentages for a given event rarely differ between regions by more than 5 points.
+
+Tech plays somewhat differently across education, income
+
+Across education and income levels, Americans are consistent in the events they name as historic, with a few notable variations. As is true across many other demographic breaks, Sept. 11 tops the list of responses in each education level by a wide margin, followed by the election of President Barack Obama.
+
+While the tech revolution makes the top 10 list of respondents in each education level, those with at least some college experience are more likely to cite these advancements than those with a high school diploma or less. A third of those with a college degree and 23% of those with some college experience name the tech revolution, compared with 14% of those with a high school diploma or less. The same pattern occurs across income groups.
+
+Little consensus on proudest or most disappointing moments
+
+Americans were also invited to weigh in on the times and events that made them most proud of their country, and those that left them feeling most disappointed. Perhaps the most significant finding is that there is much less agreement on this front than when it comes to naming events that are historically important, in that no one answer is named by more than a quarter of the public.
+
+To the extent that Americans coalesce upon a point of pride, it is the nation’s response to 9/11, including mentions of the bravery of first responders, the outpouring of genuine sympathy for victims or the way the country united after the terrorist attacks. Overall, 19% cite this as the moment they felt most proud of America.
+
+The election of Barack Obama ranks second, named by 14% as one of the country’s finest moments. Yet nearly as large a share of the public (11%) see his election or presidency as their biggest disappointment. Right there with Obama at the top of the disappointments list is the Republican primary election campaign that led to the nomination of Donald Trump, cited by 10% of respondents (note, the survey was fielded in the summer of 2016).
+
+There are key differences by race and by party identification in some of these responses. Fully 45% of black Americans say they were proudest of their country after Obama’s election, more than five times the share of whites (8%) and more than triple the proportion of Hispanics (12%) who share that view. Democrats are also significantly more likely than Republicans to cite Obama’s election as their proudest moment (23% vs. 3%), a difference only partially explained by the disproportionately large share of blacks who identify with the Democratic Party.
+
+Meanwhile, Republicans (32%) are significantly more likely than Democrats (17%) to say the response to 9/11 is the time in their lives when they felt the proudest of the country. And a significantly larger share of Republicans (23%) than Democrats (2%) rate Obama’s election and presidency as the most disappointing event in their lifetimes.
+
+Methodology
+The analysis in this report is based on a Pew Research Center survey conducted in association with A+E Networks’ HISTORY. The survey was conducted June 16-July 4, 2016, among a sample of 2,025 adults, ages 18 and older. The survey was conducted by the GfK Group using KnowledgePanel, its nationally representative online research panel. KnowledgePanel members are recruited through probability sampling methods and include individuals both with and without internet access. KnowledgePanel provides internet access for those who do not have it and, if needed, a device to access the internet when they join the panel. A combination of random-digit dialing (RDD) and address-based sampling (ABS) methodologies have been used to recruit panel members. The panel includes households with landlines and cellular phones, including those only with cell phones and those without a phone. Both the RDD and ABS samples were provided by Marketing Systems Group (MSG). KnowledgePanel continually recruits new panel members throughout the year to offset panel attrition as people leave the panel. The survey was conducted in English and Spanish.
+
+All active members of the GfK panel were eligible for inclusion in this study. In all, 3,333 panelists were invited to take part in the survey. All sampled members received an initial email to notify them of the survey and provide a link to the survey questionnaire. Additional follow-up reminders were sent to those who had not yet responded as needed.
+
+The final sample of 2,025 adults was weighted using an iterative technique that matches gender and, within gender, age, race/ethnicity, education, region, household income, home ownership status and metropolitan area to parameters from the March 2015 Census Bureau’s Current Population Survey (CPS). In addition, the sample is weighted to match current patterns of internet access from the Current Population Survey. This weight is multiplied by an initial sampling or base weight that corrects for differences in the probability of selection of various segments of GfK’s sample and by a panel weight that adjusts for any biases due to nonresponse and noncoverage at the panel recruitment stage (using all of the parameters described above). Details about the GfK panel-level weights can be found in this document.
+
+Sampling errors and statistical tests of significance take into account the effect of weighting at each of these stages. The margin of sampling error at the 95% confidence level is plus or minus 2.3 percentage points for results based on the full sample (n=2,025). Sample sizes and sampling errors for other subgroups are as follows:
+
+
+In addition to sampling error, one should bear in mind that question wording and practical difficulties in conducting surveys can introduce error or bias into the findings of opinion polls."
+cc1ea0f4-27e6-4c6b-abd1-2d042e6ca6f7,Terrorism_1.txt,"Terrorism
+
+Article
+Talk
+Read
+View source
+View history
+
+Tools
+Page semi-protected
+From Wikipedia, the free encyclopedia
+""Terrorist"" redirects here. For other uses, see Terrorist (disambiguation).
+
+This article needs to be updated. Please help update this article to reflect recent events or newly available information. (August 2021)
+
+United Airlines Flight 175 hits the South Tower of the World Trade Center during the September 11 attacks of 2001 in New York City.
+Part of a series on
+Terrorism
+DefinitionsHistoryIncidents
+By ideology
+Structure
+MethodsTactics
+Terrorist groups
+Adherents
+Response to terrorism
+vte
+Terrorism, in its broadest sense, is the use of intentional violence and fear to achieve political or ideological aims. The term is used in this regard primarily to refer to intentional violence during peacetime or in the context of war against non-combatants (mostly civilians and neutral military personnel).[1] The terms ""terrorist"" and ""terrorism"" originated during the French Revolution of the late 18th century[2] but became widely used internationally and gained worldwide attention in the 1970s during the Troubles in Northern Ireland, the Basque conflict and the Israeli–Palestinian conflict. The increased use of suicide attacks from the 1980s onwards was typified by the 2001 September 11 attacks in the United States.
+
+There are various different definitions of terrorism, with no universal agreement about it.[3][4] Terrorism is a charged term. It is often used with the connotation of something that is ""morally wrong"". Governments and non-state groups use the term to abuse or denounce opposing groups.[4][5][6][7][8] Varied political organizations have been accused of using terrorism to achieve their objectives. These include left-wing and right-wing political organizations, nationalist groups, religious groups, revolutionaries, and ruling governments.[9] Legislation declaring terrorism a crime has been adopted in many states.[10] State terrorism is that perpetrated by nation states, but is not considered such by the state conducting it, making legality a grey area.[11] There is no consensus as to whether terrorism should be regarded as a war crime.[10][12] Separating activism and terrorism can be difficult and has been described as a 'fine line'.[13]
+
+The Global Terrorism Database, maintained by the University of Maryland, College Park, has recorded more than 61,000 incidents of non-state terrorism, resulting in at least 140,000 deaths, between 2000 and 2014.[14]
+
+Etymology
+See also: Reign of Terror
+
+Seal of the Jacobin Club
+The term ""terrorism"" itself was originally used to describe the actions of the Jacobin Club during the ""Reign of Terror"" in the French Revolution. ""Terror is nothing other than justice, prompt, severe, inflexible"", said Jacobin leader Maximilien Robespierre. In 1795, Edmund Burke denounced the Jacobins for letting ""thousands of those hell-hounds called Terrorists ... loose on the people"" of France.[15] John Calvin's rule over Geneva in the 16th century has also been described as a reign of terror.[16][17][18]
+
+Historical background
+Main article: History of terrorism
+Until David C. Rapoport published his seminal article Fear and Trembling: Terrorism in Three Religious Traditions in 1984, scholars of terrorism had largely assumed that terrorism was a modern phenomenon.[19] Earlier published studies like Paul Wilkinson had considered terrorism to be a product of 19th century revolutionary politics. Technological developments like the pistol and bomb-making were considered instrumental to the relentless onslaught of assassinations, terrorism, bombings and political violence in the 19th century.[19][20]
+
+Rapoport proposed three case studies to demonstrate ""ancient lineage"" of religious terrorism, which he called ""sacred terror"": the ""Thugs"", the Assassins and the Jewish Sicarii Zealots. Rapoport argued religious terrorism has been ongoing since ancient times and that ""there are signs that it is reviving in new and unusual forms"". He is the first to propose that religious doctrines were more important than political rationales for some terrorist groups.[21] Rapoport's work has since become the basis of the model of ""New Terrorism"" proposed by Bruce Hoffman and developed by other scholars.[22] ""New Terrorism"" has had an unparalleled impact on policymaking. Critics have pointed out that the model is politically charged and over-simplified. The underlying historical assertions have received less critical attention.[23] According to The Oxford Handbook on the History of Terrorism:[19]
+
+Since the publication of Rapoport's article, it has become seemingly pre-requisite for standard works on terrorism to cite the three case studies and to reproduce uncritically its findings. In lieu of empirical research, authors tend to crudely paraphrase Rapoport and the assumed relevance of ""Thuggee"" to the study of modern terrorism is taken for granted. Yet the significance of the article is not simply a matter of citations―it has also provided the foundation for what has become known as the ""New Terrorism"" paradigm. While Rapoport did not suggest which late 20th century groups might exemplify the implied recurrence of ""holy terror"", Bruce Hoffman, recognized today as one of the world's leading terrorism experts, did not hesitate to do so. A decade after Rapoport's article. Hoffman picked up the mantle and taking the three case studies as inspiration, he formulated a model of contemporary ""holy terror"" or, as he defined it, ""terrorism motivated by a religious imperative"". Completely distinct from ""secular terrorists"", Hoffman argued that ""religious terrorists"" carry out indiscriminate acts of violence as a divine duty with no consideration for political efficacy―their aim is transcendental and ""holy terror"" constitutes an end in itself. Hoffman's concept has since been taken up and developed by a number of other writers, including Walter Laquer, Steven Simon and Daniel Daniel Benjamen, and rebranded as the ""New Terrorism"".
+
+Arguably, the first organization to use modern terrorist techniques was the Irish Republican Brotherhood,[24] founded in 1858 as a revolutionary Irish nationalist group[25] that carried out attacks in England.[26] The group initiated the Fenian dynamite campaign in 1881, one of the first modern terror campaigns.[27] Instead of earlier forms of terrorism based on political assassination, this campaign used timed explosives with the express aim of sowing fear in the very heart of metropolitan Britain, in order to achieve political gains.[28]
+
+Another early terrorist-type group was Narodnaya Volya, founded in Russia in 1878 as a revolutionary anarchist group inspired by Sergei Nechayev and ""propaganda by the deed"" theorist Carlo Pisacane.[29][30] The group developed ideas—such as targeted killing of the 'leaders of oppression', which were to become the hallmark of subsequent violence by small non-state groups, and they were convinced that the developing technologies of the age—such as the invention of dynamite, which they were the first anarchist group to make widespread use of[31]—enabled them to strike directly and with discrimination.[32]
+
+In 1920 Leon Trotsky wrote Terrorism and Communism to justify the Red Terror and defend the moral superiority of revolutionary terrorism.[33]
+
+The terms ""terrorism"" and ""terrorist"" gained renewed currency in the 1970s as a result of the Israeli–Palestinian conflict,[34] the Northern Ireland conflict,[35] the Basque conflict,[36] and the operations of groups such as the Red Army Faction.[37] Leila Khaled was described as a terrorist in a 1970 issue of Life magazine.[38] A number of books on terrorism were published in the 1970s.[39] The topic came further to the fore after the 1983 Beirut barracks bombings[7] and again after the 2001 September 11 attacks[7][40][41] and the 2002 Bali bombings.[7]
+
+Modern definitions
+See also: Definitions of terrorism
+In 2006 it was estimated that there were over 109 different definitions of terrorism.[42] Bruce Hoffman has noted that it is not only individual agencies within the same governmental apparatus that cannot agree on a single definition of terrorism; experts and other long-established scholars in the field are equally incapable of reaching a consensus.[43] Experts disagree on ""whether terrorism is wrong by definition or just wrong as a matter of fact; they disagree about whether terrorism should be defined in terms of its aims, or its methods, or both, or neither; they disagree about whether states can perpetrate terrorism; they even disagree about the importance or otherwise of terror for a definition of terrorism"".[44]
+
+However, definitions of terrorism typically emphasize one or more of the following features:[45]
+
+Its effect of extreme fear
+Whether it targeted the state from within
+Its strategic goals
+Its random or indiscriminate nature
+Who it targeted
+Whether it was planned and prepared in secret
+Definitions include:
+
+""the deliberate killing of innocent people, at random, to spread fear through a whole population and force the hand of its political leaders"" (Michael Walzer, 2002).[4]
+""the organized use of violence to attack non-combatants (‘innocents’ in a special sense) or their property for political purposes"" (C. A. J. Coady, 2004).[45]
+""the deliberate use of violence, or threat of its use, against innocent people, with the aim of intimidating some other people into a course of action they otherwise would not take"" (Igor Primoratz, 2004).[46][page needed]
+""the use of force or violence or the threat of force or violence to change the behavior of society as a whole through the causation of fear and the targeting of specific parts of society in order to affect the entire society"" (Arthur H. Garrison, 2004).[47]
+""a doctrine about the presumed effectiveness of a special form or tactic of fear-generating, coercive political violence... [as well as] a conspiratorial practice of calculated, demonstrative, direct violent action without legal or moral restraints, targeting mainly civilians and non-combatants, performed for its propagandistic and psychological effects on various audiences and conflict parties"" (Schmid, 2011).[48]
+While discussing the definitional and ethical difficulties of terrorism, Jenny Teichman argues that ""it ought not to be impossible to find an agreed definition, and then ask whether one wants to condemn or applaud all or some of the things that fall under that description"".[11]
+
+The scholar Ken Duncan argues the term terrorism has generally been used to describe violence by non-state actors rather than government violence since the 19th-century Anarchist Movement.[49][50][51]
+
+Bruce Hoffman notes that terrorism is ""ineluctably about power"".[52]
+
+State terrorism
+Main article: State terrorism
+State terrorism refers to acts of terrorism conducted by a state against its own citizens or against another state.[53]
+
+United Nations
+In November 2004, a Secretary-General of the United Nations report described terrorism as any act ""intended to cause death or serious bodily harm to civilians or non-combatants with the purpose of intimidating a population or compelling a government or an international organization to do or abstain from doing any act"".[54] The international community has been slow to formulate a universally agreed, legally binding definition of this crime. These difficulties arise from the fact that the term ""terrorism"" is politically and emotionally charged.[55][56] In this regard, Angus Martyn, briefing the Australian parliament, stated:
+
+The international community has never succeeded in developing an accepted comprehensive definition of terrorism. During the 1970s and 1980s, the United Nations attempts to define the term floundered mainly due to differences of opinion between various members about the use of violence in the context of conflicts over national liberation and self-determination.[57]
+
+These divergences have made it impossible for the United Nations to conclude a Comprehensive Convention on International Terrorism that incorporates a single, all-encompassing, legally binding, criminal law definition of terrorism.[58] The international community has adopted a series of sectoral conventions that define and criminalize various types of terrorist activities.
+
+Since 1994, the United Nations General Assembly has repeatedly condemned terrorist acts using the following political description of terrorism:
+
+Criminal acts intended or calculated to provoke a state of terror in the public, a group of persons or particular persons for political purposes are in any circumstance unjustifiable, whatever the considerations of a political, philosophical, ideological, racial, ethnic, religious or any other nature that may be invoked to justify them.[59]
+
+U.S. law
+Various legal systems and government agencies use different definitions of terrorism in their national legislation.
+
+U.S. Code Title 22 Chapter 38, Section 2656f(d) defines terrorism as: ""Premeditated, politically motivated violence perpetrated against noncombatant targets by subnational groups or clandestine agents"".[60]
+
+18 U.S.C. § 2331 defines ""international terrorism"" and ""domestic terrorism"" for purposes of Chapter 113B of the Code, entitled ""Terrorism"":
+
+""International terrorism"" means activities with the following three characteristics:[61]
+
+Involve violent acts or acts dangerous to human life that violate federal or state law;
+
+Appear to be intended (i) to intimidate or coerce a civilian population; (ii) to influence the policy of a government by intimidation or coercion; or (iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping; and
+
+occur primarily outside the territorial jurisdiction of the U.S., or transcend national boundaries in terms of the means by which they are accomplished, the persons they appear intended to intimidate or coerce, or the locale in which their perpetrators operate or seek asylum.
+
+Media spectacle
+Terrorists may attempt to use the media to spread their message or manipulate their target audience. Shamil Basayev used this tactic during the Budyonnovsk hospital hostage crisis and again in the Moscow theater hostage crisis.[62] Terrorists may also target national symbols for attention.[63]
+
+The El Al Flight 426 hijacking is considered a turning point for modern terrorism studies. The PFLP realized they could combine the tactics of targeting national symbols and civilians (in this case as hostages) to generate a mass media spectacle. Zehdi Labib Terzi made a public statement about this in 1976: ""The first several hijackings aroused the consciousness of the world and awakened the media and world opinion much more - and more effectively - than 20 years of pleading at the United Nations"".[64]
+
+Walter Lacquer wrote that ""terrorism was always, to a large extent, about public relations and propaganda ('Propaganda by Deed' had been the slogan in the nineteenth century)"".[65]
+
+Political violence
+See also: Political violence
+
+Luis Posada and CORU are widely considered responsible for the 1976 bombing of a Cuban airliner that killed 73 people.[66]
+Terrorist acts frequently have a political purpose based on self-determination claims, ethnonationalist frustrations, single issue causes (like abortion or the environment), or other ideological or religious causes that terrorists claim are a moral justification for their violent acts.[67]
+
+Some official, governmental definitions of terrorism use the criterion of the illegitimacy or unlawfulness of the act.[68][better source needed] to distinguish between actions authorized by a government (and thus ""lawful"") and those of other actors, including individuals and small groups. For example, carrying out a strategic bombing on an enemy city, which is designed to affect civilian support for a cause, would not be considered terrorism if it were authorized by a government. This criterion is inherently problematic and is not universally accepted,[attribution needed] because: it denies the existence of state terrorism.[69] An associated term is violent non-state actor.[70]
+
+According to Ali Khan, the distinction lies ultimately in a political judgment.[71]
+
+Pejorative use
+Having the connotation of ""something morally wrong"", the term ""terrorism"" is often used to abuse or denounce opposite parties, either governments or non-state groups.[4][5][6][7][8] An example of this is the terruqueo political attack used by right-wing groups in Peru to target leftist groups or those opposed to the neoliberal status quo, likening opponents to guerrilla organizations[72] from the internal conflict in Peru.[73][74][75]
+
+Those labeled ""terrorists"" by their opponents rarely identify themselves as such, but it wasn't always so. While a multitude of terms like separatist, freedom fighter, liberator, revolutionary, vigilante, militant, paramilitary, guerrilla, rebel, patriot, have come into use, (including some culturally specific terms borrowed from other languages like Jihadi, mujahideen, and fedayeen), the unwillingness to self-identify as terrorists began when parties in a conflict started to describe each other as terrorists pejoratively.[76] As an example, when Vera Zasulich attacked a Russian official known for abusing prisoners she told the court ""I am not a criminal, I am a terrorist!"". The stunned court acquitted Zazulich when they realized that she was trying to become a martyr. She was carried out of the courtroom on the shoulders of the crowd.[77]
+
+Some groups and individuals have openly admitted to using ""terrorist tactics"" even while maintaining distance from the pejorative term in their self-descriptions. The Zionist militant group Lohamei Herut Yisrael admitted that they used terrorist tactics but used the euphemism ""Freedom Fighters"" to describe themselves (Lohamei Herut Yisrael means ""Freedom Fighters for Israel"".)[78]
+
+On whether particular terrorist acts, such as killing non-combatants, can be justified as the lesser evil in a particular circumstance, philosophers have expressed different views: while, according to David Rodin, utilitarian philosophers can (in theory) conceive of cases in which the evil of terrorism is outweighed by the good that could not be achieved in a less morally costly way, in practice the ""harmful effects of undermining the convention of non-combatant immunity is thought to outweigh the goods that may be achieved by particular acts of terrorism"".[79] Among the non-utilitarian philosophers, Michael Walzer argued that terrorism can be morally justified in only one specific case: when ""a nation or community faces the extreme threat of complete destruction and the only way it can preserve itself is by intentionally targeting non-combatants, then it is morally entitled to do so"".[79][80]
+
+In his book Inside Terrorism Bruce Hoffman offered an explanation of why the term terrorism becomes distorted:
+
+On one point, at least, everyone agrees: terrorism is a pejorative term. It is a word with intrinsically negative connotations that is generally applied to one's enemies and opponents, or to those with whom one disagrees and would otherwise prefer to ignore. 'What is called terrorism,' Brian Jenkins has written, 'thus seems to depend on one's point of view. Use of the term implies a moral judgment; and if one party can successfully attach the label terrorist to its opponent, then it has indirectly persuaded others to adopt its moral viewpoint.' Hence the decision to call someone or label some organization terrorist becomes almost unavoidably subjective, depending largely on whether one sympathizes with or opposes the person/group/cause concerned. If one identifies with the victim of the violence, for example, then the act is terrorism. If, however, one identifies with the perpetrator, the violent act is regarded in a more sympathetic, if not positive (or, at the worst, an ambivalent) light; and it is not terrorism.[81][82]
+
+The pejorative connotations of the word can be summed up in the aphorism, ""One man's terrorist is another man's freedom fighter"".[76] This is exemplified when a group using irregular military methods is an ally of a state against a mutual enemy, but later falls out with the state and starts to use those methods against its former ally.
+
+
+President Reagan meeting with Afghan Mujahideen leaders in the Oval Office in 1983
+During the Second World War, the Malayan People's Anti-Japanese Army were allied with the British, but during the Malayan Emergency, members of its successor organisation (the Malayan National Liberation Army) started campaigns against them, and were branded ""terrorists"" as a result.[83][84] More recently, Ronald Reagan and others in the American administration frequently called the mujaheddin ""freedom fighters"" during the Soviet–Afghan War,[85] however twenty years later, when a new generation of Afghan men (militant groups like the Taliban and allies) were fighting against what they perceive to be a regime installed by foreign powers, their attacks were labelled terrorism by George W. Bush.[86][87][88]
+
+Groups accused of terrorism understandably prefer terms reflecting legitimate military or ideological action.[89][90][91] Leading terrorism researcher Professor Martin Rudner, director of the Canadian Centre of Intelligence and Security Studies at Ottawa's Carleton University, defines ""terrorist acts"" as unlawful attacks for political or other ideological goals, and said:
+
+There is the famous statement: 'One man's terrorist is another man's freedom fighter.' But that is grossly misleading. It assesses the validity of the cause when terrorism is an act. One can have a perfectly beautiful cause and yet if one commits terrorist acts, it is terrorism regardless.[92]
+
+Some groups, when involved in a ""liberation"" struggle, have been called ""terrorists"" by the Western governments or media. Later, these same persons, as leaders of the liberated nations, are called ""statesmen"" by similar organizations. Two examples of this phenomenon are the Nobel Peace Prize laureates Menachem Begin and Nelson Mandela.[93][94][95][96] WikiLeaks editor Julian Assange has been called a ""terrorist"" by Sarah Palin and Joe Biden.[97][98]
+
+Media outlets who wish to convey impartiality may limit their usage of ""terrorist"" and ""terrorism"" because they are loosely defined, potentially controversial in nature, and subjective terms.[99][100]
+
+The 2020 Nashville bombing revived a debate over the use of the word ""terrorism"", with critics saying it is quickly applied to attacks by Muslims but reluctantly if at all used by white Christian men, such as the Nashville bomber.[101]
+
+Infographics
+See also: Number of terrorist incidents by country
+Terrorist incidents, 1970–2015. A total of 157,520 incidents are plotted. Orange: 1970–1999, Red: 2000–2015
+Terrorist incidents, 1970–2015. A total of 157,520 incidents are plotted. Orange: 1970–1999, Red: 2000–2015
+
+ 
+Top 10 Countries (2000–2014)
+Top 10 Countries (2000–2014)
+
+ 
+Worldwide non-state terrorist incidents 1970–2017
+Worldwide non-state terrorist incidents 1970–2017
+
+ 
+Share who are worried about vs. share of deaths from terrorism
+Share who are worried about vs. share of deaths from terrorism
+
+Types
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (March 2017) (Learn how and when to remove this template message)
+Depending on the country, the political system, and the time in history, the types of terrorism are varying.
+
+
+Number of failed, foiled or successful terrorist attacks by year and type within the European Union. Source: Europol.[102][103][104]
+
+Aftermath of the King David Hotel bombing by the Zionist militant group Irgun, July 1946
+
+A view of damage to the U.S. Embassy in the aftermath of the 1983 Beirut bombing caused by Islamic Jihad Organization and Hezbollah
+In early 1975, the Law Enforcement Assistant Administration in the United States formed the National Advisory Committee on Criminal Justice Standards and Goals. One of the five volumes that the committee wrote was titled Disorders and Terrorism, produced by the Task Force on Disorders and Terrorism under the direction of H. H. A. Cooper, Director of the Task Force staff.
+
+The Task Force defines terrorism as ""a tactic or technique by means of which a violent act or the threat thereof is used for the prime purpose of creating overwhelming fear for coercive purposes"". It classified disorders and terrorism into seven categories:[105]
+
+Civil disorder – A form of collective violence interfering with the peace, security, and normal functioning of the community.
+Political terrorism – Violent criminal behaviour designed primarily to generate fear in the community, or substantial segment of it, for political purposes.
+Non-Political terrorism – Terrorism that is not aimed at political purposes, but which exhibits ""conscious design to create and maintain a high degree of fear for coercive purposes, but the end is individual or collective gain rather than the achievement of a political objective"".
+Anonymous terrorism – In the two decades prior to 2016–19, ""fewer than half"" of all terrorist attacks were either ""claimed by their perpetrators or convincingly attributed by governments to specific terrorist groups"". A number of theories have been advanced as to why this has happened.[106]
+Quasi-terrorism – The activities incidental to the commission of crimes of violence that are similar in form and method to genuine terrorism, but which nevertheless lack its essential ingredient. It is not the main purpose of the quasi-terrorists to induce terror in the immediate victim as in the case of genuine terrorism, but the quasi-terrorist uses the modalities and techniques of the genuine terrorist and produces similar consequences and reaction.[107] For example, the fleeing felon who takes hostages is a quasi-terrorist, whose methods are similar to those of the genuine terrorist but whose purposes are quite different.
+Limited political terrorism – Genuine political terrorism is characterized by a revolutionary approach; limited political terrorism refers to ""acts of terrorism which are committed for ideological or political motives but which are not part of a concerted campaign to capture control of the state"".
+Official or state terrorism – ""referring to nations whose rule is based upon fear and oppression that reach similar to terrorism or such proportions"". It may be referred to as Structural Terrorism defined broadly as terrorist acts carried out by governments in pursuit of political objectives, often as part of their foreign policy.
+Other sources have defined the typology of terrorism in different ways, for example, broadly classifying it into domestic terrorism and international terrorism, or using categories such as vigilante terrorism or insurgent terrorism.[108] One way the typology of terrorism may be defined:[109][110]
+
+Political terrorism
+Sub-state terrorism
+Social revolutionary terrorism
+Nationalist-separatist terrorism
+Religious extremist terrorism
+Religious fundamentalist Terrorism
+New religions terrorism
+Right-wing terrorism
+Left-wing terrorism
+Communist terrorism
+State-sponsored terrorism
+Regime or state terrorism
+Criminal terrorism
+Pathological terrorism
+Causes and motivations
+Choice of terrorism as a tactic
+Individuals and groups choose terrorism as a tactic because it can:
+
+Act as a form of asymmetric warfare in order to directly force a government to agree to demands
+Intimidate a group of people into capitulating to the demands in order to avoid future injury
+Get attention and thus political support for a cause
+Directly inspire more people to the cause (such as revolutionary acts) – propaganda of the deed
+Indirectly inspire more people to the cause by provoking a hostile response or over-reaction from enemies to the cause[111]
+Attacks on ""collaborators"" are used to intimidate people from cooperating with the state in order to undermine state control. This strategy was used in Ireland, in Kenya, in Algeria and in Cyprus during their independence struggles.[112]
+
+Stated motives for the September 11 attacks included inspiring more fighters to join the cause of repelling the United States from Muslim countries with a successful high-profile attack. The attacks prompted some criticism from domestic and international observers regarding perceived injustices in U.S. foreign policy that provoked the attacks, but the larger practical effect was that the United States government declared a War on Terror that resulted in substantial military engagements in several Muslim-majority countries. Various commentators have inferred that al-Qaeda expected a military response and welcomed it as a provocation that would result in more Muslims fight the United States. Some commentators believe that the resulting anger and suspicion directed toward innocent Muslims living in Western countries and the indignities inflicted upon them by security forces and the general public also contributes to radicalization of new recruits.[111] Despite criticism that the Iraqi government had no involvement with the September 11 attacks, Bush declared the 2003 invasion of Iraq to be part of the War on Terror. The resulting backlash and instability enabled the rise of Islamic State of Iraq and the Levant and the temporary creation of an Islamic caliphate holding territory in Iraq and Syria, until ISIL lost its territory through military defeats.
+
+Attacks used to draw international attention to struggles that are otherwise unreported have included the Palestinian airplane hijackings in 1970 and the 1975 Dutch train hostage crisis.
+
+Causes motivating terrorism
+Specific political or social causes have included:
+
+Independence or separatist movements
+Irredentist movements
+Adoption of a particular political philosophy, such as socialism (left-wing terrorism), anarchism, or fascism (possibly through a coup or as an ideology of an independence or separatist movement)
+Environmental protection (eco-terrorism)
+Supremacism of a particular group
+Preventing a rival group from sharing or occupying a particular territory (such as by discouraging immigration or encouraging flight)
+Subjugation of a particular population (such as lynching of African Americans)
+Spread or dominance of a particular religion – religious terrorism
+Ending perceived government oppression
+Responding to a violent act (for example, tit-for-tat attacks in the Israeli–Palestinian conflict, in The Troubles in Northern Ireland, or Timothy McVeigh's revenge for the Waco siege and Ruby Ridge incident)
+Causes for right-wing terrorism have included white nationalism, ethnonationalism, fascism, anti-socialism, the anti-abortion movement, and tax resistance.
+
+Sometimes terrorists on the same side fight for different reasons. For example, in the Chechen–Russian conflict secular Chechens using terrorist tactics fighting for national independence are allied with radical Islamist terrorists who have arrived from other countries.[113]
+
+Personal and social factors
+Main article: Radicalization
+Various personal and social factors may influence the personal choice of whether to join a terrorist group or attempt an act of terror, including:
+
+Identity, including affiliation with a particular culture, ethnicity, or religion
+Previous exposure to violence
+Financial reward (for example, the Palestinian Authority Martyrs Fund)
+Mental illness
+Social isolation
+Perception that the cause responds to a profound injustice or indignity
+A report conducted by Paul Gill, John Horgan and Paige Deckert[dubious – discuss] found that for ""lone wolf"" terrorists:[114]
+
+43% were motivated by religious beliefs
+32% had pre-existing mental health disorders, while many more are found to have mental health problems upon arrest
+At least 37% lived alone at the time of their event planning and/or execution, a further 26% lived with others, and no data were available for the remaining cases
+40% were unemployed at the time of their arrest or terrorist event
+19% subjectively experienced being disrespected by others
+14% percent experienced being the victim of verbal or physical assault
+Ariel Merari, a psychologist who has studied the psychological profiles of suicide terrorists since 1983 through media reports that contained biographical details, interviews with the suicides' families, and interviews with jailed would-be suicide attackers, concluded that they were unlikely to be psychologically abnormal.[115] In comparison to economic theories of criminal behaviour, Scott Atran found that suicide terrorists exhibit none of the socially dysfunctional attributes—such as fatherless, friendless, jobless situations—or suicidal symptoms. By which he means, they do not kill themselves simply out of hopelessness or a sense of 'having nothing to lose'.[116]
+
+Abrahm suggests that terrorist organizations do not select terrorism for its political effectiveness.[117] Individual terrorists tend to be motivated more by a desire for social solidarity with other members of their organization than by political platforms or strategic objectives, which are often murky and undefined.[117]
+
+Michael Mousseau shows possible relationships between the type of economy within a country and ideology associated with terrorism.[example needed][118] Many terrorists have a history of domestic violence.[119]
+
+Democracy and domestic terrorism
+Terrorism is most common in nations with intermediate political freedom, and it is least common in the most democratic nations.[120][121][122][123]
+
+Some examples of ""terrorism"" in non-democratic nations include ETA in Spain under Francisco Franco (although the group's terrorist activities increased sharply after Franco's death),[124] the Organization of Ukrainian Nationalists in pre-war Poland,[125] the Shining Path in Peru under Alberto Fujimori,[126] the Kurdistan Workers Party when Turkey was ruled by military leaders and the ANC in South Africa.[127] Democracies, such as Japan, the United Kingdom, the United States, Israel, Indonesia, India, Spain, Germany, Italy and the Philippines, have experienced domestic terrorism.
+
+While a democratic nation espousing civil liberties may claim a sense of higher moral ground than other regimes, an act of terrorism within such a state may cause a dilemma: whether to maintain its civil liberties and thus risk being perceived as ineffective in dealing with the problem; or alternatively to restrict its civil liberties and thus risk delegitimizing its claim of supporting civil liberties.[128] For this reason, homegrown terrorism has started to be seen as a greater threat, as stated by former CIA Director Michael Hayden.[129] This dilemma, some social theorists would conclude, may very well play into the initial plans of the acting terrorist(s); namely, to delegitimize the state and cause a systematic shift towards anarchy via the accumulation of negative sentiments towards the state system.[130]
+
+Religious terrorism
+Main article: Religious terrorism
+According to the Global Terrorism Index by the University of Maryland, College Park, religious extremism has overtaken national separatism and become the main driver of terrorist attacks around the world. Since 9/11 there has been a five-fold increase in deaths from terrorist attacks. The majority of incidents over the past several years can be tied to groups with a religious agenda. Before 2000, it was nationalist separatist terrorist organizations such as the IRA and Chechen rebels who were behind the most attacks. The number of incidents from nationalist separatist groups has remained relatively stable in the years since while religious extremism has grown. The prevalence of Islamist groups in Iraq, Afghanistan, Pakistan, Nigeria and Syria is the main driver behind these trends.[131]
+
+
+The flag of Hamas, a designated terrorist organization by the US, UK, European Union, Australia, Japan, OAS, Canada, Israel.
+Five of the terrorist groups that have been most active since 2001 are Hamas, Boko Haram, al-Qaeda, the Taliban and ISIL. These groups have been most active in Iraq, Afghanistan, Pakistan, Nigeria and Syria. Eighty percent of all deaths from terrorism occurred in these five countries.[131] In 2015 four Islamic extremist groups were responsible for 74% of all deaths from Islamic terrorism: ISIS, Boko Haram, the Taliban, and al-Qaeda, according to the Global Terrorism Index 2016.[132] Since approximately 2000, these incidents have occurred on a global scale, affecting not only Muslim-majority states in Africa and Asia, but also states with non-Muslim majority such as United States, United Kingdom, France, Germany, Spain, Belgium, Sweden, Russia, Australia, Canada, Sri Lanka, Israel, China, India and Philippines. Such attacks have targeted both Muslims and non-Muslims, however the majority affect Muslims themselves.[133]
+
+
+Islamabad Marriott Hotel bombing. Approximately 35,000 Pakistanis died from terrorist attacks between 2001 and 2011.[134]
+Terrorism in Pakistan has become a great problem. From the summer of 2007 until late 2009, more than 1,500 people were killed in suicide and other attacks on civilians[135] for reasons attributed to a number of causes—sectarian violence between Sunni and Shia Muslims; easy availability of guns and explosives; the existence of a ""Kalashnikov culture""; an influx of ideologically driven Muslims based in or near Pakistan, who originated from various nations around the world and the subsequent war against the pro-Soviet Afghans in the 1980s which blew back into Pakistan; the presence of Islamist insurgent groups and forces such as the Taliban and Lashkar-e-Taiba. On July 2, 2013, in Lahore, 50 Muslim scholars of the Sunni Ittehad Council (SIC) issued a collective fatwa against suicide bombings, the killing of innocent people, bomb attacks, and targeted killings declaring them as Haraam or forbidden.[136]
+
+In 2015, the Southern Poverty Law Center released a report on terrorism in the United States. The report (titled The Age of the Wolf) analyzed 62 incidents and found that, between 2009 and 2015, ""more people have been killed in America by non-Islamic domestic terrorists than jihadists.""[137] The ""virulent racist and antisemitic"" ideology of the ultra-right wing Christian Identity movement is usually accompanied by anti-government sentiments.[138] Adherents of Christian Identity are not connected with specific Christian denominations,[139] and they believe that whites of European descent can be traced back to the ""Lost Tribes of Israel"" and many consider Jews to be the Satanic offspring of Eve and the Serpent.[138] This group has committed hate crimes, bombings and other acts of terrorism. Its influence ranges from the Ku Klux Klan and neo-Nazi groups to the anti-government militia and sovereign citizen movements.[138] Christian Identity's origins can be traced back to Anglo-Israelism, which held the view that the British people were descendants of ancient Israelites. However, in the United States, the ideology started to become rife with anti-Semitism, and eventually Christian Identity theology diverged from the philo-semitic Anglo-Israelism, and developed what is known as the ""two seed"" theory.[138] According to the two-seed theory, the Jewish people are descended from Cain and the serpent (not from Shem).[138] The white European seedline is descended from the ""lost tribes"" of Israel. They hold themselves to ""God's laws"", not to ""man's laws"", and they do not feel bound to a government that they consider run by Jews and the New World Order.[138] The Ku Klux Klan is widely denounced by Christian denominations.[140]
+
+
+Dawabsheh family home after Duma arson attack
+Israel has had problems with Jewish religious terrorism even before independence in 1948. During British mandate over Palestine, the Irgun were among the Zionist groups labelled as terrorist organisations by the British authorities and United Nations,[141] for violent terror attacks against Britons and Arabs.[142][143] Another extremist group, the Lehi, openly declared its members as ""terrorists"".[144][145] Historian William Cleveland stated many Jews justified any action, even terrorism, taken in the cause of the creation of a Jewish state.[146] In 1995, Yigal Amir assassinated Israeli Prime Minister Yitzhak Rabin. For Amir, killing Rabin was an exemplary act that symbolized the fight against an illegitimate government that was prepared to cede Jewish Holy Land to the Palestinians. [147]
+
+Perpetrators
+
+Al-Qaida in Magreb members pose with weapons.
+The perpetrators of acts of terrorism can be individuals, groups, or states. According to some definitions, clandestine or semi-clandestine state actors may carry out terrorist acts outside the framework of a state of war. The most common image of terrorism is that it is carried out by small and secretive cells, highly motivated to serve a particular cause and many of the most deadly operations in recent times, such as the September 11 attacks, the London underground bombing, 2008 Mumbai attacks and the 2002 Bali bombing were planned and carried out by a close clique, composed of close friends, family members and other strong social networks. These groups benefited from the free flow of information and efficient telecommunications to succeed where others had failed.[148]
+
+Over the years, much research has been conducted to distill a terrorist profile to explain these individuals' actions through their psychology and socio-economic circumstances.[149] Others, like Roderick Hindery, have sought to discern profiles in the propaganda tactics used by terrorists. Some security organizations designate these groups as violent non-state actors.[citation needed] A 2007 study by economist Alan B. Krueger found that terrorists were less likely to come from an impoverished background (28 percent versus 33 percent) and more likely to have at least a high-school education (47 percent versus 38 percent). Another analysis found only 16 percent of terrorists came from impoverished families, versus 30 percent of male Palestinians, and over 60 percent had gone beyond high school, versus 15 percent of the populace. A study into the poverty-stricken conditions and whether terrorists are more likely to come from here, show that people who grew up in these situations tend to show aggression and frustration towards others. This theory is largely debated for the simple fact that just because one is frustrated, does not make them a potential terrorist.[42][150]
+
+To avoid detection, a terrorist will look, dress, and behave normally until executing the assigned mission. Some claim that attempts to profile terrorists based on personality, physical, or sociological traits are not useful.[151] The physical and behavioral description of the terrorist could describe almost any normal person.[152] The majority of terrorist attacks are carried out by military age men, aged 16 to 40.[152]
+
+Non-state groups
+Picture of the front of an addressed envelope to Senator Daschle.
+There is speculation that the 2001 anthrax attacks were the work of a lone wolf.
+Main articles: List of designated terrorist groups, Lone wolf (terrorism), and Violent non-state actor
+Groups not part of the state apparatus of in opposition to the state are most commonly referred to as a ""terrorist"" in the media.
+
+According to the Global Terrorism Database, the most active terrorist group in the period 1970 to 2010 was Shining Path (with 4,517 attacks), followed by Farabundo Marti National Liberation Front (FMLN), Irish Republican Army (IRA), Basque Fatherland and Freedom (ETA), Revolutionary Armed Forces of Colombia (FARC), Taliban, Liberation Tigers of Tamil Eelam, New People's Army, National Liberation Army of Colombia (ELN), and Kurdistan Workers Party (PKK).[153]
+
+State sponsors
+Main article: State-sponsored terrorism
+A state can sponsor terrorism by funding or harboring a terrorist group. Opinions as to which acts of violence by states consist of state-sponsored terrorism vary widely. When states provide funding for groups considered by some to be terrorist, they rarely acknowledge them as such.[154][citation needed]
+
+State terrorism
+Main article: State terrorism
+Civilization is based on a clearly defined and widely accepted yet often unarticulated hierarchy. Violence done by those higher on the hierarchy to those lower is nearly always invisible, that is, unnoticed. When it is noticed, it is fully rationalized. Violence done by those lower on the hierarchy to those higher is unthinkable, and when it does occur it is regarded with shock, horror, and the fetishization of the victims.
+
+— Derrick Jensen[155]
+
+Infant crying in Shanghai's South Station after the Japanese bombing, August 28, 1937
+As with ""terrorism"" the concept of ""state terrorism"" is controversial.[156] The Chairman of the United Nations Counter-Terrorism Committee has stated that the committee was conscious of 12 international conventions on the subject, and none of them referred to state terrorism, which was not an international legal concept. If states abused their power, they should be judged against international conventions dealing with war crimes, international human rights law, and international humanitarian law.[157] Former United Nations Secretary-General Kofi Annan has said that it is ""time to set aside debates on so-called 'state terrorism'. The use of force by states is already thoroughly regulated under international law"".[158] He made clear that, ""regardless of the differences between governments on the question of the definition of terrorism, what is clear and what we can all agree on is that any deliberate attack on innocent civilians [or non-combatants], regardless of one's cause, is unacceptable and fits into the definition of terrorism.""[159]
+
+
+USS Arizona (BB-39) burning during the Japanese surprise attack on Pearl Harbor, December 7, 1941
+State terrorism has been used to refer to terrorist acts committed by governmental agents or forces. This involves the use of state resources employed by a state's foreign policies, such as using its military to directly perform acts of terrorism. Professor of Political Science Michael Stohl cites the examples that include the German bombing of London, the Japanese surprise attack on Pearl Harbor, the Allied firebombing of Dresden, and the U.S. atomic bombings of Hiroshima and Nagasaki during World War II. He argues that ""the use of terror tactics is common in international relations and the state has been and remains a more likely employer of terrorism within the international system than insurgents."" He cites the first strike option as an example of the ""terror of coercive diplomacy"" as a form of this, which holds the world hostage with the implied threat of using nuclear weapons in ""crisis management"" and he argues that the institutionalized form of terrorism has occurred as a result of changes that took place following World War II. In this analysis, state terrorism exhibited as a form of foreign policy was shaped by the presence and use of weapons of mass destruction, and the legitimizing of such violent behavior led to an increasingly accepted form of this behavior by the state.[160][161][162]
+
+
+St Paul's Cathedral after the German bombing of London, c. 1940
+Charles Stewart Parnell described William Ewart Gladstone's Irish Coercion Act as terrorism in his ""no-Rent manifesto"" in 1881, during the Irish Land War.[163] The concept is used to describe political repressions by governments against their own civilian populations with the purpose of inciting fear. For example, taking and executing civilian hostages or extrajudicial elimination campaigns are commonly considered ""terror"" or terrorism, for example during the Red Terror or the Great Terror.[164] Such actions are often described as democide or genocide, which have been argued to be equivalent to state terrorism.[165] Empirical studies on this have found that democracies have little democide.[166][167] Western democracies, including the United States, have supported state terrorism[168] and mass killings,[169][170] with some examples being the Indonesian mass killings of 1965–66 and Operation Condor.[171][172][173]
+
+Connection with tourism
+The connection between terrorism and tourism has been widely studied since the Luxor massacre in Egypt.[174][175] In the 1970s, the targets of terrorists were politicians and chiefs of police while now, international tourists and visitors are selected as the main targets of attacks. The attacks on the World Trade Center and the Pentagon on September 11, 2001, were the symbolic center, which marked a new epoch in the use of civil transport against the main power of the planet.[176] From this event onwards, the spaces of leisure that characterized the pride of West were conceived as dangerous and frightful.[177][178]
+
+Funding
+Main article: Terrorist financing
+State sponsors have constituted a major form of funding; for example, Palestine Liberation Organization, Democratic Front for the Liberation of Palestine and other groups sometimes considered to be terrorist organizations, were funded by the Soviet Union.[179][180] The Stern Gang received funding from Italian Fascist officers in Beirut to undermine the British authorities in Palestine.[181]
+
+""Revolutionary tax"" is another major form of funding, and essentially a euphemism for ""protection money"".[179] Revolutionary taxes ""play a secondary role as one other means of intimidating the target population"".[179]
+
+Other major sources of funding include kidnapping for ransoms, smuggling (including wildlife smuggling),[182] fraud, and robbery.[179] The Islamic State in Iraq and the Levant has reportedly received funding ""via private donations from the Gulf states"".[183] Irish Republican militants, primarily the Provisional Irish Republican Army and the Irish National Liberation Army, and Loyalist paramilitaries, primarily the Ulster Volunteer Force and Ulster Defence Association, received far more financing from criminal and legitimate activities within the British Isles than overseas donations, including Libyan dictator Muammar Gaddafi and NORAID (see Paramilitary finances in the Troubles for more information).[184][185][186][187]
+
+The Financial Action Task Force is an inter-governmental body whose mandate, since October 2001, has included combating terrorist financing.[188]
+
+Tactics
+Main article: Tactics of terrorism
+
+The Wall Street bombing at noon on September 16, 1920, killed thirty-eight people and injured several hundred. The perpetrators were never caught.[189]
+Terrorist attacks are often targeted to maximize fear and publicity, most frequently using explosives.[190] Terrorist groups usually methodically plan attacks in advance, and may train participants, plant undercover agents, and raise money from supporters or through organized crime. Communications occur through modern telecommunications, or through old-fashioned methods such as couriers. There is concern about terrorist attacks employing weapons of mass destruction. Some academics have argued that while it is often assumed terrorism is intended to spread fear, this is not necessarily true, with fear instead being a by-product of the terrorist's actions, while their intentions may be to avenge fallen comrades or destroy their perceived enemies.[191]
+
+Terrorism is a form of asymmetric warfare and is more common when direct conventional warfare will not be effective because opposing forces vary greatly in power.[192] Yuval Harari argues that the peacefulness of modern states makes them paradoxically more vulnerable to terrorism than pre-modern states. Harari argues that because modern states have committed themselves to reducing political violence to almost zero, terrorists can, by creating political violence, threaten the very foundations of the legitimacy of the modern state. This is in contrast to pre-modern states, where violence was a routine and recognised aspect of politics at all levels, making political violence unremarkable. Terrorism thus shocks the population of a modern state far more than a pre-modern one and consequently the state is forced to overreact in an excessive, costly and spectacular manner, which is often what the terrorists desire.[193]
+
+The type of people terrorists will target is dependent upon the ideology of the terrorists. A terrorist's ideology will create a class of ""legitimate targets"" who are deemed as its enemies and who are permitted to be targeted. This ideology will also allow the terrorists to place the blame on the victim, who is viewed as being responsible for the violence in the first place.[194][195]
+
+The context in which terrorist tactics are used is often a large-scale, unresolved political conflict. The type of conflict varies widely; historical examples include:
+
+Secession of a territory to form a new sovereign state or become part of a different state
+Dominance of territory or resources by various ethnic groups
+Imposition of a particular form of government
+Economic deprivation of a population
+Opposition to a domestic government or occupying army
+Religious fanaticism
+Responses
+
+Sign notifying shoppers of increased surveillance due to a perceived increased risk of terrorism
+Responses to terrorism are broad in scope. They can include re-alignments of the political spectrum and reassessments of fundamental values.
+
+Specific types of responses include:
+
+Targeted laws, criminal procedures, deportations, and enhanced police powers
+Target hardening, such as locking doors or adding traffic barriers
+Preemptive or reactive military action
+Increased intelligence and surveillance activities
+Preemptive humanitarian activities
+More permissive interrogation and detention policies
+The term ""counterterrorism"" has a narrower connotation, implying that it is directed at terrorist actors.
+
+Terrorism research
+Terrorism research, also called terrorism studies, or terrorism and counter-terrorism research, is an interdisciplinary academic field which seeks to understand the causes of terrorism, how to prevent it as well as its impact in the broadest sense. Terrorism research can be carried out in both military and civilian contexts, for example by research centres such as the British Centre for the Study of Terrorism and Political Violence, the Norwegian Centre for Violence and Traumatic Stress Studies, and the International Centre for Counter-Terrorism (ICCT). There are several academic journals devoted to the field, including Perspectives on Terrorism.[196][197]
+
+International agreements
+One of the agreements that promote the international legal counterterrorist framework is the Code of Conduct Towards Achieving a World Free of Terrorism that was adopted at the 73rd session of the United Nations General Assembly in 2018. The Code of Conduct was initiated by Kazakhstan President Nursultan Nazarbayev. Its main goal is to implement a wide range of international commitments to counterterrorism and establish a broad global coalition towards achieving a world free of terrorism by 2045. The Code was signed by more than 70 countries.[198]
+
+Response in the United States
+See also: War on Terror
+
+X-ray backscatter technology (AIT) machine used by the TSA to screen passengers. According to the TSA, this is what the remote TSA agent would see on their screen.
+According to a report by Dana Priest and William M. Arkin in The Washington Post, ""Some 1,271 government organizations and 1,931 private companies work on programs related to counterterrorism, homeland security and intelligence in about 10,000 locations across the United States.""[199]
+
+America's thinking on how to defeat radical Islamists is split along two very different schools of thought. Republicans, typically follow what is known as the Bush Doctrine, advocate the military model of taking the fight to the enemy and seeking to democratize the Middle East. Democrats, by contrast, generally propose the law enforcement model of better cooperation with nations and more security at home.[200] In the introduction of the U.S. Army / Marine Corps Counterinsurgency Field Manual, Sarah Sewall states the need for ""U.S. forces to make securing the civilian, rather than destroying the enemy, their top priority. The civilian population is the center of gravity—the deciding factor in the struggle.... Civilian deaths create an extended family of enemies—new insurgent recruits or informants—and erode support of the host nation."" Sewall sums up the book's key points on how to win this battle: ""Sometimes, the more you protect your force, the less secure you may be.... Sometimes, the more force is used, the less effective it is.... The more successful the counterinsurgency is, the less force can be used and the more risk must be accepted.... Sometimes, doing nothing is the best reaction.""[201] This strategy, often termed ""courageous restraint"", has certainly led to some success on the Middle East battlefield. However, it does not address the fact that terrorists are mostly homegrown.[200]
+
+Mass media
+
+Causes of death in the US vs media coverage. The percentage of media attention for terrorism (about 33-35%) is much greater than the percentage of deaths caused by terrorism (less than 0.01%).
+
+La Terroriste, a 1910 poster depicting a female member of the Combat Organization of the Polish Socialist Party throwing a bomb at a Russian official's car
+Mass media exposure may be a primary goal of those carrying out terrorism, to expose issues that would otherwise be ignored by the media. Some consider this to be manipulation and exploitation of the media.[202]
+
+The Internet has created a new way for groups to spread their messages.[203] This has created a cycle of measures and counter measures by groups in support of and in opposition to terrorist movements. The United Nations has created its own online counterterrorism resource.[204]
+
+The mass media will, on occasion, censor organizations involved in terrorism (through self-restraint or regulation) to discourage further terrorism. This may encourage organizations to perform more extreme acts of terrorism to be shown in the mass media. Conversely James F. Pastor explains the significant relationship between terrorism and the media, and the underlying benefit each receives from the other:[205]
+
+There is always a point at which the terrorist ceases to manipulate the media gestalt. A point at which the violence may well escalate, but beyond which the terrorist has become symptomatic of the media gestalt itself. Terrorism as we ordinarily understand it is innately media-related.
+
+— Novelist William Gibson, 2004[206]
+Former British Prime Minister Margaret Thatcher famously spoke of the close connection between terrorism and the media, calling publicity 'the oxygen of terrorism'.[207]
+
+Outcome of terrorist groups
+
+How terrorist groups end (n = 268): The most common ending for a terrorist group is to convert to nonviolence via negotiations (43%), with most of the rest terminated by routine policing (40%). Groups that were ended by military force constituted only 7%.[208]
+Jones and Libicki (2008) created a list of all the terrorist groups they could find that were active between 1968 and 2006. They found 648. Of those, 136 splintered and 244 were still active in 2006.[209] Of the ones that ended, 43% converted to nonviolent political actions, like the Irish Republican Army in Northern Ireland; 40% were defeated by law enforcement; 7% (20 groups) were defeated by military force; and 10% succeeded.
+
+42 groups became large enough to be labeled an insurgency; 38 of those had ended by 2006. Of those, 47% converted to nonviolent political actors. Only 5% were ended by law enforcement, and 21% were defeated by military force. 26% won.[210] Jones and Libicki concluded that military force may be necessary to deal with large insurgencies but are only occasionally decisive, because the military is too often seen as a bigger threat to civilians than the terrorists. To avoid that, the rules of engagement must be conscious of collateral damage and work to minimize it.
+
+Another researcher, Audrey Cronin, lists six primary ways that terrorist groups end:[211]
+
+Capture or killing of a group's leader (Decapitation)
+Entry of the group into a legitimate political process (Negotiation)
+Achievement of group aims (Success)
+Group implosion or loss of public support (Failure)
+Defeat and elimination through brute force (Repression)
+Transition from terrorism into other forms of violence (Reorientation)
+Databases
+The following terrorism databases are or were made publicly available for research purposes, and track specific acts of terrorism:
+
+Global Terrorism Database, an open-source database by the University of Maryland, College Park on terrorist events around the world from 1970 through 2017 with more than 150,000 cases.
+MIPT Terrorism Knowledge Base
+Worldwide Incidents Tracking System
+Tocsearch (dynamic database)
+The following public report and index provides a summary of key global trends and patterns in terrorism around the world:
+
+Global Terrorism Index, produced annually by the Institute for Economics and Peace
+The following publicly available resources index electronic and bibliographic resources on the subject of terrorism:
+
+Human Security Gateway
+The following terrorism databases are maintained in secrecy by the United States Government for intelligence and counterterrorism purposes:
+
+Terrorist Identities Datamart Environment
+Terrorist Screening Database
+Jones and Libicki (2008) includes a table of 268 terrorist groups active between 1968 and 2006 with their status as of 2006: still active, splintered, converted to nonviolence, removed by law enforcement or military, or won. (These data are not in a convenient machine-readable format but are available.)
+
+See also
+Agro-terrorism
+Archives of Terror
+Communist terrorism
+Crimes against humanity
+Cyberterrorism
+Definitions of terrorism
+Economic terrorism
+Economics of terrorism
+Environmental terrorism
+Fearmongering
+Government negotiation with terrorists
+House of Terror
+Left-wing terrorism
+Right-wing terrorism
+List of designated terrorist groups
+List of terrorist incidents
+Narcoterrorism
+Nationalist terrorism
+Nuclear terrorism
+Global Initiative to Combat Nuclear Terrorism
+Palestinian political violence
+Religious terrorism
+Hindutva terrorism
+Islamic terrorism
+Islamic terrorism in Europe
+Christian terrorism
+Jewish religious terrorism
+September 11 attacks in 2001
+Terrorism and social media
+Terrorism in Canada
+Terrorism in Europe
+Terrorism in India
+Terrorism in Indonesia
+Terrorism in Russia
+Terrorism in Saudi Arabia
+Terrorism in Syria
+Terrorism in Thailand
+Terrorism in Turkey
+Terrorism in the United Kingdom
+Terrorism in the United States
+Domestic terrorism in the United States
+Terrorism in Yugoslavia
+Victims of Acts of Terror Memorial
+Violent extremism"
+e5e9975d-5826-4664-83a7-92115931b302,WorldHealthIssues_1.txt,"11 global health issues to watch in 2023, according to IHME experts
+Published December 20, 2022
+
+Authors
+
+ANNIE CHAN
+CONTENT WRITER
+As the year 2022 winds down, what is next on the horizon for global health? We turned to our IHME experts for their takes on the most critical health issues to watch in 2023. Entering our fourth year grappling with COVID-19, most of our experts pointed to issues that were impacted in some way by the pandemic, like long COVID and mental health. They also offered potential interventions to address the threats. 
+
+The faculty members and research scientists who shared their insights are professor Mohsen Naghavi, assistant professor Hwme Kyu, assistant professor Angela Micah, affiliate professor Michael Brauer, affiliate assistant professor Alize Ferrari, lead research scientist Liane Ong, lead research scientist Sarah Wulf Hanson, postdoctoral scholar Christian Razo, postdoctoral scholar Ewerton Cousin, and researcher Emma Nichols. Their comments have been lightly edited for clarity.
+
+1. Long COVIDMan wearing mask experiencing chest pain
+“Long COVID is absolutely a health issue to watch in 2023. The health impact of long COVID often disrupts a person’s ability to engage with school, work, or relationships for months at a time.  
+
+“People with long COVID need diagnostic and proper rehabilitation support from primary care physicians. We desperately need more research to find effective treatments as well as preventive measures to reduce the risk of developing long COVID.” — Sarah Wulf Hanson, lead research scientist of the non-fatal and risk quality enhancement team and lead author of the JAMA paper(link is external) on long COVID  
+ 
+
+2. Mental healthA woman sits on the floor with her head in her hands.
+“Mental disorders are a leading cause of disability worldwide, with no evidence of a decrease in this burden since 1990. The impact of the COVID-19 pandemic, war, and violence on mental health remains a priority, specifically understanding how these have impacted the prevalence and burden of mental disorders in 2022 onward and how countries should be adapting their mental health response accordingly. 
+
+“Currently in the GBD study, we investigate childhood sexual abuse, intimate partner violence, and bullying victimization as risk factors for mental disorders. Going forward, we need a better understanding of the other risk factors for mental disorders, how these vary across different populations, and how to offer the best opportunities for prevention at the population level.” — Alize Ferrari, affiliate assistant professor and team lead for estimating the burden of mental disorders  
+ 
+
+
+
+3. Impact of climate changeA child looks out over a dried up lake
+“Climate change is already affecting the health of millions of people all over the world, and more importantly, climate change will worsen throughout this century. People are experiencing both the direct effects of extreme heat that we measure in the GBD and a myriad of indirect effects. Flooding can force people from their homes and affect their mental health, droughts and storms can impact food security and water availability, and wildfire smoke episodes can increase air pollution. As we know from the pandemic, preparedness is key, and we are far from prepared for the health impacts of a warmer climate.
+
+“Most of the emphasis to date on climate change – and rightly so – has been on what we call mitigation: reducing the emissions that lead to global warming. Yet to date these efforts have been far too modest. We are now at a point where climate change is clearly with us, and much more attention needs to be put on minimizing the impacts on global health through adaptation or enhancing resilience. 
+
+“One aspect of this is improving overall health and enhancing socioeconomic development because we know that those who are more vulnerable will suffer the most. In addition, there are technological solutions that can support adaptation(link is external), such as the use of drought-resistant crops, increasing vegetation in cities to reduce the urban heat island effect, or repurposing land use to adapt to rising sea levels. 
+
+“Air pollution is one of the leading global risk factors that we evaluate in the GBD – currently responsible for about 8% of all global mortality – yet it is a problem with known solutions. Increasing the speed at which we address air pollution will save lives today. Those solutions will move the world closer to the net-zero carbon emissions goals that we need to ultimately address the causes of climate change.” — Michael Brauer, affiliate professor and team lead for estimating the burden of environmental, occupational, and dietary risk factors  
+ 
+
+4. Cardiovascular diseasePerson lying on a hospital bed while doctors take notes on their condition
+“Cardiovascular diseases such as ischemic heart disease and stroke are the leading causes of death globally, accounting for 28% of total deaths in 2021. Additionally, cardiovascular diseases substantially contribute to health loss and the economic burden on health care systems. Most cardiovascular diseases can be prevented by addressing modifiable cardiovascular risk factors such as high blood pressure, high cholesterol, obesity, dietary risks, smoking, and air pollution.” — Christian Razo, postdoctoral scholar on the team estimating cardiovascular disease burden and lead author of a Burden of Proof study on the effects of elevated systolic blood pressure on ischemic heart disease  
+ 
+
+5. Lower respiratory infectionsChild wearing an oxygen mask
+“Lower respiratory infections (LRI), especially respiratory syncytial virus (RSV) and influenza, are health issues to watch in 2023.  
+
+“We saw a general decline in influenza and RSV infections in 2020 due to COVID-19 mitigation measures such as mask use and social distancing. With the relaxation of these measures, many young children who haven’t been exposed to RSV in the past couple of years are being infected, resulting in RSV outbreaks(link is external). Countries have also experienced a surge in influenza(link is external) across all ages.  
+
+“Annual influenza vaccination provides an opportunity to reduce the LRI burden attributable to flu. There is no vaccine yet to prevent RSV, but promising vaccine trials are underway(link is external).” — Hmwe Kyu, assistant professor and team lead for estimating the burden of HIV, TB, and select infectious diseases  
+
+“After experiencing significant disruptions to health care systems worldwide due to the COVID-19 pandemic, the increases in respiratory infections and other communicable diseases have been added to the existing burden of chronic non-communicable diseases, creating a dual burden of disease exacerbated by social inequalities observed globally.” — Christian Razo  
+ 
+
+6. Poverty’s role in healthWomen providing humanitarian aid in Afghanistan
+“It seems that poverty is the mother of inequality in health. The unequal distribution of resources has expanded due to climate change and increasing violence. Low- and middle-income countries experience worse health outcomes than high-income countries: the life expectancy is 34 years lower, the under-5 mortality around 100 times higher, deaths due to interpersonal violence and suicide are 30 times higher, and deaths attributable to antimicrobial resistance (AMR) are 12 times higher. We must urgently address the impact of poverty on health, life, and death.” — Mohsen Naghavi, professor and team lead for causes of death, shocks, intermediate causes and estimating the burden of AMR  
+ 
+
+7. Health systems strengtheningRow of empty hospital beds
+“Strengthening health systems globally remains a critical aspect of what is needed for resilient health systems. This will be particularly relevant as countries refocus their resources and attention after the acute phase of the COVID-19 pandemic.
+
+“I think what is needed is a longer-term commitment from donors and governments – financial and human resources, governance structures, management, information systems – to ensure that interventions are set up for long-term sustainability and can deliver the outcomes that are aspired to across health systems.” — Angela Micah, assistant professor and co-lead of the development assistance for health resource tracking team
+
+“Given the immense strain of COVID-19 on primary care and hospital systems the past two-and-a-half years, attention should be paid to building back up the health care system and enabling frontline workers to do their jobs effectively. Public health leaders and policymakers need to reflect on lessons learned from the pandemic to prevent health care system collapse in the next crisis and to ensure that people who need care can access quality health care.” — Sarah Wulf Hanson  
+ 
+
+8. DiabetesPerson getting finger pricked for a blood test
+“Diabetes is the fourth main cause of DALYs(link is external) in Latin America and the Caribbean, and among the top five causes, it is the only one that shows an increase in the age-standardized rate compared to 1990. The burden of diabetes in the Americas is large, increasing, heterogeneous, and expanding, especially in countries in Central Latin America and the Caribbean. 
+
+“Population-based interventions such as taxes and incentives, more informative food labeling, improving the built environment to facilitate exercise, and greater advocacy to inform people of the risk diabetes poses, combined with expanded health education to combat diabetes risk factors, seem the best options. Policies aimed to help avoid weight gain and improve dietary quality are also paramount. 
+
+“Another important aspect is improving the response of health systems in terms of access and quality care. These should include universal access to low-cost insulin and oral anti-diabetic medication to decrease avoidable deaths from acute complications. Health systems should also strive to furnish feedback from their administrative data systems to providers to help orient diabetes care.” — Ewerton Cousin, postdoctoral scholar on the neglected tropical diseases team and lead author of The Lancet Diabetes & Endocrinology paper(link is external) on diabetes burden in the Americas  
+ 
+
+9. Road injuriesEmergency workers attend to someone at the scene of a car accident
+“Road injuries are still an important and preventable injury. For people 15-49 years old, road injuries are the leading cause of death(link is external).
+
+""Interventions such as helmets, seatbelts, airbags, speed limits, and laws discouraging alcohol-impaired driving do work. But implementation is not the only thing that determines their success – human behavior must adhere to those policies to make them effective."" — Liane Ong, lead research scientist and team lead for estimating the burden of injuries, chronic respiratory diseases, neurological disorders, substance use disorders, diabetes and kidney diseases, sensory organ diseases, musculoskeletal disorders, and impairments (BIRDS)  
+ 
+
+10. DementiaAn older man with a concerned expression attended by a woman
+“Anticipated trends in population growth and population aging are expected to lead to large increases in the number of people affected by dementia globally, underscoring the public health importance of dementia. To adequately care for those with dementia, appropriate planning for the necessary supports and services required is needed.
+
+“Interventions targeting modifiable risk factors, such as low education, smoking, and high blood sugar, have the potential to reduce the overall societal burden and should be prioritized.” — Emma Nichols, researcher on the BIRDS team and lead author of The Lancet Public Health paper(link is external) on dementia forecasting  
+ 
+
+11. Population agingA doctor escorts an elderly woman through a tree-filled park
+“Adapting health systems to support older populations’ needs should be front of mind in 2023. Globally, the proportion of the population that is above 65 is expected to increase in the coming years. While a lot of attention (and rightfully so) has historically focused on diseases that affect children, it will be prudent to begin thinking through and systematically planning for some of these upcoming changes in demography as well, especially in low- and middle-income countries.” — Angela Micah"
