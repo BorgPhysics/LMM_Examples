@@ -76,13 +76,14 @@ def answer_query(question_and_answer_history, question, most_similar_prompts):
     doc_id_counts = Counter(doc_ids)
     # Find the doc_id with the highest count
     most_common_doc_id, occurrences = doc_id_counts.most_common(1)[0]
-    doc_result = data_loader.get_info_by_doc_id(most_common_doc_id)    
+    doc_result = data_loader.get_info_by_doc_id(most_common_doc_id) 
     if doc_result is not None:
 #         doc_id = doc_result['doc_id']
-#         doc_filename = doc_result['doc_filename']
-        document = doc_result['doc_contents']
+        doc_filename = doc_result['doc_filename']
+        document = doc_result['doc_contents'] 
+        print('most_common_doc_id:', most_common_doc_id, doc_filename)  
         answer = process_single_large_document(question_and_answer_history, question, faiss_sentences, document)
-        print('User question:', question, '\nAnswer:', answer)
+        print('\n\nUser question:', question, '\nAnswer:', answer)
         
 def process_single_large_document(question_and_answer_history, user_question, faiss_sentences, large_document):
     qa_model, qa_tokenizer = model_settings.get_qa_model_and_tokenizer()
