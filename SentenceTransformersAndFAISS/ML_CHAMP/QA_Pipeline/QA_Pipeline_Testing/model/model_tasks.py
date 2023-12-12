@@ -52,8 +52,13 @@ def run_preprocessing(preprocessing_commands):
         preprocessing_commands['pretrained_model_location'] = os.path.join(pretrained_model_location, 'artifacts')
         
     # For now, I'm going to use the preprocessing commands to test functionality in the code without generating artifacts
-    analysis_processor.run_various_components()
     analysis_processor.run_preprocessing_commands(pretraining_commands)
+    
+    # Misc testing...
+#     analysis_processor.run_various_components()
+
+    # Run the training method from here so that it doesn't create builds for now
+    analysis_processor.run_lmm_tests()
     
 """
     train_model()

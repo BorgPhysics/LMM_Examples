@@ -11,7 +11,9 @@ data_dir = 'D:/JupyterPrograms/0-CHAT_GPT/EXPERIMENTS/ML_CHAMP/data/'
 index_name = data_dir + 'doc_index.index'
 mapping_name = data_dir + 'sentence_to_index_mapping.json'
 
-def load_index(df, model):
+# This method will attempt to load an existing index and the sentence mappings.
+# If they don't exist, it will rebuild them.
+def load_index(df=None, model=None):
     global index
     global sentence_to_index_mapping
     
@@ -23,7 +25,10 @@ def load_index(df, model):
             with open(mapping_name, 'r') as mapping_file:
                 sentence_to_index_mapping = json.load(mapping_file)
             print(f"Loaded sentence_to_index_mapping from {mapping_name}")
-        else:        
+        else:
+            if not df or not model:
+                raise Exception('An existing index was not found and the dataframe and/or index model were not supplied.')
+                
             # Populate the index and track the sentence ids and locations
             index = faiss.IndexFlatL2(768)  # Create an index
             # Maintain a mapping between sentence embeddings' index and their original sentences

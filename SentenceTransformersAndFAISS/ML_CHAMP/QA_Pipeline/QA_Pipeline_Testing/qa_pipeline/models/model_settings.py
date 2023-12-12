@@ -6,6 +6,7 @@ from transformers import BartTokenizer, BartForConditionalGeneration, BertTokeni
 
 index_transformer_model = None
 index_transformer_model_name = 'sentence-transformers/all-mpnet-base-v2'
+index_transformer_tokenizer = None
 
 summarization_model = None
 summarization_model_name = 'facebook/bart-large-cnn'
@@ -16,12 +17,13 @@ qa_model_name = 'bert-large-uncased-whole-word-masking-finetuned-squad'
 qa_tokenizer = None
 
 # For now, just provide some hard-coded model retrieval methods
-def get_index_transformer_model():
+def get_index_transformer_model_and_tokenizer():
     global index_transformer_model
+    global index_transformer_tokenizer
     if index_transformer_model is None:
         # Load it
         index_transformer_model = SentenceTransformer(index_transformer_model_name)
-    return index_transformer_model
+    return index_transformer_model, index_transformer_tokenizer
         
 def get_summarization_model_and_tokenizer():
     global summarization_model
