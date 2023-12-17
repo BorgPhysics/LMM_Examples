@@ -3,7 +3,10 @@
 from sentence_transformers import SentenceTransformer
 from transformers import BartTokenizer, BartForConditionalGeneration, BertTokenizer, BertForQuestionAnswering
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
+import logging
 
+# Set the logging level to suppress warnings
+logging.getLogger("transformers").setLevel(logging.ERROR)
 
 index_transformer_model = None
 index_transformer_model_name = 'sentence-transformers/all-mpnet-base-v2'
@@ -49,7 +52,7 @@ def get_summarization_model_and_tokenizer():
         # Load the pre-trained BART model for summarization
         summarization_model = BartForConditionalGeneration.from_pretrained(summarization_model_name)
     else:
-        print('Using the PRELOADED summarization model and tokenizer...')
+        print('USING THE PRELOADED summarization model and tokenizer...')
 
     return summarization_model, summarization_tokenizer
 
@@ -73,6 +76,8 @@ def get_qa_model_and_tokenizer():
         qa_model_name = 'gpt2'
         qa_model = GPT2LMHeadModel.from_pretrained(qa_model_name)
         qa_tokenizer = GPT2Tokenizer.from_pretrained(qa_model_name)
+        # Set padding token
+        qa_tokenizer.pad_token = qa_tokenizer.eos_token
 #         # Load the BART tokenizer
 #         qa_tokenizer = BertTokenizer.from_pretrained(qa_model_name)
 

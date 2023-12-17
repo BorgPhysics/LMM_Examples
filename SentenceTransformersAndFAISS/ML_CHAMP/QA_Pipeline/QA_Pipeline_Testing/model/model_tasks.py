@@ -79,7 +79,7 @@ def train_model():
     #  - Generating test results.
     #  - Save the trained model.
     ###############################
-    pass
+#     analysis_processor.run_lmm_tests(history_record)
 
 """
     run_postprocessing(preprocessing_commands)
