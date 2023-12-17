@@ -25,15 +25,6 @@ def run_preprocessing_commands(preprocessing_commands):
     for preprocessing_command in preprocessing_commands:
         if preprocessing_command.get('check_for_new_docs', False):
             data_loader.update_document_index()
-        
-#         ts = preprocessing_command.get('test_size', None)
-#         rs = preprocessing_command.get('random_state', None)
-#         if ts:
-#             test_size = ts
-#         elif rs:
-#             random_state = rs
-#         if not data:
-#             data, target, target_column_name, descr = datasource_processor.get_data(preprocessing_command)
 
 def run_lmm_tests():
     # TASKS:
@@ -45,21 +36,6 @@ def run_lmm_tests():
     for question in questions:
         # For each question, get the list of best sentence fragment matches from the index.
         most_similar_prompts = get_index_responses(question)
-        
-        ##########  PRINT STATEMENTS  ##########
-#         print('USER QUERY:', question)
-#         print("Most similar prompts to the user query:")
-#         for doc_id, sentence_idx, sentence in most_similar_prompts:
-#             result = data_loader.get_info_by_doc_id(doc_id) 
-#             if result is not None:
-#                 doc_idx = result['doc_id']
-#                 filename = result['doc_filename']
-#                 print(f"\nDocument Index: {doc_idx}\t Sentence Index: {sentence_idx}\t Filename: {filename}")
-#                 print(f"Sentence:\n******************************\n\t{sentence}")
-#                 print('******************************\n')
-#             else:
-#                 print("Document ID", doc_id, "associated with sentence_idx", sentence_idx, "not found in the DataFrame")
-        ##########  PRINT STATEMENTS  ##########
     
         # Now that you have the most_similar_prompts, call the method to run the query
         answer = answer_query(question_and_answer_history, question, most_similar_prompts)
@@ -87,10 +63,47 @@ def answer_query(question_and_answer_history, question, most_similar_prompts):
         
 def process_single_large_document(question_and_answer_history, user_question, faiss_sentences, large_document):
     qa_model, qa_tokenizer = model_settings.get_qa_model_and_tokenizer()
+
+    # Concatenate FAISS sentences with the user question to form the context
+    faiss_context = ' '.join(faiss_sentences)
+    context = user_question + " " + faiss_context
+
+    # Print the length of the combined context
+    print("Length of combined context:", len(context.split()))
+
+    # Tokenize the context
+    inputs = qa_tokenizer.encode(context, return_tensors="pt")
+
+    # Set the maximum sequence length according to the model's maximum token limit
+    max_length = qa_model.config.max_position_embeddings
+    print('max_length:', max_length)
+
+    # Generate text using GPT-2 model
+    generated = qa_model.generate(inputs, max_length=max_length, num_return_sequences=2, do_sample=True)
+    
+    # Decode and print the generated text
+    for i, g in enumerate(generated):
+        decoded_text = qa_tokenizer.decode(g, skip_special_tokens=True)        
+        # Remove the user question from the decoded text
+        if user_question in decoded_text:
+            decoded_text = decoded_text.replace(user_question, "").strip()
+            
+        print(f"\n\nGENERATED SEQUENCE {i + 1}: {decoded_text}")
+        # Summarize the generated text
+        summarized_text = model_settings.summarize_text(decoded_text)        
+        print(f"\nSUMMARIZED SEQUENCE {i + 1}: {summarized_text}\n")
+
+    return generated
+        
+def process_single_large_document_prev(question_and_answer_history, user_question, faiss_sentences, large_document):
+    qa_model, qa_tokenizer = model_settings.get_qa_model_and_tokenizer()
     
     # Concatenate FAISS sentences with the user question to form the context
     faiss_context = ' '.join(faiss_sentences)
     context = user_question + " " + faiss_context
+
+    # Print the length of the combined context
+    print("Length of combined context:", len(context.split()))
 
     # Tokenize the context and large document separately
     tokenized_context = qa_tokenizer.encode_plus(context, return_tensors="pt", max_length=512, truncation=True)
@@ -104,6 +117,10 @@ def process_single_large_document(question_and_answer_history, user_question, fa
     # Concatenate the tokenized context and truncated document
     input_ids = torch.cat([tokenized_context['input_ids'], input_ids_doc], dim=1)
     attention_mask = torch.cat([tokenized_context['attention_mask'], attention_mask_doc], dim=1)
+    
+    # Print input_ids, attention_mask
+    print("Input IDs:", input_ids)
+    print("Attention Mask:", attention_mask)
 
     # Answer the question based on the combined context and document
     with torch.no_grad():
@@ -119,10 +136,14 @@ def process_single_large_document(question_and_answer_history, user_question, fa
     # Decode the tokens into the answer text
     answer = qa_tokenizer.decode(input_ids[0][start_idx:end_idx+1], skip_special_tokens=True)
     
+    # Print generated answer
+    print("Generated Answer:", answer)
+    
     return answer
     
 
 def get_questions():
+    questions = ["Could you provide a comprehensive overview of the impact of climate change on global health, considering various aspects and potential implications?"]
     questions = ["How is global health affected by climate change?"]
     return questions
 
@@ -253,6 +274,51 @@ def test_user_query(df, model, index, sentence_to_index_mapping):
             print('******************************\n')
         else:
             print("Document ID", doc_id, "associated with sentence_idx", sentence_idx, "not found in the DataFrame")
+
+
+def run_preprocessing_commands_OLD(preprocessing_commands):
+    
+    # Loop through the pretraining commands to get the things that we need
+    for preprocessing_command in preprocessing_commands:
+        if preprocessing_command.get('check_for_new_docs', False):
+            data_loader.update_document_index()
         
+#         ts = preprocessing_command.get('test_size', None)
+#         rs = preprocessing_command.get('random_state', None)
+#         if ts:
+#             test_size = ts
+#         elif rs:
+#             random_state = rs
+#         if not data:
+#             data, target, target_column_name, descr = datasource_processor.get_data(preprocessing_command)        
+
+def run_lmm_tests_OLD():
+    # TASKS:
+    # Generate question, query index, generate prompts for final LMM, get final answer
+    # The Ensembles example has this in the code: if not pretrained_model_directory:
+    # This can be substituted with questions and answers that have occurred in this 'conversation'
+    print('Running LMM Tests...')
+    questions = get_questions()
+    for question in questions:
+        # For each question, get the list of best sentence fragment matches from the index.
+        most_similar_prompts = get_index_responses(question)
+        
+        ##########  PRINT STATEMENTS  ##########
+#         print('USER QUERY:', question)
+#         print("Most similar prompts to the user query:")
+#         for doc_id, sentence_idx, sentence in most_similar_prompts:
+#             result = data_loader.get_info_by_doc_id(doc_id) 
+#             if result is not None:
+#                 doc_idx = result['doc_id']
+#                 filename = result['doc_filename']
+#                 print(f"\nDocument Index: {doc_idx}\t Sentence Index: {sentence_idx}\t Filename: {filename}")
+#                 print(f"Sentence:\n******************************\n\t{sentence}")
+#                 print('******************************\n')
+#             else:
+#                 print("Document ID", doc_id, "associated with sentence_idx", sentence_idx, "not found in the DataFrame")
+        ##########  PRINT STATEMENTS  ##########
+    
+        # Now that you have the most_similar_prompts, call the method to run the query
+        answer = answer_query(question_and_answer_history, question, most_similar_prompts)
         
     
