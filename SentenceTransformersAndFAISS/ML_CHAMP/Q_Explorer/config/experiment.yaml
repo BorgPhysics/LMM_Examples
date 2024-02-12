@@ -1,0 +1,28 @@
+---
+#####################################################################
+# Information associated with the ML CHAMP application        #
+# The ONLY requirement here is the project_name* variable.
+#####################################################################
+
+Responsible_AI:
+  version: 0.0.1
+
+######################################################################
+# Section: Experiment                                                #
+# This section defines your experiment's name                        #
+# You can define other variables here that are easy to access from   #
+# the harness.                                                       #
+# For example, getting the project_name* is done as shown below:     #
+#                                                                    #
+# from ..utils import *                                              #
+# project_name = get_config_value('Experiment.project.project_name*')#
+######################################################################
+
+Experiment:
+  project:
+      project_name* : Default
+      # If it looks like a number (shows up green in Jupyter), you have to put it in quotes.  
+      # version* : '0.1'
+      #experiment_name : Experiment-X
+      # The version* and experiment_name variables are optional but 
+      # can be used to further subdivide experiment names if desired.
