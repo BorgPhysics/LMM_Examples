@@ -1,0 +1,67 @@
+NOTE: All methodology types are used as an input context to the final LMM model.
+
+
+
+METHODOLOGY: Question, FAISS Vector Summaries & Related Docs
+This methodology 
+ORIGINAL QUESTION: What are the main concerns with AI?
+most_similar_faiss_sentences: [('00226ddc-431c-4943-8409-2ac0b7dac433', 233, 'Concerns, further future, and sentient artificial intelligence\nTechnology can be misused.'), ('61f06291-5385-4dfb-acda-88f74e955c15', 709, 'As a General-Purpose Technology, AI will affect many areas of the\ncommercial and military sectors.'), ('80d78a9b-57d2-4060-9667-92e9378abaf3', 64, 'Privacy and data security also remain critical concerns, as AI applications deal with vast amounts of personal information.'), ('0a2a5371-9efa-4690-b0cb-f178af34228b', 18, 'This type of AI technology also could create critical privacy, security, confidentiality, and content concerns.'), ('0a2a5371-9efa-4690-b0cb-f178af34228b', 3, 'Although AI has clear benefits, it also brings many legal implications.'), ('1733c782-c96f-4594-91bc-e331af52112d', 1, 'What will artificial intelligence do to industries and jobs?'), ('61f06291-5385-4dfb-acda-88f74e955c15', 769, 'The challenges they faced were tremendous.122\nUnfortunately, AI has the potential to be every bit as fraught with risk\nas these prior cases, perhaps more so given the speed of technological\nprogress and the more complicated relationship between government\nand industry in the current era.'), ('0a2a5371-9efa-4690-b0cb-f178af34228b', 8, 'However, the reliance on AI as a decision-making mechanism has its risks, especially a financial risk to the user.'), ('00226ddc-431c-4943-8409-2ac0b7dac433', 112, 'Current forms of AI have limits.')]
+
+There are 5 unique docs in a total of 9
+	Processing document: 61f06291-5385-4dfb-acda-88f74e955c15 AI_2.txt
+	Intermediate Summary Answer:
+		 This report is on behalf of Dr. Jason Matheny, Director of the U.S. Intelligence Advanced Research Projects Activity. The authors thank the Belfer Center for Science and International Affairs, Harvard Kennedy School, and the Mossavar-Rahmani Center for Business and Government for their generous financial support.
+	Processing document: 0a2a5371-9efa-4690-b0cb-f178af34228b AI_6.txt
+	Intermediate Summary Answer:
+		 Artificial intelligence (AI) is beginning to be embraced by those within the sports world. Although AI has clear benefits, it also brings many legal implications. Privacy and data security remain critical concerns, as AI applications deal with vast amounts of personal information.
+	Processing document: 80d78a9b-57d2-4060-9667-92e9378abaf3 AI_3.txt
+	Intermediate Summary Answer:
+		 The travel industry has always been at the forefront of embracing technological advancements. Chatbots have emerged as a game-changer, reshaping how travelers interact with companies. Statistics reveal that the worldwide chatbot market size was estimated at a staggering USD 5,132.8 million in 2022.
+	Processing document: 00226ddc-431c-4943-8409-2ac0b7dac433 AI_4.txt
+	Intermediate Summary Answer:
+		 Artists have more time and resources to create their content, create, and share projects. Only 3% of the world's digital artists are in a position to create art that is meaningful and valuable to any of us.
+	Processing document: 1733c782-c96f-4594-91bc-e331af52112d AI_5.txt
+	Intermediate Summary Answer:
+		 Mihir Desai and Jedrzej Krzyszkowski: What the Finance Industry Tells us about the Future of AI. The experience of finance is both encouraging and sobering for an AI-dominated future. It suggests that AI will transform some (but not all) industries.
+
+SUMMARIZED RESPONSE: Artificial intelligence (AI) is beginning to be embraced by those within the sports world. Chatbots have emerged as a game-changer, reshaping how travelers interact with companies. The experience of finance is both encouraging and sobering for an AI-dominated future.
+
+	The doc ID, doc name and sentences used for this summary were:
+
+	 00226ddc-431c-4943-8409-2ac0b7dac433 AI_4.txt 
+		 Concerns, further future, and sentient artificial intelligence
+Technology can be misused.
+
+	 61f06291-5385-4dfb-acda-88f74e955c15 AI_2.txt 
+		 As a General-Purpose Technology, AI will affect many areas of the
+commercial and military sectors.
+
+	 80d78a9b-57d2-4060-9667-92e9378abaf3 AI_3.txt 
+		 Privacy and data security also remain critical concerns, as AI applications deal with vast amounts of personal information.
+
+	 0a2a5371-9efa-4690-b0cb-f178af34228b AI_6.txt 
+		 This type of AI technology also could create critical privacy, security, confidentiality, and content concerns.
+
+	 0a2a5371-9efa-4690-b0cb-f178af34228b AI_6.txt 
+		 Although AI has clear benefits, it also brings many legal implications.
+
+	 1733c782-c96f-4594-91bc-e331af52112d AI_5.txt 
+		 What will artificial intelligence do to industries and jobs?
+
+	 61f06291-5385-4dfb-acda-88f74e955c15 AI_2.txt 
+		 The challenges they faced were tremendous.122
+Unfortunately, AI has the potential to be every bit as fraught with risk
+as these prior cases, perhaps more so given the speed of technological
+progress and the more complicated relationship between government
+and industry in the current era.
+
+	 0a2a5371-9efa-4690-b0cb-f178af34228b AI_6.txt 
+		 However, the reliance on AI as a decision-making mechanism has its risks, especially a financial risk to the user.
+
+	 00226ddc-431c-4943-8409-2ac0b7dac433 AI_4.txt 
+		 Current forms of AI have limits.
+AVERAGE SCORE: 0.3756259136078977 
+END OF Question, FAISS Vector Summaries & Related Docs METHODOLOGY
+
+
+Generating question statistics...

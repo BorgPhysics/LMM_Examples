@@ -1,0 +1,27 @@
+NOTE: All methodology types are used as an input context to the final LMM model.
+
+
+There are 1 unique docs in a total of 1
+most_similar_faiss_sentences: [('783fb29b-29b0-4622-9a63-e19ebe0a1f68', 22, 'We are now at a point where climate change is clearly with us, and much more attention needs to be put on minimizing the impacts on global health through adaptation or enhancing resilience.')]
+
+	The doc ID, doc name and sentences used for this summary were:
+
+	 783fb29b-29b0-4622-9a63-e19ebe0a1f68 WorldHealthIssues_1.txt 
+		 We are now at a point where climate change is clearly with us, and much more attention needs to be put on minimizing the impacts on global health through adaptation or enhancing resilience.
+
+
+METHODOLOGY: Question, FAISS Vector Summaries & Related Docs
+This methodology 
+ORIGINAL QUESTION: How is global health affected by climate change?
+
+There are 1 unique docs in a total of 1
+	Processing document: 783fb29b-29b0-4622-9a63-e19ebe0a1f68 WorldHealthIssues_1.txt
+	Intermediate Summary Answer:
+		 Climate change is already affecting the health of millions of people all over the world. Air pollution is one of the leading global risk factors that we evaluate. There are no studies on the causes and effects of air pollution.
+
+SUMMARIZED RESPONSE: Air pollution is one of the leading global risk factors that we evaluate. There are no studies on the causes and effects of air pollution. Climate change is already affecting the health of millions of people all over the world.
+AVERAGE SCORE: 0.7969202923795997 
+END OF Question, FAISS Vector Summaries & Related Docs METHODOLOGY
+
+
+Generating question statistics...

@@ -1,0 +1,67 @@
+NOTE: All methodology types are used as an input context to the final LMM model.
+
+
+
+METHODOLOGY: Question, FAISS Vector & Related Docs
+This methodology is the same as the Question & FAISS Vector methodology but also includes the FAISS-related docs in the context for the final LMM.
+ORIGINAL QUESTION: What are the main concerns with AI?
+most_similar_faiss_sentences: [('00226ddc-431c-4943-8409-2ac0b7dac433', 233, 'Concerns, further future, and sentient artificial intelligence\nTechnology can be misused.'), ('61f06291-5385-4dfb-acda-88f74e955c15', 709, 'As a General-Purpose Technology, AI will affect many areas of the\ncommercial and military sectors.'), ('80d78a9b-57d2-4060-9667-92e9378abaf3', 64, 'Privacy and data security also remain critical concerns, as AI applications deal with vast amounts of personal information.'), ('0a2a5371-9efa-4690-b0cb-f178af34228b', 18, 'This type of AI technology also could create critical privacy, security, confidentiality, and content concerns.'), ('0a2a5371-9efa-4690-b0cb-f178af34228b', 3, 'Although AI has clear benefits, it also brings many legal implications.'), ('1733c782-c96f-4594-91bc-e331af52112d', 1, 'What will artificial intelligence do to industries and jobs?'), ('61f06291-5385-4dfb-acda-88f74e955c15', 769, 'The challenges they faced were tremendous.122\nUnfortunately, AI has the potential to be every bit as fraught with risk\nas these prior cases, perhaps more so given the speed of technological\nprogress and the more complicated relationship between government\nand industry in the current era.'), ('0a2a5371-9efa-4690-b0cb-f178af34228b', 8, 'However, the reliance on AI as a decision-making mechanism has its risks, especially a financial risk to the user.'), ('00226ddc-431c-4943-8409-2ac0b7dac433', 112, 'Current forms of AI have limits.')]
+
+There are 5 unique docs in a total of 9
+	Processing document: 61f06291-5385-4dfb-acda-88f74e955c15 AI_2.txt
+	Intermediate Summary Answer:
+		 The study was conducted on behalf of Dr. Jason Matheny, Director of the U.S. Intelligence Advanced Research Projects Activity (IARPA) The authors thank their advisors at Harvard Kennedy School and Harvard Business School for their insight and dedication.
+	Processing document: 0a2a5371-9efa-4690-b0cb-f178af34228b AI_6.txt
+	Intermediate Summary Answer:
+		 Sleeping is a major concern. The more often you wake up, the more uncomfortable it becomes to watch sports results. Sleep is especially important for athletes who are on track or with friends. It is hard to determine if athletes actually benefit from exercise or will suffer less.
+	Processing document: 80d78a9b-57d2-4060-9667-92e9378abaf3 AI_3.txt
+	Intermediate Summary Answer:
+		 Artificial Intelligence (AI) is becoming widely used in various fields, impacting also the travel industry. The travel and tourism industry has embraced AI’s potential, leveraging its power to drive workforce optimization.
+	Processing document: 00226ddc-431c-4943-8409-2ac0b7dac433 AI_4.txt
+	Intermediate Summary Answer:
+		 Artificial intelligence (AI) will affect almost every aspect of our lives and replace many of our jobs. On one view, machines are well suited to take over automated tasks and humans would remain important to creative endeavors. In this essay, I examine the potential role of AI in one particularly creative human activity—the appreciation and production of art.
+	Processing document: 1733c782-c96f-4594-91bc-e331af52112d AI_5.txt
+	Intermediate Summary Answer:
+		 Artificial intelligence (AI) has caused many people to question what an AI-dominated future looks like. Will AI transform industries? If so, will it democratize or consolidate them? Will it create better or worse outcomes? Outlines of answers can be found in the world of finance which has been transformed in the last decade.
+
+SUMMARIZED RESPONSE: Artificial intelligence (AI) will affect almost every aspect of our lives and replace many of our jobs. On one view, machines are well suited to take over automated tasks and humans would remain important to creative endeavors. Travel and tourism industry has embraced AI’s potential, leveraging its power to drive workforce optimization.
+
+	The doc ID, doc name and sentences used for this summary were:
+
+	 00226ddc-431c-4943-8409-2ac0b7dac433 AI_4.txt 
+		 Concerns, further future, and sentient artificial intelligence
+Technology can be misused.
+
+	 61f06291-5385-4dfb-acda-88f74e955c15 AI_2.txt 
+		 As a General-Purpose Technology, AI will affect many areas of the
+commercial and military sectors.
+
+	 80d78a9b-57d2-4060-9667-92e9378abaf3 AI_3.txt 
+		 Privacy and data security also remain critical concerns, as AI applications deal with vast amounts of personal information.
+
+	 0a2a5371-9efa-4690-b0cb-f178af34228b AI_6.txt 
+		 This type of AI technology also could create critical privacy, security, confidentiality, and content concerns.
+
+	 0a2a5371-9efa-4690-b0cb-f178af34228b AI_6.txt 
+		 Although AI has clear benefits, it also brings many legal implications.
+
+	 1733c782-c96f-4594-91bc-e331af52112d AI_5.txt 
+		 What will artificial intelligence do to industries and jobs?
+
+	 61f06291-5385-4dfb-acda-88f74e955c15 AI_2.txt 
+		 The challenges they faced were tremendous.122
+Unfortunately, AI has the potential to be every bit as fraught with risk
+as these prior cases, perhaps more so given the speed of technological
+progress and the more complicated relationship between government
+and industry in the current era.
+
+	 0a2a5371-9efa-4690-b0cb-f178af34228b AI_6.txt 
+		 However, the reliance on AI as a decision-making mechanism has its risks, especially a financial risk to the user.
+
+	 00226ddc-431c-4943-8409-2ac0b7dac433 AI_4.txt 
+		 Current forms of AI have limits.
+AVERAGE SCORE: 0.3672855317203289 
+END OF Question, FAISS Vector & Related Docs METHODOLOGY
+
+
+Generating question statistics...

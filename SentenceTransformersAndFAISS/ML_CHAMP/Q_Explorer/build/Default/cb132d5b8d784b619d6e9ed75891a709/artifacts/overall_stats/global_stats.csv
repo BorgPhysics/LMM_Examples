@@ -1,0 +1,5 @@
+dir,Question,Methodology,score1,score2,score3,average_score
+0,"Could you provide a comprehensive overview of the impact of climate change on global health, considering various aspects and potential implications?","Question, FAISS Vector Summaries & Related Docs",0.48189576758647956,0.7956193727287796,0.48185224498669255,0.5864557951006506
+1,How is global health affected by climate change?,"Question, FAISS Vector Summaries & Related Docs",0.6787005206316706,0.8207699405513874,0.891290415955741,0.7969202923795997
+2,How will AI help us in the future?,"Question, FAISS Vector Summaries & Related Docs",0.7997936685262281,0.14535934319519073,0.29544883359763796,0.4135339484396856
+3,What are the main concerns with AI?,"Question, FAISS Vector Summaries & Related Docs",0.12032595238568644,0.0011392274437020955,0.7219499264342363,0.2811383687545416

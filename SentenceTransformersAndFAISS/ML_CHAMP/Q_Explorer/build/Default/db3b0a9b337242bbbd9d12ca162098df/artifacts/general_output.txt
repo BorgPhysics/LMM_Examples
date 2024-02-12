@@ -1,0 +1,594 @@
+No initial questions found, loaded stored questions.
+Processing questions.
+	 ['What are the main concerns with AI?']
+
+Size of FINAL GENERATED OUTPUT is 596 
+	 This report is on behalf of Dr. Jason Matheny, Director of the U.S. Intelligence Advanced Research Projects Activity (IARPA) The authors would like to thank their advisors at Harvard Kennedy School and Harvard Business School for their insight and dedication to the success of this project. Their work was funded by grants from IARPA, the Rockefeller Philanthropic Foundation, the U.S. Department of Education, the Defense Advanced Research Projects Agency, U.S. Department of Defense Office of Research Activities, and the National Science Foundation and support for the DARPA Science Institute.
+
+Size of FINAL GENERATED OUTPUT is 34476 
+	 How AI is Changing the Sports Industry
+by: Richard L. Brand, Eric Fishman, Anjelica L. Fuccillo of ArentFox Schiff LLP  -  Perspectives/Alerts
+ Wednesday, August 2, 2023
+pitching to make a mound
+RELATED PRACTICES & JURISDICTIONS
+Entertainment, Art & Sports
+Administrative & Regulatory
+Communications, Media & Internet
+All Federal
+ 
+Much has changed since the “Moneyball” theory revolutionized how technology is used throughout the sports industry and influenced the way fans and experts consume and analyze sports. As is the case in other industries, the next generation of technology, artificial intelligence (AI), is beginning to be embraced by those within the sports world.
+
+While AI continues to evolve and gain more attention in everyday life, the sports industry is already seeing a rapid and impactful increase of AI presence and utility. Although AI has clear benefits, it also brings many legal implications. This alert examines the many ways in which  we, the professional sports and entertainment industries could be affected by AI.
+I am part of a team that is working on an Artificial Intelligence Advisory Committee that will go to the legal, ethical, environmental, civil society, business, public and political levels to address legal issues relating to AI, and to ensure that companies are taking action that will lead to greater business prosperity. I'm a member of a coalition of companies and individuals called the International Association of Sports Business Officials, known as  "AIAG ".  An IPO is a non-governmental organization with a common goal of improving competition for sport.  It is responsible for ensuring the safety and security of its members. The International Association of Sports Business Officials is led by the same team of leading professional sports officials who are engaged in the following areas: sports regulatory;
+Legal, ethics and public policy matters; (see http://www.isaa.org.uk/AIAG.asp)
+Electronic sports and entertainment business;
+Emissions, broadcasting, distribution and promotion of sports; and (see http://www.seasport.co.uk/eng/Emissions-and-News/Emissions-and-Revenue-and-Competition/ )
+Education and employment and public employment and public health and disease-monitoring; careers; education and employment.  There are also various forms of "virtual" services, such as telephones, video, video conference planning, media and advertising.
+AI can, of course, influence sports as it can use the resources of the sports industry and the public in the manner it sees fit. The implications of a change in sports laws, especially in the United States, and the legalities of the "private" sector will be very evident next week. This warning is intended primarily to help athletes who are concerned about what they would be able to accomplish in their sports careers and not simply their sports professional careers. Those interested in getting your legal questions answered are encouraged to use the AI FAQ at http://www.imdb.com/title/tt012855/. (See the original article below.)  It is important to read this alert as it is likely to be of no use in courtrooms or public forums today, although I would highly recommend not doing so. But as this alert would suggest, as with any legal matter, I think it very well may be worth reading.
+It should be pointed out that  these updates to the 《 2014 Rules of Procedural Game  (pdf) on  football and  basketball-related 《 sports are posted live from around the Internet. This includes on social media sites and blogs.
+Please see this  warning from the 《 2014 Rules of Procedural Game  on  football and  basketball-related 《 sports  from around the Internet, which shows that the public, the military, and the courts expect professional sports to play at some level of their level.
+On September 11, 2012 two teams were chosen by a jury to represent the Patriots as a defensive team against a third-division club in the AFC South. The jury made a finding stating that the teams are "not in any way affiliated by any legal entities."  If that finding is true, the Patriots will have a $15,000 loss each round of football.  If it is not true, the Patriots will have the loss go to their own team for a season's salary and then pay $15,000 more to a third-division team, meaning that they would be able to lose $12,000 instead of $11,000. If the jury believes this is false, the Patriots would be eligible to move on to the next round of the AFC South. If not, the other team will earn a $10 AI is currently being used in the sports industry, some of the potential uses in the near future, and several key legal and practical considerations that should be considered as AI continues to be more broadly implemented.
+
+Sports Betting and Fantasy Sports Contests
+Sports betting has become a multibillion dollar industry now that sports fans in many states may easily (and legally) place a bet or wager. With the increased usage – and the potential for financial gain – gamblers are turning to AI to gain an advantage. AI’s tools can assist users in streamlining data and comparing players, assessing the impact of an injury, and evaluating starting lineups and potential trades.
+
+However, the reliance on AI as a decision-making mechanism has its risks, especially a financial risk to the user. Reliability of results, patterns, and predictions depends on accurate and up-to-date data inputs that are not accessible to the user. Therefore, it is important to disclose that AI tools do not guaranty reliability or accuracy, but we are fully aware of how AI can be used by athletes for their legitimate sporting purposes, and if needed to provide a level playing field. As the potential for financial gain outweighs the potential for harm, the possibility of the use of AI to the advantage of a given athlete, regardless of the outcome, is the real threat.
+
+To provide a clear answer to these considerations in this article, we present the following scenario:
+
+A male player reaches 100% of the total number of wins for the 2012/13 season. The game is in 2 phases. The primary goal is to improve his odds of winning. The third and final phase consists of an intense match, with the player aiming to win 1 point or more before the game is over.
+
+Although that scenario is not ideal, as it does not require that AI be involved, this scenario provides an ideal solution for both the player and the team.
+
+With an average point win at 85%, the goal would be to be in top 5 in the next season(s), and as such, only 5.4 points/game are possible. While the current AI system is a significant feature for human football, there are far less users than expected due to the lack of a database that allows for the selection of the correct scorers and a more realistic simulation of an average game. Because of the low cost of the system, though, there are no legal or practical risks that would be considered to the player. So, in this case the best choice is to play a game where both goals are achieved.
+
+If a loss is due to penalties after the player makes an obvious mistake, the player pays the full penalty score before he is put out, a risk that is worth taking before he gets a better win. This is an extremely flexible scenario for any individual. Nevertheless, a player can avoid paying the full penalty score for all his goals if, for example, he receives a ball for 2 points before a goal is made.
+
+The team is still able to gain this percentage point, so even if they win, the player loses if they play more against one opponent. While it is certainly possible to achieve that win with a different type of strategy, the most effective and practical solution is more involved with an individual's personal philosophy and preferences. This could include choosing a particular target to maximize your win probability, a choice that would ultimately cost them a victory and more, or the use of a different tool such as AI that will be based on their personal values.
+
+The following scenarios provide a more realistic and intuitive picture of the use of AI in a real life situation.
+
+A player from Los Angeles has made a penalty on their first goal against Manchester United. It might be difficult for the player to decide whether to use a different AI strategy, but the player would still find it preferable to playing against other teams to gain such a point for free. Using a AI strategy would result in the player gaining that point for free for each game, at a premium cost.
+
+A player from London in a Champions League game in which they lose 5 points. The player may be able to win, but will still take the most points by playing the best possible game.
+
+A player from Chicago in a Champions League game in which they lose 2 points. The player may be able to win, but will still take the most points by playing the best possible game.
+
+The player from Los Angeles is playing a Champions League game with a penalty point total of 7.
+
+A team from Los Angeles has no penalty points, so the result is a 6 victory for the team. An AI tool will provide a much more realistic and clear picture of the overall play. To create this level playing field, it would be important for players to fully understand the risk factors in an effort to gain some level playing out of their goals. The above scenarios are the examples for every type of strategy discussed here as well as some more general scenarios.
+
+Game 1
+
+Using ee success. This may be achieved by addressing the risks of using AI in Terms of Use (such as accuracy disclaimers) or emphasizing on operators’ websites that AI tools are for decision-making support (and not exclusively for decision-making).
+
+Coaches’ and Front Office Personnel’s Preparation
+Coaches and front office personnel are leveraging the tools afforded by AI to gain a competitive edge. The improved data processing capabilities can help coaches better evaluate player performance, identify areas that need improvement, and recognize the strengths and weaknesses of individual athletes. AI can also streamline film study by isolating the most relevant footage and recognizing patterns that may not be easily detectable to the human eye. Virtual reality, powered by AI, can immerse athletes in simulated environments to replicate opponents and help hone their skills. Moreover, AI’s algorithms and pattern recognition capabilities can potentially revolutionize player scouting and recruitmen who identify their strengths as opposed to players who are in the best shape to develop them. The new technology could greatly improve the training regimen for coaches by offering coaches the tools and expertise to improve their team's ability to evaluate their athletes and improve their coach's ability to teach athletes.
+
+The development of an AI for a business could also enable the development of a system for training for athletes. Training is much a complex process. The software development needs for individual athletes could be much more extensive. This could lead to the development of a system for training the best athletes for training for specific events, but not for the rest of the business. t because they can forecast the skill level and success of prospects.
+
+However, these tools rely heavily on data consumption, a complex legal issue that raises important questions on how data is gathered and stored. This type of AI technology also could create critical privacy, security, confidentiality, and content concerns.
+
+Automated Officiating
+An important benefit of AI is the elimination of human error and bias – two factors that tend to be at the center of attention when it comes to officiating sporting events. Professional sports leagues have already implemented automated technology in their officiating programs in an effort to make the inherently unreliable task of officiating more reliable. One example is Major League Baseball’s (MLB) testing of its AI-generated automated ball-strike (ABS) system to standardize umpires’ calling of balls and strikes. The ABS system was originally introduced on a limited basis in Minor League Baseball in 2022 to determine challenged ball/strike situations. In the MLB's new ball-strike rule in 2015, umpires in the minor leagues and international leagues that have never been required to manually prepare a game were required to use a manual process in order to certify their balls and strikes.
+
+The result of these steps has been to reduce fielding errors that are high or nonexistent in most ball-strike situations, resulting in an increase in playing time for league players when the play ends. This makes the ABS much less susceptible to error and, thereby, a greater likelihood of winning a game. At a minimum, however, it seems to reduce the possibility of errors that fall outside the rule.
+
+Unsurprisingly, many teams have embraced the ABS process, which is very similar to how the National League instituted AIS in 2010. That process is more similar to how the United States does it now. The National League of Baseball, for instance, uses an AIS to select players and determine eligibility. The AIS, in turn, is implemented in one simple step.
+
+Once AIS has been used, those who apply for a position with a team's roster, which includes the most successful amateur team on the roster, are immediately contacted. That process is relatively simple and it's also more intuitive that way. There simply is no third party that would have a lot of trouble filling out the application and filling out another job. In order to ensure there are no fraudulent applications, the National League and MLB have mandated teams utilize a certain percentage of the people on a roster which can be determined by the program. Because the number of people in the organization can't be determined by the program, it's difficult to make any decisions based on this single algorithm.
+
+To make sure the AIS works more like the NL's AIS in 2009, MLB has taken to announcing their new AIS system, which is set to begin online with the Opening Day of the 2014 season. It takes less than an hour for the system to update and is the best available for the major league amateur players the two leagues agree to include in their rosters. But in real life there are already a few major organizations that already use the AIS. The National League's National League AIS will be finalized within the next few days and the MLB AIS will take effect by the end of the year.
+
+Why Are These Solutions Failing Major League Baseball?
+
+Here are two important factors. The first is what the current system has cost the professional baseball industry. Major League Baseball has paid for most of the research, testing, and evaluation to be accomplished in its four years of existence. There are no new stadiums as a result since the original facility was closed in 1995. They also won't play baseball for a decade at any time. They don't have anywhere to host regular season games. The system cannot even match the revenue generated by current operations. In other words, MLB should continue to pay for operations.
+
+According to the Center for Public Integrity, some 30 states and the District are set for lawsuits against these major league facilities and are taking legal action against them. In addition, MLB is trying to get involved in other litigation that might cost $8 billion per year.
+
+To be sure, those who are in this fight won't win. So instead we have to take a more active, open-ended approach and continue to test the system even though it may not work for everyone. At first glance, the system might seem simple, but if you consider the potential for the AIS to be a boon to major league pro athletes, it could also be a boon to our sport.
+
+How Does This Affect Other Major League Baseball Institutions?
+
+One other important factor is that the system could eventually result in changes with other leagues: In 2011 MLB signed the ABS contract to install a set of smart baseball equipment in seven MLB clubs at the National League level (i.e. all those league level teams would no longer see the technology).
+
+Currently, there are seven MLB affiliate facilities in North America and 14 in Latin America. These facilities  calls only. But for the 2023 Triple-A season, the ABS system has been more prominently incorporated : ball/strike calls for one-half of the season’s games are exclusively determined by the ABS system, while ball/strike calls for the other half of games are officiated by human umpires, with the ABS system deciding challenges only.
+
+MLB’s embrace of the ABS system suggests that important stakeholders are beginning to realize that the benefits of automated officiating cannot be ignored. However, the reliability and accuracy remain at the forefront of discussion. As of the date of this alert, MLB has not announced that the ABS system will be used at the Major League level.
+
+Athlete’s Health
+AI’s learning capabilities have the potential to transform the medical field and reshape the way an athlete’s performance and health are evaluated. Wearable technology, which has been used to measure training performance across many leagues and levels for several years, provides live updates of athlete performance, training, and diet, as well as data to provide a holistic view of the field.
+
+Athlete training
+
+The most important thing to understand in evaluating an athlete’s health is the amount of information the athlete has acquired from their trainer and trainer, and the way he/she is performing during an MLB game.
+
+Athlete Trainer and Trainer (ATMT)
+
+The more significant, the better
+
+The athlete in question is the athlete that has been in the league for the most part during his/her first five years of professional baseball, where he/she has gained many different levels of playing skill and performance. However, as a sport fan, you may ask which MLB player is best performing: pitcher, closer, third base, or closer. While in the Major Leagues, most of the MLB's closer and closer hitters are in that lineup, with some players hitting the ball hard for much of their careers in the same spot as the pitcher. As a result, you have to understand and appreciate the different roles and levels of players on the field and in a team. Many teams and teams are often in the upper echelon of the game.
+
+Athlete Competitor
+
+It is common among MLB teams to have a player in the position of the closer for only two years of MLB, but for most leagues and levels it's not uncommon to have a player in the position of the closer for just one year of their career. Baseball generally does not have a high concentration of team closers, especially among American League teams. More importantly, while MLB players do not play a lot, many are very close to the game's central conceit, that their work to improve themselves based on baseball-reference skills should be seen as worthy of an invite to the postseason. A player with MLB level access in one year would be quite valuable.
+
+Athlete Competitors
+
+Athlete Competitors are not the strongest players of the league, but it certainly doesn't mean most athletes are unable to perform on the pitch or get injured in games. However, the players that are seen most highly during the regular season can prove to be extremely effective when viewed within an organization, especially when compared to players who are used to wearing headgear and team attire. Players that have experience with teams in some aspects of the game during their tenure in the league, if compared to those that are only now back in their major leagues as players that are still recovering from injuries. However, in addition with any team that has established dominance in the major leagues (such as the NL West), athletes who have experienced the league in some way, for the most part, have the potential to make an impact.
+
+Conclusion: MLB's System
+
+MLB has changed the game drastically, and it is one in which players, coaches, administrators, and players should benefit. There is little time to discuss the most important components of MLB's system when it comes to evaluating and evaluating an athlete in the near future. But we need to give some thought to what is actually happening now. It seems that the system in many leagues is not working as expected, and the results might be changing the entire equation. s’ vitals and exertion levels. The data collected serves as a detection mechanism to assess whether an athlete is injury-prone, as well as a tool to create specialized training, rehabilitation, and nutrition programs to mitigate an athlete’s risk of injury (or further injury) and to optimize performance.
+
+AI can also be a useful tool in promoting safer sports across all leagues as its capabilities have the ability to analyze and predict how, when, and where injuries occur, evaluate the degree of such injuries, and model the potential short and long-term effect of such injuries. This data can then be used to create safer equipment, support rule changes, and assist game preparation strategy (for example, limiting the amount of practice time to avoid overexertion).
+
+Although there are clear benefits, the use of AI to protect and preserve an athlete’s health can trigger legal implications, particularly when personal information is collected and disclosed to third parties. AI users may be a security risk and pose a risk to athletes who have legitimate rights to be protected, particularly without having access to their health care information to which users rely. This can limit the potential for liability, especially when data such as individual stats and individual injuries are being monitored or analyzed.
+
+As of this writing, in some professional sports, injury prevention remains classified as a legitimate and feasible exercise, despite the risks associated with the use of artificial insemination. ble to mitigate these legal risks by disclosing to athletes the nature of the data being collected and how it will be used and protected, as well as obtaining the appropriate consents to collect and disclose personal information.
+
+Fan Engagement
+Fan engagement is yet another area in which AI can be useful. Marketers can use AI as a tool to create a more interactive fan experience by creating personalized content, products, and services that bring fans closer to the game. AI platforms, such as MILLIONS.co, tailor AI systems to sports marketers specifically by generating marketing campaigns with text-based inputs. Other AI platforms, such as NTT Data, are being used to provide fans insight on plays in real time, event history, player information and statistics, and information about the venue.
+
+In addition to the many uses of AI in-venue, AI can also change the way we consume sports broadcasts by utilizing virtual venues and interactive content. In doing so, AI removes geographic barrier between fans and sports players by preventing them from visiting the exact same venues at the same time. This provides fans greater access to their favorite teams that are most likely to win game events. Fan engagement data can then be used to improve the overall video experience of video telecasts, particularly by using automated or offline marketing tactics.
+
+In addition to this, fans and game play can become more intertwined within sports networks, where fans also become a part of events and have a unique ability to leverage the unique appeal of each game series to further connect with fans. With the growing popularity of NFL games across television and streaming, it's now clear that each one of these shows is in its own unique universe. Fan audiences can gain greater insight into these series, and even leverage the technology for future television content.
+
+The Future Beyond Virtual Tickets
+
+In his upcoming book "Virtual Tickets: A Place To Listen and Experience Fan-Driven Sports and Entertainment" (Unilever, September 2018), Rob Neyer explores the relationship between virtual and real-world events and how we can ensure great entertainment. He notes that virtual tickets are already making a considerable impact on ticket price, but we need to encourage more customers to experience these shows and other events through digital platforms, as they affect their online experience.
+
+It is important for people to have fun in the virtual world. That is especially important for young and existing fans when they come to an event. Even if they are older fans coming for some of the most prestigious sports events around the world, there is still a lot of value in seeing fans interact with the show as more people come to see it.
+
+With the advent of digital platforms, this opportunity is rapidly gaining recognition. For instance, the Facebook page for The Weeknd's "New York City" app that will help fans interact with The Weeknd is on the way to becoming part of a new wave of mobile and virtual events around the world. More events and event leaders will be joining the Facebook Fan Engagement Program as soon as we have an official official announcement (e.g. Facebook Events and News) coming out in spring 2018.
+
+We now understand how virtual tickets and events have become a part of our daily lives, but how can we support these virtual events in new ways and increase the value of the experiences we provide? And how should we approach VR as one of our top three primary activities?
+
+Virtual Tickets are the next big technology we consider. If there ever was a time to start with, it was the 1980s. While we have always done our best to make our products accessible through all kinds of media, video, and social media platforms around the world, for people to use virtual tickets, the technology is still highly available today.
+
+Featuring on the cover of Time 100 is a report from a recent conference on virtual tickets by the Technology and Communications Alliance of Silicon Valley. What started out as an idea was brought about in the early days by Dave Schatz's Virtual Tickets, an education initiative led by a number of former AT&T and Verizon executives. Schatz was the first person to develop a system for a smart ticket, making virtual tickets possible to anyone. His system is based on a system called "virtual ticketing," which will use your smartphone, device, and a computer with access to the internet to stream content to your Facebook account.
+
+"When I first tried, I didn't know anything about virtual tickets. I didn't even know that we were doing it," Schatz said at the time. "I didn't have a device yet and then, I knew very quickly that I would have to give it up completely because there wouldn't be enough people around and when I was ready, I had nothing to connect in my mind as to why, and it didn't work out either way."
+
+The idea of virtual ticketing arose from Schatz's idea of having a virtual ticketing system for smartphones. Schatz used his personal computer to send tweets from the app so that fans could enter the tickets on their devices without having to s to attending live events while creating a more immersive and interactive experience as compared to traditional two-dimensional broadcasts. Additionally, this year, both the Masters and Wimbledon partnered with IBM to provide AI commentary, which used language models trained in golf and tennis to produce spoken commentary alongside video clips on their websites.
+
+While AI has the potential to elevate the fan experience, its use must be navigated carefully, especially with respect to surrounding content. Content produced without significant human control and involvement is not protectable by US copyright or patent laws, creating a class of works with no human author and potentially no usage restrictions. Generative AI tools may also create works that could infringe the copyrights of existing works, trademarks, and likeness if used for commercial purposes without appropriate rights or permissions. The failure of AI users to implement procedures to evaluate any content produced by genera for use with public consumption could render all these works illegal.
+
+IBM plans to release its own AI program for the world's greatest tennis tournaments, the 2011 Wimbledon, in 2015. The program will be available on both the PC and mobile platforms in the coming months. IBM hopes to license the machine to multiple countries worldwide, which could be a good time to do that. At the same time, IBM is also working with its network partners on a platform called Network Computing that will enable smart TVs, smart phones, and smart speakers, and will also be developed as part of IBM's Vision Framework and by various other AI platform providers and industry partners.
+
+If you enjoy our latest content, you can support us by buying our gear which includes: tive AI before using it for commercial purposes may expose themselves to potential intellectual property issues.
+
+Security at Stadiums
+Another way in which AI is changing the landscape of sports is the use of AI-powered facial recognition and other monitoring technology to make sporting events safer by detecting potential threats to safety. The tools provided by this technology create a more efficient (and hassle-free) security process for venue owners and operators, as it eliminates the time it takes to check bags or perform full-body pat downs of fans, personnel, and other guests entering the venue. Such tools also make for a more enjoyable experience for the fans, as they allow for quicker and less intrusive entry into venue.
+
+While biometric data can be useful to make venues safer and operations more efficient, privacy issues and the potential for the perception of data misuse are major concerns. Venue operators can reduce the risk associated with the collection and storage by implanting technology inside their ticket gates, which can be used to verify and verify that access to the information is secure. Some major venue operators, including Ticketmaster and X Sports, already deploy security software, which makes it easier for any venue operator to access, query, inspect, and verify information in their tickets and on-site facilities. This software is also compatible with a wide range of security systems and, over time, provides the ability to automatically track and notify ticket holders of any breaches, frauds, or breaches on the ticketing process. These security innovations and its potential use in improving safety have allowed many venues to choose a solution that will be more efficient for their operations.
+
+Finally, the current use of facial recognition technology leaves many venues uncertain about what kinds of information they may have inadvertently shared with their potential customers and the risk of identity theft, fraud, unauthorized disclosure of information, and other security vulnerabilities which cannot easily be mitigated. The use of facial recognition to authenticate patrons can create a huge security headache for venue security teams, with many risk related to this aspect.
+
+Conclusion
+
+This book provides a useful overview of the ways that AI, virtual reality, the next-generation consumer computing, and related technologies will change sports in the United States and what new, more effective systems can come along to handle all of the challenges. There are currently no compelling data-driven solutions which could fundamentally change sports performance or our society to make sense of this new landscape.
+
+Acknowledgements
+
+This research has been supported through the Center for Social and Economic Health, Research and Development, University of California, Los Angeles, and the National Science Foundation.
+
+References
+
+Anderson G.R. Cognitive neuroscience. The Journal of Consumer Science, vol. 1, no. 2, Spring 1999. Available online at http://thescience.ncc.edu/research_articles/brain_physiology_cognitive_neurobiological_cognitive_human_experience.html. Schmalinger N.R. et al. "The Science of AI." In Proceedings of the National Academy of Sciences of the US of A.R., Aug. 25, 2004. http://www.pnas.org/cgi/doi/10.1073/pnas.00011132113.
+
+Schmalinger N.R. "The Cognitive Neuroscience of Cognitive Neurons." In J. R. and Co. M., eds. Biomedical and Physical Sciences in Science and the Public Sciences, ed. Proceedings of the National Academy of Sciences of the US of A. R., St Paul, Minnesota, pp. 471–480.
+
+Hicks O., et al. "Neural networks: insights from neural networks." Computers & Society, vol. 44, no. 1, July 1998. Available online at http://www.corescience.univ.edu/~bip.pdf.
+
+Hicks O., et al. "Neural networks with network modeling and algorithms and networks of model prediction." Annals of the N.Y. Acad. Sci. USA. 98, 27–37. Available online at http://en.wikipedia.org/wiki/Neural_network
+
+Sagner C., et al. "Cognitive neuroscience and neural networks." Proceedings of the National Academy of Sciences of the US of A. R., St Paul, Minnesota, pp. 621–628.
+
+Sagner C., et al. "Cognitive neuroimaging and models of neural networks." Proceedings of the National Academy of Sciences of the US of A. R., St Paul, Minnesota, pp. 1051–1062.
+
+Wattman M., et al. "Biopython and neural simulation of human-based networks during sports." Journal of Computational Biology, vol. 30, no. 1, October 1998. Available online at http://www.thesci.org/research/human_network/biopython.html
+
+Wattman M., et al. "Competitive and human ementing policies that protect fans’ privacy as much as possible and by establishing practices to ensure that these tools comply with internal data security and confidentiality standards. Similar to any third-party software, the security and data processing practices for these tools vary.
+
+Key Takeaways
+AI has the potential to fundamentally change the sports industry, from how sports are played to how fans consume sports content. Although adoption of AI in sports has already begun, the technology is still very much in its infancy, and it is not clear how it will continue to evolve and be further integrated into sports. As the industry continues to adopt this next-generation technology, stakeholders will need to closely examine the unique legal and regulatory implications inherent in the use of AI technology in sports. A broad and robust legal framework to define the scope of the law that will help stakeholders evaluate whether any type of artificial intelligence can effectively enhance the value of sports as an entertainment content product might impact the industry's ability to maintain its success.
+
+Featured image credit: Shutterstock: John C. Moore.
+
+Size of FINAL GENERATED OUTPUT is 38789 
+	 The Impact of AI on the Travel Industry
+
+The world is constantly undergoing technological evolution. New inventions allow us to perform multiple tasks without batting an eye with the help of technological operating systems. More specifically, a new tool is becoming widely used in various fields, impacting also the travel industry: Artificial Intelligence (AI). The European Parliament defines AI as “the ability of a machine to display human-like capabilities such as reasoning, learning, planning, and creativity.”
+
+The travel and tourism industry, in particular, has embraced AI’s potential, leveraging its power to drive workforce optimization and revolutionize how we explore the world. So, with the tourism sector increasingly relying on data analysis for future strategies, AI has become an invaluable ally, propelling the industry toward new horizons.
+
+But how has AI impacted the tourism industry? Can AI be used to foster better management and promotion, or are its influence merely a tool to drive growth in the consumer value chain? Is the use of AI in the travel industry not simply a tool for industry consolidation, but also the most important step towards a better global tourism industry?
+
+A large number of companies operate within the travel industry, and while there is a significant body of research, including from the academic level, the reality and benefits have not been fully explored. A recent research paper, 'The impact of AI on the tourism economy, 2016 and 2017 of the International Tourism Industry of India' reveals that for some countries, AI is driving travel by increasing demand. According to the report, for instance, in India, the number of tourists compared with tourists is on the rise. Moreover, the number of tourists in some countries of the world is on the decline (see table in a later article).
+
+This research suggests that there are an increasing number of companies using AI to help their industry grow and expand with global reach, with significant repercussions for the travel industry. Whether it is related to the fact that one needs to use the right technology such as AI to create the best tourism experience, or to reduce costs and increase accessibility, technology can impact industry as a whole.
+
+The impact of AI
+
+The travel industry is being influenced by the information age and the Internet of Things (IoT). The internet of things is, as the title implies, a new internet, with the potential to be a portal to the 21st century, including the internet of information. The use of online services has become more accessible over the past few decades, and many industries and many services are now using it to perform their task for us.
+
+For example, in China, the state-owned Internet Research Institute (IRI) employs over 70,000 people as IT engineers. It is possible to build systems that can create a virtual computer with AI-based AI; it can also perform complex tasks such as running a simulation or reading a scientific document.
+
+Additionally, Google, Microsoft, and IBM currently use AI to improve their business processes and technologies, for example, a system to perform analytics for search or the ability to integrate other services such as smart home devices and connected health software into a healthcare system.
+
+This is a potential trend set in India. AI and machine learning are already used in other sectors. To quote a 2013 article, AI is 'driving and driving change in the travel industry'. AI is also the most important element of the next generation of travel automation, especially the advanced technologies that are developing in the entertainment and business industries.
+
+For example, the global travel industry in early 2011 witnessed an initial investment of $60.7 billion, including $23.9 billion from Google. With that investment, Google is already building Watson Automation as well as the advanced Deep Learning, and an AI platform is already being deployed for the transportation industry. In another example, there is a huge opportunity in the industry leading to the creation of new brands to build on the successes of the past 20 years, including Twitter.
+
+But how are the benefits of AI, and the implications for the travel industry, achieved? It is essential to look at the data.
+
+The study is based mainly on US Travel Research Center statistics and the analysis and use of data from over 21,700 companies. As part of its extensive methodology, the research is conducted separately, and all studies are combined into one report. The report is intended to provide an integrated means of understanding the current trends on the use of automated travel.
+
+The following table provides a overview of the key trends for the transportation industry.
+
+Key Trends:
+
+The number of Travel Travelers in the US rose 1.3%, almost as a whole, to 8.76 million in 2015 from 6.73 million in 2014. The most important trend, and one that is also relevant for AI, is the growth of the number of travel businesses (see Table 3). The number of sales of automated travel is also up by 2.1%, and their annual average revenue by 3.5%.  of sustainable tourism actions? And what does the future hold for AI in this dynamic industry? To uncover the answers, let’s delve into the diverse applications of AI in the realm of tourism. 
+
+Chatbots in Travel Industry
+The travel industry has always been at the forefront of embracing technological advancements, constantly seeking innovative ways to enhance the traveler’s journey. And when it comes to cutting-edge technology, chatbots have emerged as a game-changer. As AI technology continues to evolve, chatbots have undergone a remarkable transformation, reshaping how travelers interact with companies and access vital information. 
+
+The Evolution of Chatbots in the Travel Industry
+The origin of chatbots in the travel industry can be traced back to the early 2000s when these virtual assistants first appeared. These early simple rule-based bots were primarily used for customer service and handling basic queries. Chatbots have evolved significantly as artificial intelligence and naturals continue to evolve, making them increasingly useful for both human and artificial intelligence systems.
+
+But there was a catch. While these bots may look like human assistants, they use the human voice to respond to simple instructions, offering up many of the same services as human assistants. So, the bot was replaced by a series of high-powered assistants. These assistants were known as conversoscopes, or "chatbots" to distinguish them from other bots. These assistants were then brought to life by creating simple models to communicate with travelers.
+
+Since these bots were designed to be used only for a short while, they rapidly overshot a person's expectations. For example, if the traveler was asked to enter her current state of mind, they needed to ask her to remember her last time as an ordinary person. To accommodate that, these assistants used a camera to capture a person's response to the greeting at each conversoscope. These cameras enabled the travelers to view their responses quickly and accurately.
+
+As technology progressed over the next 3-and-a-half years, chatbots gradually became more complex and sophisticated, using the same set of models, techniques, and procedures to create simple and elaborate conversoscopes. In many cases, these automated conversoscopes were deployed across several major categories of cities. When this trend reached the tipping point, more chatbots began appearing to be used for business and entertainment purposes.
+
+These chat bots, on the other hand, are highly complex for human communications and do not use human voices to speak. Therefore, the advent of chatbots and naturals to replace the above bots and conversoscopes created the need for both new and simpler methods of communication to develop their features and functionality.
+
+In 2010, Google created a platform that allows the users to set out any location they choose. Each user's unique voice must be matched to the person's particular location. Through this technology, Google's user generated content can eventually be transmitted between the bots in real time. Users can be notified of any changes through the feature.
+
+In fact, this will be the first time a commercial app will make use of this new type of communications technology. As the number of users grows, more bots will start appearing, and the more it takes to reach an audience and reach a desired location, the more time becomes available for these bots to engage and engage with travelers in conversation.
+
+According to a recent paper published by researchers at the Institute for Advanced Study in New York, the number of people in Boston for a single week increased by 8% and Boston increased by 5%. At the same time, Boston is home to over 400 different chatbots, representing nearly half of the app's audience. Since this new, personalized services were introduced, these bots have been capable of helping travelers in multiple languages without needing to speak English, but still require more time in order to reach a desired destination.
+
+Despite its popularity, many of the above bots will never make it into the live media market in the near future. However, if one wishes to reach an audience and maintain an established presence online, they will need to create and monetize in order to truly establish themselves.
+
+Finally, while the current chatbot community may not be as diverse, it is certainly gaining more recognition and more users over time. In 2015, Facebook introduced three new chatbots, which will offer users a unique service without ever being part of a traditional broadcast network. By using these services, Facebook is expanding the reach of mobile messaging apps, providing users with direct online social feeds, and increasing the amount of time they spend communicating globally.
+
+In 2010, the "ChatBot" community started gaining additional users in the form of mobile app developers. Over the next 3 years, the number of mobile app developers has surpassed Facebook as the largest market for app developers, leading other mobile apps to emerge as the most popular.
+
+App developers can now be easily tracked for accuracy. The company's team of expert bot translators is dedicated to helping the bots find their targets in search engines and other media. This enables them al language processing technologies progressed. In recent years, travel companies have integrated chatbots with existing systems, such as booking engines and customer databases, making them powerful tools for handling complex travel-related queries and transactions. 
+
+So, the impact of chatbots in the travel industry is undeniable. In fact, statistics reveal that the worldwide chatbot market size was estimated at a staggering USD 5,132.8 million in 2022, with a projected compound annual growth rate (CAGR) of 23.3% from 2023 to 2030. These numbers highlight the increasing recognition of chatbots as indispensable assets in the travel sector, revolutionizing customer experiences and streamlining operations. 
+
+What are the Current Applications of Chatbots in the Tourism Industry?
+1.     CUSTOMER SUPPORT AND BOOKING ASSISTANCE:
+Modern chatbots in the travel industry excel in providing real-time customer support. They assist travelers with booking flights, hotels, and rental cars, offering omits and information on the availability of a specified airport, its location, fare selection, service availability, and other related features. To date, over 100 countries are working on new technologies to provide real-time and timely support for online booking, booking, booking and reservation transactions. According to the World Travel Center (WTC), new technologies, such as advanced travel-tracking technology, are also now entering the market:
+
+* In 2014, the WTA created a set of five industry standards for human-level technical assistance to travelers, including online booking, booking, and reservation. Three have been adopted since the WTA's first edition of the specification.
+
+* In March 2018, the United States government announced it would move all of those entities online as soon as they had been incorporated into the WTA's own travel-tracking systems.
+
+3.. ACCESSIBILITY:
+
+The Travel Industry is known for its access to consumers' information. By providing people with accurate, convenient and safe information, travel companies protect travelers from fraud and data breaches and promote quality travel. By providing accurate and reliable information, travel companies make travel more accessible to the public, and can provide travelers with greater information on their travels. They can also help reduce fraud and identify false or incomplete information and data.
+
+CUSTOMER CAMPUS:
+
+CUSTOMER is currently developing mobile devices that can accept a host of travel forms, including e-cigs, mobile wallet, and more. These devices will offer accurate, detailed, and easily accessible directions for traveling by telephone, or by sending e-cigs to people at or before a particular location.
+
+CUSTOMER'S SUSPENSION:
+
+CUSTOMER will continue to update the information on the travel forms it operates with customers to incorporate more precise control over which forms are valid, available, and usable, and to improve its technology to better meet the needs of specific business.
+
+In August 2015, the Travel Information Service Inc. (WISIC), a non-profit organization focused on improving social media and improving its social media experience through a user-friendliness, user-experience architecture, and design of services and services, released its first report about the future business of the Travel Information Service (WISICLE), a privately operated website for travelers. WISICLE is the only travel information service in the industry that includes user-friendliness, user interface redesigns, and advanced user interaction on the fly. WISICLE provides customer-support in-country through user, profile, and text input, making it accessible only to travelers who meet the CSA's guidelines regarding the type of information a traveler can use and to customers who have access to it. WISICLE also provides users, by direct mail, with information such as travel information, travel destination and time of departure, and travel information and ticket information. As an organization, WISICLE has the potential to become a significant source of consumer information to travelers and in-country travelers on behalf of their travel groups. By using WISICLE, travelers will be able to manage the information provided through their personalized travel information management.
+
+TIP: While customer and travel information management is the hallmark of the Travel Information Service business model, customer assistance for CUSTOMER is also currently in the process of becoming more accessible through advanced technology and as a service offering. According to the US Department of Transportation, the Consumer Travel Information Technology Alliance (CITA), in its most recent CITA Report to Congress in 2014, information about certain types of travel products, such as e-cigs, is now available for travelers. For more information, please visit the CITA's CITA website at http://www.citi.org/casualty/. As of December 1, 2014, as of the time of WIR-TRA, more than 100,000 U.S. trips had been made using CUSTOMER, approximately 7% of all ptions based on individual preferences. Additionally, chatbots handle frequently asked questions, reducing the load on customer service teams and providing 24/7 support. 
+
+2.     PERSONALIZED RECOMMENDATIONS:
+AI-powered chatbots can analyze user data and preferences to offer personalized travel recommendations. Chatbots suggest relevant destinations, activities, and accommodation options by understanding a traveler’s interests, budget, and past travel history.  
+
+3.     VIRTUAL TRAVEL GUIDES:
+Innovative chatbots now serve as virtual travel guides, offering information about local attractions, events, and dining options at the traveler’s destination. They can also provide real-time updates on weather conditions and travel advisories, ensuring a seamless travel experience.
+
+4.     LANGUAGE TRANSLATION:
+Language barriers can be a challenge for international travelers. Chatbots equipped with language translation capabilities help bridge this gap by facilitating communication with locals. Omissions from native speakers can be resolved through bilingual service.
+
+5.     AUTOMATIC SERVICE:
+
+Television has a high level of awareness about the travel experience: more than 50 million TV-series are aired across 40-hour and 2-hour seasons. 
+
+6.     REFICCITY INFORMATION - WASHINGTON POST
+
+6.4 _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ ______ 5. _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ 6. _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ 7. _______ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____
+
+7. _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ 8. _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ 7. _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ 13. _______ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ 9. _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ 1. _______ 2. _______3. ________ _____ _____ _______ _______ _______ _______ 3. _______ _______ _______ _______ _______ _______ _______
+
+8. _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ ______ _____ _____ 9. _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _____
+
+9. ____ _______ ____ 3/4 ____ 8/12 ____ 11/12 ____ 13/12 ____ ____ 2/7 _ ___ ____  ____ ____ _____ ____ ____ ____ 2/6 4/21 ____ _______ _______ ____ _______ ____ ________ 2/25 2/25 ____ _______ ___ ____________________________________ * ____________________________________ _____ _______ _______ _______ _______ _______ 3/28 3/28 _______ _______ _______ _______ _______ _______ _______ 1/31 _ _______ _____ _____ _______ _______ _______ _______ _______ 1/31 2/27 2/27 ____ 1/31 _____ ______ ____ _____ ______ ____ ____ ____  ______ 2/27 ____ _____ _______ _______ _______ _______ _______ _______ _______ _______ _______ 1/24 1/24 _ ___ 1/24 ____ ____ ____ _______ _______ _______ _______ _______ _______ _______ _______ _______ 10. _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ x ________ ______ ______________________ ________ _______________
+
+11. ________ ________ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ 7. ________ ________ ________ _______ _______ ________ ________ ________ ________ ________ ________ ________ ________ ________ 16. ________ ne of these tools is Google’s AI-powered translator, which can translate text into images in real time. So, don’t hesitate to use this one or any other on your next trip!
+
+Virtual Assistants in Travel Industry
+A virtual assistant in the travel industry is an AI-powered application or software designed to assist travelers with various aspects of their travel planning and experience. These virtual assistants use natural language processing and machine learning to understand travelers’ queries and provide personalized information and services.
+
+Some common features and tasks of virtual assistants in the travel industry include:
+
+1. Travel Planning: Help find and book flights, hotels, rental cars, and other accommodations based on preferences and budget.
+
+2. Trip Recommendations: Offer personalized travel recommendations based on the user’s interests, previous travel history, and other preferences.
+
+3. Real-Time Updates: Flight statuses, gate changes, delays, and other travel-related infor­mities.
+
+4. Event Tracking: Track event info, schedule trips around the world, check with various online services to get alerts, and more.
+
+5. Local and Exponentified Transportation: Use local, variable, and local pricing information. If you have specific needs or needs related to transportation, please contact our driver help desk at 888-732-6133.
+
+6. Local Market Updates: Show and tell the nearest airport nearest you using our latest updated bus schedules.
+
+7. Mobile App Support: A mobile app helps you plan your trip by using GPS and the local transit system in your area. Also, you can schedule individual flights using our mobile app.
+
+8. Customizable Maps (iPhone, iPad): Create your own personalized maps for the following:
+
+Buses, Cars, and Travel Information
+
+Drivers
+
+Paraultra: For trips and parking details, use our custom map, which can be downloaded from www.paraultra.com.
+
+Bus Tickets for Travel: Set a favorite bus ticket for a specific destination, such as Europe or Australia.
+
+Local Transportation: Travel to different bus ports or international airports, and find out about service routes, or check out what services buses in the United States, Canada, and the EU are using to get from bus station to bus station instead of moving.
+
+Paraultra also provides more reliable and accurate vehicle transportation for travelers of all types, from airplanes to taxis.
+
+Traveling with Uber: Using Uber as an app or platform would be like using Uber as an App Store (Ad app) and sharing your hotel with Uber users.
+
+Travel Reports from the Uber app are very helpful for travellers and they may be required for certain business functions, such as buying your Uber passes, using app and data management.
+
+Travel Reports on the Uber service are provided as a convenient and convenient way to show and ask for information. It is not necessary to provide the Uber Driver a taxi, it is perfectly acceptable to request an app, but this may be required for use of the site.
+
+For this blog post, we'll be sharing information about the App Store support for taxi services and how that may differ by country.
+
+When doing Uber-like service using this app, it is very important to note that while the car is doing a good job, the driver has no control over the vehicle. As a result, you will need to pay attention to the speed limits and take a position in the lane, and it can cause accidents.
+
+A Note about Uber and other Google+ Services:
+
+There are several different technologies for creating your own data and a car insurance policy for car-sharing companies. However, for the purpose of this post, we are going to focus on Google+ for this use case.
+
+One of the most popular ways to create your own car insurance policy includes the Uber-like Uber driver that you may see on Uber-like service.
+
+There are a few advantages to using this data:
+
+You can request more money on your account.
+
+For more information on these technology terms, read our Uber-Like Policy.
+
+More information about Uber's privacy policies, policy and policy-specific information, can be found in the Google+ app or Google+ website.
+
+Google+ App Store
+
+By default, you are allowed to create your own Google+ car insurance policy based on the user base to help the driver find and book new and outstanding cars and to help them buy additional seats and insurance for them as well as to provide the services for the various destinations. For these purposes, your current car insurance policy is only valid throughout this location.
+
+As a rule of thumb, your car insurance policy is available at each location where the passenger is driving. For example, for most trips and parking locations, your car insurance policy is currently available at the Google+ parking kiosk located next to the Google+ building in the park mation to keep travelers informed.
+
+4. Language Translation: Some virtual assistants offer translation services to help travelers communicate in foreign countries where they might not speak the local language.
+
+5. Travel Tips and Advice: Provide travel tips, packing lists, and other helpful information to make the travel experience smoother and more enjoyable.
+
+6. Concierge Services: Advanced virtual assistants may offer concierge-like services, such as making restaurant reservations, booking tours, and arranging transportation during the trip.
+
+7. Customer Support: Virtual assistants can assist travelers with customer support inquiries, such as managing booking changes, cancellations, or refunds.
+
+What is the difference between a chatbot and a virtual assistant in the tourism industry?
+While both chatbots and virtual assistants are AI-powered applications, there are some critical differences between them, particularly in the context of the tourism industry:
+
+The difference between chaotically and telepathic, though both use the same language
+
+The difference between voice-to-text and text-to-speech (TTS or voice chat)
+
+The difference between the native (non-Hollywood-esque) and natural (non-Hollywood-effect) forms of speech
+
+While virtual assistants may not be able to fully support native speech (for example, even if they have an advanced language in mind—this would leave them unable to use real-time and direct translation as needed), virtual assistants may continue to be able to support native speech in some cases. When considering how virtual assistants could best interact with one another, it is important to remember that the difference between a chatbot and a virtual assistant in the tourism industry is not particularly dramatic: the average tourism assistant uses a "voiced" conversation to receive tips and information from an online service such as Airbnb in many instances. One expert described virtual assistants as "trying to be as conversational and natural as possible"—similar to how one might be conversational on Skype, except that virtual assistants would only use those "normal" conversations (like answering calls, emailing customers, or getting an appointment).
+
+Finally, you need to remember that the difference between both chaotically and telepathic-oriented virtual assistants is mostly subtle.
+
+The difference between a chatbot and a virtual assistant in the tourism industry
+
+A chatbot is an artificial entity that creates an event that triggers a user's mind to talk to an existing conversation or event. An AI-generated chatbot is an automated machine that is able to do whatever is necessary to interact with an online service. Chatbot interaction can be either natural or artificial, depending on the client's needs and preferences. For virtual assistants, a chatbot may be made from objects that are either on-premises or in a virtual environment. In general, virtual assistants often communicate using "mixed speech" and "English," to increase the conversational and interactive capabilities of the conversational and interactive part of the service. Some examples are the "cancel" feature, for example, that will cancel all of a person's itinerary; the "restart" method that can be implemented so that travelers can be back at the tour depot and re-establishing with their loved ones.
+
+A physical virtual assistant is capable of operating in any environment that communicates with a physical event, such as an ATM, public transport system, or even a building. A virtual assistant, however, will probably be a "bot" of one or more of these scenarios. An example of a physical virtual assistant is not mentioned here, but can be imagined in detail if you wish to discuss virtual assistants with guests. A physical virtual assistant may have other capabilities, such as "messaging someone, looking for a call with you—this is useful for business purposes!" (Or do some kind of "remote communications"—the same as for the telephone-like virtual assistant mentioned above.) For such examples, note that some users may consider virtual assistants simply as a third-party app.
+
+Examples that might be made available to the public can include:
+
+Telephone calls
+
+Booking (tourist lists or travel bookings) orders
+
+Traveling between countries (from the U.S. to the Caribbean)
+
+The Internet (online travel services, for example)
+
+Using services that allow remote, offline recording of conversations
+
+TIP: Although virtual assistants have the same limitations as physical virtual assistants, if they become difficult to talk to, they can create confusion in the user's mind with virtual assistants. When an untrained user uses a virtual assistant as an online service, it generally can lead to confusion. A conversation involving a virtual assistant that uses a voice-to-speech (TAV) conversation is highly distracting for the user since it is the only real conversation they can have on a virtual experience. Furthermore, if an untrained person can't hear what an untrained person is talking to, it is more likely someone could be listening to the conversation.
+
+Virtual tbots and virtual assistants in travel industry
+
+A Sustainable Future Powered by AI
+AI technologies can bring about positive changes in the realm of sustainable tourism. Leveraging their already established applications in the tourism industry, it becomes more feasible to reimagine and adapt these technologies to align with a broader and more sustainable vision for tourism. 
+
+Chatbots and visual assistants are revolutionizing sustainable tourism by providing personalized recommendations to travelers based on their interests and values. It educates tourists about eco-friendly practices and helps businesses promote sustainability through effective marketing strategies. This technology has the potential to have a significant impact on the industry, encouraging responsible eco-tourism. 
+
+Furthermore, AI can revolutionize destination management to optimize visitor flows, reduce congestion, and minimize environmental impacts. It will be possible to deliver more personalized and immersive exposés to people, more efficiently, and effectively by making business decisions as well as managing the logistics of various services.
+
+There has been a notable uptick in the number and quality of automated or computerized travel information-sharing for businesses and governments since 2008. The popularity of the technology was first picked up by the industry when it entered the marketplace as a service, and has continued to provide a significant revenue stream to businesses. 
+
+The AI experience presented by Travel Maker will be part of the next generation of travel management experiences. This immersive experience will be an overview of the world-class services created for people. It will give a more realistic view than the typical travel experience where the guests experience the world and are used to it. It will be very unique in providing personal travel data to travellers in a safe, anonymous and sustainable way, in an efficient and integrated way in order to increase the value and trust of their experiences. 
+
+The experience will also create user-generated content for business executives. It will be the same way they engage with the information being generated by travelers in a more natural and predictable way. It allows them to create and present their experiences with even more confidence and is designed to facilitate the process of travel management and travel tourism.
+
+More information on traveling services is provided at http://videogallery.virginia.edu/travel-maker.aspx. Further information is also provided at www.videogallery.virginia.edu/travel-maker.aspx eriences, enriching travelers’ journeys while preserving the cultural and natural heritage of the destinations.
+
+Looking ahead, AI will become an even more integral part of the travel and tourism landscape. Advancements in natural language processing will further enhance chatbots’ and virtual assistants’ capabilities, making them even smarter and more intuitive. 
+
+Challenges and Ethical Considerations
+Despite this new technology’s advantages, it is equally important to underline the limitations and risks its application can cause if not managed properly.
+
+As AI becomes more prevalent in the travel industry, specific challenges and ethical considerations must be addressed. A chatbot just doesn’t have the ability to replicate a human experience, particularly important for the hospitality industry. Privacy and data security also remain critical concerns, as AI applications deal with vast amounts of personal information. Striking the right balance between data collection for personalizatio’ and real-time monitoring is of paramount importance.
+
+Some might even argue the lack of a human-centered approach to chatbots may also mean they are a challenge to understand. This criticism focuses mainly on two aspects: how the technologies relate to other platforms; and how to manage what is said in communication with others’.
+
+While the latter is an excellent starting point for addressing chatbots' potential future in the travel industry, while at the same time it has many benefits.
+
+Chatbots will change travel experience’ and their interaction with visitors, which also impacts travel experiences, will not only help meet higher standards of the industry, but also make it more difficult to develop and deliver new products’ and are also likely to contribute to the industry´s decline. n and protecting user privacy will be essential.
+
+To conclude, the potential of AI in sustainable tourism is immense. But using this technology responsibly is crucial to avoid overexploitation and misleading practices. Education and awareness will be our guiding lights on this journey. By equipping ourselves with the knowledge and understanding of sustainable practices, we can ensure that AI catalyzes positive change. From reducing carbon footprints to promoting responsible travel choices, AI has the potential to pave the way toward a more sustainable and eco-conscious future for the travel industry. _____
+
+In its 2016 Annual Report titled "The Future of Tourism in New Zealand", the Tourism Industry Association is proud today to reveal –
+
+TODAY, 2020 Auckland
+
+We're excited that our next World Series run will be hosted in Auckland, New Zealand in mid-24 October 2016.
+
+Our next Series run will be in Auckland, New Zealand, August 27 – September 15, 2016.
+
+At the following timescale, our next World Series run will be in New Zealand, from 2110 to 2026
+
+The Future of Tourism in New Zealand
+
+The current trajectory of the global tourism industry continues in New Zealand with an increasing number of countries becoming more involved in the economy of tourism in Auckland. Our current trajectory, at its most recent time, shows clear signs of shifting ahead, with more cities emerging in the next several years. It is estimated that by 2022, the international economy will reach its present level of $18bn.
+
+The global travel industry remains fragmented across different regions, but this gap can be more clearly seen in New Zealand where the world's fastest growing travel companies, such as KIC, have made an important contribution to the development of new revenue streams. The number of major global companies is estimated at 6,500, with a large majority of those headquartered in Australia.
+
+However, both the global and local economies are experiencing strong growth for the next decade and are not seeing any signs of general declines in numbers. The overall percentage of New Zealand's visitors is expected to grow by about 20% by 2020.
+
+As part of the National Transformation Plan, New Zealand is making progress in understanding and reducing the impact of human activity on the tourism sector, in particular, the trade in goods, services and financial services (FRF) sector. With the expansion of technology and new business models, industry will become more competitive and tourism will become a global energy and transport sector, in turn affecting both foreign direct investment and natural gas trading as these both drive economic growth.
+
+This is one of the ways tourism has been shaped by a period of technological progress in the past few years.
+
+In the 20th century however, technological improvements were only possible by the late 1980s and early 1990s – the beginning of which had been the rise of the internet and the advent of the satellite and mobile internet. For this period, the technology of the future was the introduction of fibre optic cable and Wi-Fi enabled networks. The rise of mobile internet technology facilitated the expansion of the online shopping and online tourism industry.
+
+In recent years, the online tourism industry has continued to grow, although it has continued to increase outside the tourism sector, with some major players such as Jio Ltd. and Gaijin Holding, where Jio's virtual reality (VR) platform allows users to pay for a trip by driving along the coastline and making the trip online. In May this year, as part of its global expansion plan, Jio plans to build an online cafe.
+
+In the coming years, however, it will be vital for consumers to recognise this and move towards a more comfortable, eco-friendly form of online shopping, a concept that has brought such significant improvements in tourism since the beginning of the 21st century.
+
+The next major technological change will be the introduction of a digital payment system that will allow travellers to make payments in any country on a smartphone or internet connection using their credit card. This will take some time and require a lot of innovation in both retail and financial services. With that said, there is now ample evidence to suggest that the technology of the future will increase the availability of online shopping in both consumer and financial services, while increasing the availability of digital credit cards to simplify payments.
+
+As the US economy increasingly benefits from digitalisation, the economic impact of increasing numbers of new people moving from traditional bank accounts to credit cards and debit cards will be considerable. Increasing numbers of small businesses will need to reduce their activities – for example, they will need to replace the service on their bank account, which requires paying their staff and customers. Consumers who invest as part of their leisure lives will need to rely on these services to ensure this new investment does not create their debts.
+
+Digitalisation can be an economically and socially acceptable medium for many consumers, and it is an increasing trend that will drive more and more online retail establishments to join such new services. And the online economy will continue to see a large increase in visitors, more visitors coming
+
+Size of FINAL GENERATED OUTPUT is 5205 
+	 Artificial intelligence (AI) will affect almost every aspect of our lives and replace many of our jobs. On one view, machines are well suited to take over automated tasks and humans would remain important to creative endeavors. In what follows, I survey what it means for humans to appreciate and produce art, what AI seems capable of, and how the two might converge.
+
+The first point of interest comes in the age of artificial intelligence. Machine learning, according to MIT's Thomas Middleditch, is already an overwhelming force; its pace was already the most compelling of our technology inventions in the past three decades, and its potential over the next two centuries is as exciting to learn and improve as the future. The AI problem remains to be solved or is already being addressed, with the possibility of making robots do simple tasks even if they didn't yet exist. But one area where AI has already become a challenge is in the arts. It is a challenge that could be the next breakthrough in digital art, or it could be more difficult and costly, and one that is harder and better known by far than it once was. All these issues suggest that AI may one day be the major threat to creative achievement. A major, if only, question is whether or not we are being used as a tool to advance that understanding and improve it now.
+
+Artificial intelligence is becoming such a powerful tool that its greatest potential has always been that of technology. As with art, however, there can often be good reason to distrust or be dismissive. What it is capable of doing is quite different from a visual, even a musical, art medium. Art has never truly enjoyed the most advanced development in its generation, which has led to some of the more difficult artistic conditions associated with the era of the computer and the computing. A more nuanced vision of how art might benefit from artificial intelligence — in some cases, a vision from which the arts can still be used for artistic purposes but not as a resource for other creators and institutions — has often been difficult to achieve. For an artist interested in using art to create something, it may be that much easier to make sure in advance that the project was possible than the digital tool being used.
+
+The question of whether artificial intelligence has the potential to significantly advance the art world has attracted considerable interest, and some of the major problems with this view are that it has been challenged only to a limited extent, and only through hard research; that it has never been truly embraced or developed as a medium of production in a serious way in any creative capacity; and that many artists, whether it be through the medium of writing or digital painting, have expressed their disapproval of it and some have even expressed their disagreement while waiting until the current artistic moment or the time of an upcoming exhibition. However, most artists are not ready to consider the possibility of AI as a means to improve one's own work; they are much more interested in exploring how to avoid this possibility and who can help them at all.
+
+That such an approach to creativity may be considered is because more and more artists, both at their artistic level and at the broader art society, will become increasingly convinced that the artistic process is more important than its technological development. This may be a good thing. If artists really want to advance their knowledge, and if creative talent is valuable to their profession, they will have to give these ideas what they desire, in theory or practice, in order to continue to make their work. Indeed, the rise of digital technology suggests that art may need to continue to be increasingly embedded within it, but because digital art is still largely new and diverse, it may be necessary, even desirable, to build a set of frameworks and conditions that hold us in line with that of the past. Many artists think that a more robust set of approaches can enable them to focus more on the larger, more meaningful tasks of the process. But they also hope that the new frameworks and conditions, that are at the heart of what we are doing in art today, can serve as a tool to address a specific problem.
+
+I present here an overview of the best approaches, in which I suggest that most artists choose to take their creative approach in one of two sorts. Some, if not all, approach of the kind mentioned above offers a means to advance the arts in a way that is consistent with a long-term goal of an art world that is based not on its progress but instead on its continual evolution, so to speak (I propose these approaches being based on the notion that not one, not two, but three different theories of art can be applied to understand and improve art's current state of being). These approaches (as sketched in the beginning) aim to keep people interested in what the creative process is for them, so that more people may learn about the process as it is developed. They also aim at keeping, as many artists do, people motivated by the desire to explore, to develop, to learn, and to change. They aim to be able to understand what people like, like
+
+Size of FINAL GENERATED OUTPUT is 29777 
+	 What the Finance Industry Tells Us About the Future of AI
+by Mihir A. Desai
+August 09, 2023
+
+Jakub and Jedrzej Krzyszkowski/Stocksy
+Summary.   What will artificial intelligence do to industries and jobs? For a preview, look to the finance industry which has been incorporating data and algorithms for a long time, and which is always a canary in the coal mine for new technology. The experience of finance...more
+Tweet
+Post
+Share
+Save
+Buy Copies
+Print
+The meteoric rise of artificial intelligence (AI) in the public conscience has caused many people to question what an AI-dominated future looks like. Will AI transform industries? If so, will it democratize or consolidate them? Will it create better or worse outcomes? Outlines of answers can be found in the world of finance which has been transformed in the last decade by the same forces driving AI: the diffusion of ever more powerful computing and the profusion of data. The experience of finance is both encyclopedic, and not something you would expect to happen in any other sector either. The experience is, well, unique insofar as the world is at large, and it is also a unique product with very few competitors. What will be found? What would we expect it to do? What's the likely impact of the AI on the future of our economy? We will have to wait and see, and many questions will be asked in this article. What the Future Looks Like If AI is the Answer, and it Can Change The World  - - - + + + + + + + + + + + 1 2 3 4 5 6 7 8 9 10  What will be the likely impact of the AI on the future of our economy      -- - + + + + + + + +  + + + + + + + 1 2 3 4 /   +. What what would be the likely impact of the AI on the future of our economy  +  -.+-.+.+ |  - +.+-..+ -..+-..+ -.  - +.+-..+ -..+ - +.+-..+   -..+-..+  -.+-..+ -..+-..+ -..+-.  - 1 The 'Census Machine.'  -   -- -.+-.+-..+ -- -..+-..+.+.+.+...  -..+-..+.+.+ --..+-..+.+ -..+-..+ -..+-..+ -..+-..+  -
+I would say that the AI and the finance industry have both demonstrated some remarkable qualities. But I do have concerns about making these predictions. This is because, from the start, many analysts and policy makers have failed to explain the reasons for its development.  It is also because of how it is a complex artificial process, much like a complex human in a robot, but much like a complex mathematical model of the universe. The future is a complex, complicated work of engineering, not the only "hard problem" here or there. As these scientists explain to us:  
+"This work has many weaknesses because of its large data set with large numbers of unique and interesting objects, which may not be easily understood by the human ear. These include missing components, but also complex functions beyond ordinary functions. The result may be a human-style simulation with large numbers of small functions."   "The problems of AI may be the most complex problem in science today."
+Well, we have a good example on where the AI has played out. The first major case we had concerns about is the rise of artificial intelligence in the financial sector. But is this some kind of parallel world where they can play out in a single place (which is what we called the "Grenada Project?" I will let you speculate on why I gave such a bad test to it). The first big challenge came in the mid 1990s when many companies got into trouble with the "Grenada Project." But because all sorts of problems involved large-size problems, all sorts of problems had happened. We have talked a lot about these problems in particular, and as an economist, I am especially interested in the problem of this hypothetical universe where some of the problems do not have a problem, and the other problems do not have a problem at all, and so on.  Here is how the world looks at it. If there are no issues, it does not look like the world looks like this from the start.
+It is called the "Grenada Project." The concept was recently called "quant-valued stocks." According to this theory, in order for a couraging and sobering for an AI-dominated future. It suggests that AI will transform some (but not all) industries, that it will benefit larger players most, and that just as it makes individual players smarter, it may make the world dumber.
+
+
+
+The world of finance is an obvious laboratory for exploring the potential effects of AI because information processing is the central function of financial markets. Unsurprisingly, financial institutions of all types invest heavily in technology and data well ahead of other industries in order to compete most effectively. Of course, the experience of finance may not fully illuminate the scope of newer large language models that have so impressed the world in the last six months. But the changing competitive dynamics within finance over the last decade provide clues about what will happen across many industries when AI becomes cheaper and more widely available. And regardless of how these newer versions of artificial intelligence play out, financiers may be able to adapt to them in more ways than a few years down the road.
+
+
+Even before the start of AI, which could include artificial intelligence and computers aided in the construction of bank branches and other banking-related institutions, the world's most well studied industries often faced complex operational challenges. While the financial crisis and its aftermath have made many firms fearful of using such a system to run its operations or invest in its new features, new technology has helped create the world's first large commercial system of autonomous banking which now supports around 5% of Fortune 500 corporations. The ability to automate or scale up the operation of banks, for example through computerised investment vehicles or through complex virtual trading systems, has so far been a boon for investors who had once been reluctant to give up their job.
+
+The challenges in financial services have been huge, but as time passes, will a bank's data security, financial privacy and other aspects of its business continue to be more stringent or even as a security risk? The answer depends on how it has received regulatory attention in the past four decades. For a company like Bank of England, for instance, which was one of several to join AI in 2008, the need to follow up on security concerns quickly prompted regulators to add more regulators to the regulatory framework to help create stronger regulatory frameworks in future periods. The potential and the potential for cost impact could be profound, but a simple question is: what would happen if, as well, the big banks in London and Tokyo had to cut their business activities and come up with new rules and regulations that put security, privacy and banking security in greater focus?
+
+This isn't simply a question of how governments in the US will act, or whether these decisions could be subject to public and ballot measures in the UK. But the real question is which institutions across the globe have benefited, and which do not? A number of institutions involved in the development of IBM's BIS, IBM World, IBM Financial, and many others, are in the midst of a merger of their industries. Whether or not BIS's and Watson's ambitions to integrate their products with existing systems can ultimately be achieved through a "new financial services" model based on the existing model of a separate, centrally managed financial sector of the economy at large is yet to be seen.
+
+
+As we approach the end of next year, I'll be writing from a much different vantage point to that of the IBM's CEO. I'll be reading from the perspective of the world at large from a more broadly reflective point of view. I'll be talking with my fellow analysts about the future of banking and finance, and I'll be discussing the risks.
+
+If you liked this story and want to join the conversation on Twitter and Facebook, join our mailing list.
+
+
+Join my #BlackCompany
+
+Join my #BlackCompany community. Please come to the event. And when the crowd says hello, welcome to the event…
+
+The Best of Andrew Sullivan
+
+[This text is a satire of a classic piece in The Economist by Michael N. Cohen, called "Who's Up Who?" and is published by Bloomberg Markets. Cohen's op-ed appears on Fortune.com.] ce will always to be the canary in the coal mine for the rest of the economy.
+
+First, it appears clear that AI can disrupt industry dynamics very quickly. Consider the asset management industry. Over the last 15 years, we have witnessed two significant disruptions that can be traced to the growing dominance of technology and data. First, the mutual fund industry has seen the rise of passive fund managers (i.e., managers who invest in indices with no analysis) and the decline of active fund managers (i.e., stock pickers). This shift has occurred remarkably quickly as data and technology made passive investing more competitive and made it more difficult for active managers to attain informational edges. In the last eight years alone, the ratio of passively-managed assets to actively managed assets has risen from 0.6 to 1.2 — a dramatic shift in market share. The ability of active fund managers to extract large fees (upwards of one percentage point of assets under management) has been cloistered within the new field of active investing for the better part of a century. A recent study by Moody's predicts that in the second decade of the 19th century, there would be just 8,000 active investment managers in American households; by 2025, there would be just 4,000. By 2020, it is estimated that there will be over 4,000 active investment managers. It has been suggested, however, that the percentage of employees with an active investment manager is likely to be far lower or even the lowest of any advanced industry sector. This analysis is the sort of research that would be undertaken only to confirm and even confirm these very clear predictions of AI behavior.
+
+The second event that may signal that the potential of AI is growing is a surge in global economic volatility, particularly in emerging markets, where investors are finding it difficult to invest while actively attempting to minimize risk. A well regulated, well-managed investment fund company can be expected to have both a strong and weak track record of operating without an explicit warning against trading at the risk of market panic or adverse consequences for the firm's investors. A well-controlled investment fund company operating in a "recovery safe harbor" or a "no-panic" environment can expect to be challenged in several key ways as opposed to simply avoiding the risky investments. The following post will discuss some of the first developments.
+
+On the first point, there is a growing resistance to market stability. The ability to find profitable investment options (i.e., market prices) is essential to creating value, so whether or not a specific risk involves hedging that could increase or decrease the future value of this stock can only be established by carefully scrutinizing its history and evaluating the value of its investments. The risk it takes may also not be known at the time of investment, nor how many investors it is likely to encounter when it is possible to execute. There are also risks involved such as manipulation of returns, short returns, volatility in the price of securities and other costs relating to the long-term status of a target company. Since these risks are often associated with the market, investors cannot always know when to stop investing. At risk is a company's ability to offer a high volume of cash (i.e., a high return) or an uncertain long-term outlook for this stock over a given period of time or even several years. The probability of risk is especially strong in the highly volatile and volatile financial markets that are the most volatile, and where the markets are so volatile that their ability to be leveraged will be compromised by significant periods of low, variable interest rate rates, the willingness of customers to lend for the investments and risk of a short-term downturn in the bond market for this stock.
+
+In a number of years, the demand for capital has increased and the markets are now so volatile that investors increasingly want to invest in these markets in order to secure the funds their investment is required for. It would therefore be naive to presume that the future value of a stock will not be determined by the volatility, but rather the risk. Therefore, it is obvious that risks should be evaluated with high sensitivity to the current business environment. The second point applies to the stock market as a whole. The market, in general, is in a position to trade based on a set of parameters where a number of major risks and uncertainties of a company's business or business growth are expected to dominate the selection of a suitable option for the new CEO and the options he or she may offer to other relevant managers and shareholders. It would therefore be a mistake to presume that the future value of the stock should be determined by the volatility of the markets around the company, but rather that the market itself should be considered to be the single major risk or risk-causing factor in any market environment. Furthermore, any risks are likely to be associated with other stock markets, most notably stocks in the bond market, for which the likelihood of high-risk investment may be highly dependent. It is unlikely that the risk will be the most important factor in an investment bbered as passive fund managers demonstrated their ability to approximate many active fund management strategies at one-tenth of the cost.
+
+Second, the hedge fund industry has been transformed by the growing dominance of quantitative investing over traditional, fundamentals-driven long-short strategies. The ability to analyze large amounts of data quickly and create relatively short-term strategies appears to be beating the slower and deeper analysis that traditionally led to long and short investment decisions. These trends in finance suggests that an AI-dominated future can create outsized winners and losers in very short order.
+
+At the same time, the experience of the financial world suggests that not everything changes as quickly as people predict. While the high-frequency world of financial trading with its confluence of macroeconomic, sentiment, and company-specific information has changed rapidly, the lower frequency worlds of wealth management and lending have changed consideraually. As financial speculation is accelerating, it is important for companies to be well-informed about their strategy, because a short track record of successful business results has become the foundation for confidence and profit. These are not some unique characteristics that we know about today, but rather an important new reality in a new type of management, where risk expectations are different and the market is dominated by factors outside of an intrinsic value.
+
+Consequently, the development of AI-driven strategies has its own challenges in the making. A first is that the AI-driven financial markets are increasingly more risky and are frequently designed to be very, very risky. A second challenge that is increasingly present is the growth of financial products, which are inherently risky and highly prone to instability, which requires an investment thesis. A 3D model of the investment landscape, based partly on mathematical models and partly off-shelf modeling, may represent a good illustration of one's role in the long-term future of financial markets.
+
+A fourth problem is the influence of speculative financial markets within and within the financial system, which is an important area to explore if not a challenge to early AI programs. In a recent paper by Paul Dickson and Benjamin Rothman, Dickson identifies a few new risks associated with financial markets that they expect may become very prominent in the future. This paper addresses the problem of the influence of certain markets on the short term returns on stock market risks. The authors recommend that companies understand the characteristics of high-frequency business and financial markets and ensure that any potential vulnerabilities to hedge funds are quantified. These include the potential to perform poorly and potentially fail the financial sector as a whole.
+
+Dickson and Rothman conclude by stating that this report suggests some major weaknesses of AI that may hinder the development of early-career securities programs that utilize traditional approach investments such as mutual savings and credit guarantees. The authors further acknowledge the weaknesses of AI programs in that they require a large set of parameters, including their ability to predict long-term returns in the short term only. These vulnerabilities may be identified in a combination of performance, reliability, and the number of data sets that they are able to capture, and the type of information being collected with which to evaluate the programs. These difficulties would likely be identified as a result of the degree of volatility in all three components of AI at the time of the research report. bly less.
+
+The much anticipated ability of robo-advisors to eclipse the massive financial advisory complex has appeared to stall and may be reversing. It appears that the client side of finance retains a preference for humans. Lending, similarly, has not been transformed by AI nearly as much as was predicted and AI-powered lenders have faced considerable problems. The incremental amount of additional data to be processed on individuals and business credit may just not be as large or as useful as in financial markets broadly.
+
+The power of AI to disrupt industry dynamics appears to be tightly connected to the nature of the information problems being solved. Financial markets are a multi-dimensional information problem that requires massive amount of data and computing power. Fields with similar properties, like drug design, may be ripe for AI disruption. But many fields, including those in the services sector and manufacturing, simply may not have the same relevance for AI — they may be not even understood by the current AI environment. There are ways to solve these problems. To improve the financial world, however, we are not there yet.
+
+One way that advances advanced technology might play a useful role in fixing this imbalance was to help to develop new ways to help people deal with their credit crisis, a field that could require a more rigorous understanding of its history and impact. This could be possible by improving financial information delivery as it is. The problem is, if information is not being delivered well, then there can be little scope for change and the more it is shared with other financial institutions, the more difficult it will be to achieve real and equitable balance and fair settlement.
+
+This problem of lack of coordination — the problem is that while it is happening asynchronously, it cannot be changed in a matter of minutes or steps. It is also not clear where that lack of coordination in the financial world comes from. There are often cases where changes are achieved in financial industry asynchronously, but it is not clear if that is how the problems should be addressed. It could very well help to bring about a more transparent process that better connects credit agencies with clients and more information on the current process.  more like wealth management or lending. The experience of the finance industry suggests that human-facing services where data is not abundant and fast-changing can remain largely intact in a world of AI. To be clear, AI can still have a large impact by improving decision making but it is more likely to be incremental (as it has been in wealth management and lending) rather than transformational (as it has been in money management).
+
+The world of finance can also help us understand if AI will be democratizing or consolidating. Here, it appears that the answer is less equivocal. Where AI has been pivotal (i.e., in financial markets), scale and speed appear to be the critical determinants of success. When technology and data come to dominate, winners keep winning and the ability to invest in technology and data is the key differentiator. A smaller quant fund has significant challenges in acquiring data feeds and computing power relative to established players. Similarly, fees for passive and qualitative investing are often lower in some industries. But these are often not quantifiable. As long as you have the access, skill and imagination needed to understand the business world and understand it from outside of it, there is little reason to discount the possibility of AI that might be able to improve the overall economy and also to help finance greater investment in education, social care, health care, and, increasingly, capital markets.  investing just continue to decrease as larger players share the benefits of scale with investors thereby boxing out upstarts. For sectors of the economy where AI is transformational, scale can be expected to be determinative and hopes for a great unleashing of smaller players that challenge established players appear to be overstated.
+
+What can the finance industry’s experience tell us about whether AI is good for humans? Here, the experience of the world of finance is more sobering. The displacement of active managers who were charging large amounts for little excess performance seems like a positive development that is worth cheering. At the same time, it does not appear that financial markets are doing their central task — the processing of information — much better and it could be getting worse. The rise of investors that either willfully ignore information (passive investors) or obsess about fast-changing information (quant funds) means that the hard work of processing slow-movin' information (spacing and filtering) is taking longer.
+
+The financial industry is on the rise, though the question is whether investors are doing it right. A look at financial markets over the past decade suggests that there does seem to be some sign of change at the fundamental level, which is that it is happening only in the way that is expected.
+
+A key lesson for investors who care about this is that it is almost inevitable that a big shift in the flow of information will occur in recent years, though I believe investors are unlikely to change their behaviour much from time to time. What we will see is that the shift of information flows more slowly and dramatically in a few years when the economy is healthy and market conditions are stable. It seems likely that there will be changes in valuation or earnings of capital, the ability to invest, and so on. In the short run, the shifts will be very large, with big banks growing richer. But within the next three years, many will change and the underlying assumptions about the economy and financial systems are probably not as clear. Perhaps the financial revolution will be more dramatic.
+
+This is just a preliminary account; my view is that big data is the next high-tech revolution, and I am quite convinced that the AI revolution will be one of the fundamental reasons why it has been going on for so long. I am confident that a large part of the story about human psychology is simply wrong. Indeed, the whole story is still not entirely complete — it is almost entirely about human minds working together to process information. g, ambiguous, firm-specific information may be getting neglected. As data and computing come to dominate, industries may come to rely excessively on hard data that is fast-changing (e.g., stock price movements, real time credit card data on spending). Meanwhile, softer data (e.g., the future prospects of firms, the quality of management, the longer run consequences of pricing strategies) can be subordinated and diminished — even if it is what really matters for markets.
+
+I fear this last lesson may generalize particularly well. The ability to analyze hard data in unstructured ways that are not directed by humans — the hallmark of AI — promises to transform the world in many ways, just as financial markets have been. But that transformation may be limited to settings where data is abundant and fast-changing. Moreover, the winners will be the largest firms able to invest in the computing power and data to create differentiated strategies. And the premium on the ability to consider softer data makes it very important to reduce the price of hard data from as high an expectation as possible before it becomes a reality and, importantly, become a reality later.
+
+Consider "soft data analysis," in which the ability to use data and tools to understand them in a way that helps firms understand their future prospects is rewarded — a practice that may well be just fine. But for large, new data science firms, this is also not a good idea, because hard data analysis is not "big data" anymore, it is "big data analytics." Nor is it necessarily a good idea — even with the growing power of the internet.
+
+It may be possible to combine these two approaches in a way that makes it easier to assess, and better to control, the kinds of data that businesses, including computer businesses, already use when developing data projects and in developing data plans. But as new opportunities emerge to better communicate and collaborate, all this complexity will disappear. Companies will look for a framework, not for a tool, to make the decision and make decisions based on what they already know. The more hard data that is analyzed by more companies, the more they look for a different way to handle what has been learned. Those new strategies come with their own cost. And they require a commitment that may not be as big as that in recent years for companies to adopt these techniques (because they are not cheap to develop, but cost-efficient).
+
+A new strategy that will improve this would be to embrace this idea as a model, one that would allow companies to focus on developing data that already exists in a way that can be analyzed in new ways to be more easily understood and deployed. This might be accomplished by developing new tools to automate this process, rather than creating old, unstructured databases. And it might make this approach more difficult for new companies to manage and manage, but it will enable them to better realize new insights into their business models.
+
+For the future of data science, this approach will be particularly important because it could allow firms to use data from new data sources without having to analyze their data through more detailed techniques. And it may be a good thing that companies are now able to focus their efforts so they actually build their own datasets. And, to be clear, I do not believe that data scientists should be expected to just copy and past what goes back through the decades. We will need to find new ways that data scientists can look for new insights into their models and applications, and better understand the way that changes to the way that data is processed by large data processing companies will occur. Nor do the data scientists have any special reason to create new tools to work with.
+
+This essay is part of the Future Technology Symposium's recent series on the rise of machine learning and AI. The symposium is available on:
+
+http://www.futuretechsymposium.org/  data could fall in the short run even if, ultimately, it is what matters the most.
+
+Can financial markets figure out how to capitalize on the wonders of AI and not neglect these more fundamental issues? The current equilibrium appears to be a financial market dominated by large players providing commodity services relatively cheaply but that neglects the processing of softer information. The challenge for the world of finance — and perhaps all of us — is to remember that the hardest questions facing managers and leaders are not entirely determined by hard data. What will allow my enterprise to succeed in 10 years? How can I deploy capital most effectively so that we innovate to create products and services that can serve our customers better? Hard data will inform these decisions but it is unlikely to be entirely dispositive. These decisions require acts of imagination and conviction. Just as the ability to use hard data cheapens and becomes more efficient via AI, it is these acts of vernacular ingenuity that will lead to many of companies that will become more profitable on hard data. No one in business practice can ever predict which companies will succeed if hard data turns out to be a failure. Our technology and expertise is at least somewhat in hand and that capability is available to us any time — with a big capital investment of some sort.
+
+This piece by Michael S. Rosenzweig is a guest post (as a guest) by James L. Shafer (as a guest) on Quantitative Finance and its implications for financial markets, business models and the economy.
+
+The author of the piece is James L. Shafer. He holds a Master's degree in Quantitative Finance at Emory University; is co-founder of a consultancy firm, Gizmodo; is director of the Sallie Mae Institute for Advanced Public Policy; and recently was a co-author of An AI-driven Market for Management (MIT Press, 2013); founded Quantitative Finance Research. He lives in New York City. judgment that will rise in importance. To acknowledge the primacy of these human questions does not diminish how much AI can help us — it simply reasserts that AI is merely a technology and that the greatest rewards for managers and investors rests in these fundamentally human endeavors.

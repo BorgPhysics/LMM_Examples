@@ -1,0 +1,27 @@
+NOTE: All methodology types are used as an input context to the final LMM model.
+
+
+There are 1 unique docs in a total of 1
+most_similar_faiss_sentences: [('783fb29b-29b0-4622-9a63-e19ebe0a1f68', 22, 'We are now at a point where climate change is clearly with us, and much more attention needs to be put on minimizing the impacts on global health through adaptation or enhancing resilience.')]
+
+	The doc ID, doc name and sentences used for this summary were:
+
+	 783fb29b-29b0-4622-9a63-e19ebe0a1f68 WorldHealthIssues_1.txt 
+		 We are now at a point where climate change is clearly with us, and much more attention needs to be put on minimizing the impacts on global health through adaptation or enhancing resilience.
+
+
+METHODOLOGY: Question, FAISS Vector Summaries & Related Docs
+This methodology 
+ORIGINAL QUESTION: Could you provide a comprehensive overview of the impact of climate change on global health, considering various aspects and potential implications?
+
+There are 1 unique docs in a total of 1
+	Processing document: 783fb29b-29b0-4622-9a63-e19ebe0a1f68 WorldHealthIssues_1.txt
+	Intermediate Summary Answer:
+		 Oceans have warmed by nearly 20 to 30 percent since the beginning of the 19th century. Warm water on the surface helps to support the ocean's energy balance, with lower rates of greenhouse gas release. New research by scientists at the University of Cambridge provides new evidence as to why.
+
+SUMMARIZED RESPONSE: Oceans have warmed by nearly 20 to 30 percent since the beginning of the 19th century. Warm water on the surface helps to support the ocean's energy balance, with lower rates of greenhouse gas release.
+AVERAGE SCORE: 0.5864557951006506 
+END OF Question, FAISS Vector Summaries & Related Docs METHODOLOGY
+
+
+Generating question statistics...

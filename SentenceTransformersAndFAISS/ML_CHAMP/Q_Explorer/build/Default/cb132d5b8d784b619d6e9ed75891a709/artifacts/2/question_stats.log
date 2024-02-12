@@ -1,0 +1,27 @@
+NOTE: All methodology types are used as an input context to the final LMM model.
+
+
+There are 1 unique docs in a total of 1
+most_similar_faiss_sentences: [('1733c782-c96f-4594-91bc-e331af52112d', 1, 'What will artificial intelligence do to industries and jobs?')]
+
+	The doc ID, doc name and sentences used for this summary were:
+
+	 1733c782-c96f-4594-91bc-e331af52112d AI_5.txt 
+		 What will artificial intelligence do to industries and jobs?
+
+
+METHODOLOGY: Question, FAISS Vector Summaries & Related Docs
+This methodology 
+ORIGINAL QUESTION: How will AI help us in the future?
+
+There are 1 unique docs in a total of 1
+	Processing document: 1733c782-c96f-4594-91bc-e331af52112d AI_5.txt
+	Intermediate Summary Answer:
+		 Mihir Desai and Jedrzej Krzyszkowski: We are at the beginning of the technological expansion of how we operate. We are in the midst of a significant shift away from human experience (it's time for a change, right?)
+
+SUMMARIZED RESPONSE: Mihir Desai and Jedrzej Krzyszkowski: We are at the beginning of the technological expansion of how we operate. We are in the midst of a significant shift away from human experience.
+AVERAGE SCORE: 0.4135339484396856 
+END OF Question, FAISS Vector Summaries & Related Docs METHODOLOGY
+
+
+Generating question statistics...
