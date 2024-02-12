@@ -1,0 +1,24 @@
+NOTE: All methodology types are used as an input context to the final LMM model.
+
+
+There are 1 unique docs in a total of 1
+most_similar_faiss_sentences: [('783fb29b-29b0-4622-9a63-e19ebe0a1f68', 22, 'We are now at a point where climate change is clearly with us, and much more attention needs to be put on minimizing the impacts on global health through adaptation or enhancing resilience.')]
+
+	The doc ID, doc name and sentences used for this summary were:
+
+	 783fb29b-29b0-4622-9a63-e19ebe0a1f68 WorldHealthIssues_1.txt 
+		 We are now at a point where climate change is clearly with us, and much more attention needs to be put on minimizing the impacts on global health through adaptation or enhancing resilience.
+
+
+METHODOLOGY: Question & FAISS Vector
+This methodology submits the user question to the FAISS index to find all of the related sentences within the assigned parameter ranges.  It then uses the question and FAISS sentences as context for the final LMM.
+ORIGINAL QUESTION: Could you provide a comprehensive overview of the impact of climate change on global health, considering various aspects and potential implications?
+
+There are 1 unique docs in a total of 1
+
+SUMMARIZED RESPONSE: The World Health Organization has announced an ambitious plan to tackle the global warming challenge by 2050. Even in developed countries, the proportion of individuals and small populations experiencing health problems from climate change or the impacts of climate change have increased.
+AVERAGE SCORE: 0.8198295022019897 
+END OF Question & FAISS Vector METHODOLOGY
+
+
+Generating question statistics...

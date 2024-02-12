@@ -1,0 +1,64 @@
+NOTE: All methodology types are used as an input context to the final LMM model.
+
+
+There are 3 unique docs in a total of 8
+most_similar_faiss_sentences: [('1733c782-c96f-4594-91bc-e331af52112d', 1, 'What will artificial intelligence do to industries and jobs?'), ('61f06291-5385-4dfb-acda-88f74e955c15', 403, 'By 1960, there were fewer than 3 million.83 If artificial intelligence significantly and permanently reduces demand for human unskilled\nlabor, and if significant portions of the unskilled labor workforce struggle\n38 Artificial Intelligence and National Security\nto retrain for economically valuable skills, the economic and social impacts\nwould be devastating.'), ('61f06291-5385-4dfb-acda-88f74e955c15', 388, 'AI applications can\ntherefore act as an “innovation supercharger.”\nAutomation and Unemployment\nThe 2016 White House Report on Artificial Intelligence, Automation,\nand the Economy found that increasing automation will threaten\nmillions of jobs77 and that future labor disruptions might be more permanent than previous cases.'), ('61f06291-5385-4dfb-acda-88f74e955c15', 404, 'If AI does lead to permanent worker displacement, technologically\nadvanced countries may face the “Resource Curse” problem, whereby\nthe owners of productive capital are highly concentrated, and economics and politics become unstable.'), ('61f06291-5385-4dfb-acda-88f74e955c15', 45, '■ Former U.S. Treasury Secretary Larry Summers has predicted\nthat advances in AI and related technologies will lead to a dramatic decline in demand for labor such that the United States\n“may have a third of men between the ages of 25 and 54 not\nworking by the end of this half century.”\nBelfer Center for Science and International Affairs | Harvard Kennedy School 3\n■ Like the first industrial revolution, this will reshape the relationship between capital and labor in economies around the\nworld.'), ('61f06291-5385-4dfb-acda-88f74e955c15', 378, 'In particular, we analyze\nhow future progress in AI technology will affect the speed of technological\ninnovation, and the how increases in automation will affect employment.'), ('1733c782-c96f-4594-91bc-e331af52112d', 4, 'Will AI transform industries?'), ('00226ddc-431c-4943-8409-2ac0b7dac433', 9, 'It will also replace many human jobs.')]
+
+	The doc ID, doc name and sentences used for this summary were:
+
+	 1733c782-c96f-4594-91bc-e331af52112d AI_5.txt 
+		 What will artificial intelligence do to industries and jobs?
+
+	 61f06291-5385-4dfb-acda-88f74e955c15 AI_2.txt 
+		 By 1960, there were fewer than 3 million.83 If artificial intelligence significantly and permanently reduces demand for human unskilled
+labor, and if significant portions of the unskilled labor workforce struggle
+38 Artificial Intelligence and National Security
+to retrain for economically valuable skills, the economic and social impacts
+would be devastating.
+
+	 61f06291-5385-4dfb-acda-88f74e955c15 AI_2.txt 
+		 AI applications can
+therefore act as an “innovation supercharger.”
+Automation and Unemployment
+The 2016 White House Report on Artificial Intelligence, Automation,
+and the Economy found that increasing automation will threaten
+millions of jobs77 and that future labor disruptions might be more permanent than previous cases.
+
+	 61f06291-5385-4dfb-acda-88f74e955c15 AI_2.txt 
+		 If AI does lead to permanent worker displacement, technologically
+advanced countries may face the “Resource Curse” problem, whereby
+the owners of productive capital are highly concentrated, and economics and politics become unstable.
+
+	 61f06291-5385-4dfb-acda-88f74e955c15 AI_2.txt 
+		 ■ Former U.S. Treasury Secretary Larry Summers has predicted
+that advances in AI and related technologies will lead to a dramatic decline in demand for labor such that the United States
+“may have a third of men between the ages of 25 and 54 not
+working by the end of this half century.”
+Belfer Center for Science and International Affairs | Harvard Kennedy School 3
+■ Like the first industrial revolution, this will reshape the relationship between capital and labor in economies around the
+world.
+
+	 61f06291-5385-4dfb-acda-88f74e955c15 AI_2.txt 
+		 In particular, we analyze
+how future progress in AI technology will affect the speed of technological
+innovation, and the how increases in automation will affect employment.
+
+	 1733c782-c96f-4594-91bc-e331af52112d AI_5.txt 
+		 Will AI transform industries?
+
+	 00226ddc-431c-4943-8409-2ac0b7dac433 AI_4.txt 
+		 It will also replace many human jobs.
+
+
+METHODOLOGY: Question & FAISS Vector
+This methodology submits the user question to the FAISS index to find all of the related sentences within the assigned parameter ranges.  It then uses the question and FAISS sentences as context for the final LMM.
+ORIGINAL QUESTION: How will AI affect unskilled labor?
+
+There are 3 unique docs in a total of 8
+
+SUMMARIZED RESPONSE: White House report: Increasing automation will threaten millions of jobs. One million Americans will lose their jobs by 2050, report says. U.S. economy already presents increasing economic challenges, author says.
+AVERAGE SCORE: 0.3018593204859679 
+END OF Question & FAISS Vector METHODOLOGY
+
+
+Generating question statistics...

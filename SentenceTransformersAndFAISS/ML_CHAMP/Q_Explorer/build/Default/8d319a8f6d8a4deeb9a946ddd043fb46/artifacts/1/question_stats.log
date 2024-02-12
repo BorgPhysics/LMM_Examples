@@ -1,0 +1,24 @@
+NOTE: All methodology types are used as an input context to the final LMM model.
+
+
+There are 1 unique docs in a total of 1
+most_similar_faiss_sentences: [('783fb29b-29b0-4622-9a63-e19ebe0a1f68', 22, 'We are now at a point where climate change is clearly with us, and much more attention needs to be put on minimizing the impacts on global health through adaptation or enhancing resilience.')]
+
+	The doc ID, doc name and sentences used for this summary were:
+
+	 783fb29b-29b0-4622-9a63-e19ebe0a1f68 WorldHealthIssues_1.txt 
+		 We are now at a point where climate change is clearly with us, and much more attention needs to be put on minimizing the impacts on global health through adaptation or enhancing resilience.
+
+
+METHODOLOGY: Question & FAISS Vector
+This methodology submits the user question to the FAISS index to find all of the related sentences within the assigned parameter ranges.  It then uses the question and FAISS sentences as context for the final LMM.
+ORIGINAL QUESTION: How is global health affected by climate change?
+
+There are 1 unique docs in a total of 1
+
+SUMMARIZED RESPONSE: Global food security and food security are two of the world's unique challenges. Achieving these long-term sustainability challenges, through adaptation and adaptation to climate change, will require us to adapt our food systems.
+AVERAGE SCORE: 0.48352454903881964 
+END OF Question & FAISS Vector METHODOLOGY
+
+
+Generating question statistics...

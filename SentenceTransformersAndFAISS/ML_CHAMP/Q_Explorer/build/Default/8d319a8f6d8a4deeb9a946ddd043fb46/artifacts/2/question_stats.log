@@ -1,0 +1,24 @@
+NOTE: All methodology types are used as an input context to the final LMM model.
+
+
+There are 1 unique docs in a total of 1
+most_similar_faiss_sentences: [('1733c782-c96f-4594-91bc-e331af52112d', 1, 'What will artificial intelligence do to industries and jobs?')]
+
+	The doc ID, doc name and sentences used for this summary were:
+
+	 1733c782-c96f-4594-91bc-e331af52112d AI_5.txt 
+		 What will artificial intelligence do to industries and jobs?
+
+
+METHODOLOGY: Question & FAISS Vector
+This methodology submits the user question to the FAISS index to find all of the related sentences within the assigned parameter ranges.  It then uses the question and FAISS sentences as context for the final LMM.
+ORIGINAL QUESTION: How will AI help us in the future?
+
+There are 1 unique docs in a total of 1
+
+SUMMARIZED RESPONSE: Summarize: New Career and Education is a collaboration of 16 start-ups between 14 companies, as well as 18 universities, universities and research institutes. Our aim is to get deep-learning and artificial intelligence into our lives that will help our industry thrive.
+AVERAGE SCORE: 0.45639653362242644 
+END OF Question & FAISS Vector METHODOLOGY
+
+
+Generating question statistics...

@@ -1,0 +1,35 @@
+NOTE: All methodology types are used as an input context to the final LMM model.
+
+
+There are 2 unique docs in a total of 3
+most_similar_faiss_sentences: [('1733c782-c96f-4594-91bc-e331af52112d', 1, 'What will artificial intelligence do to industries and jobs?'), ('1733c782-c96f-4594-91bc-e331af52112d', 4, 'Will AI transform industries?'), ('61f06291-5385-4dfb-acda-88f74e955c15', 388, 'AI applications can\ntherefore act as an “innovation supercharger.”\nAutomation and Unemployment\nThe 2016 White House Report on Artificial Intelligence, Automation,\nand the Economy found that increasing automation will threaten\nmillions of jobs77 and that future labor disruptions might be more permanent than previous cases.')]
+
+	The doc ID, doc name and sentences used for this summary were:
+
+	 1733c782-c96f-4594-91bc-e331af52112d AI_5.txt 
+		 What will artificial intelligence do to industries and jobs?
+
+	 1733c782-c96f-4594-91bc-e331af52112d AI_5.txt 
+		 Will AI transform industries?
+
+	 61f06291-5385-4dfb-acda-88f74e955c15 AI_2.txt 
+		 AI applications can
+therefore act as an “innovation supercharger.”
+Automation and Unemployment
+The 2016 White House Report on Artificial Intelligence, Automation,
+and the Economy found that increasing automation will threaten
+millions of jobs77 and that future labor disruptions might be more permanent than previous cases.
+
+
+METHODOLOGY: Question & FAISS Vector
+This methodology submits the user question to the FAISS index to find all of the related sentences within the assigned parameter ranges.  It then uses the question and FAISS sentences as context for the final LMM.
+ORIGINAL QUESTION: How will AI affect skilled labor?
+
+There are 2 unique docs in a total of 3
+
+SUMMARIZED RESPONSE: The 2016 White House Report on Artificial Intelligence, Automation, and the Economy found that increasing automation will threaten millions of jobs. Machines will likely continue to serve as the backbone of US public services and make most of the US labor force obsolete.
+AVERAGE SCORE: 0.7220642185130025 
+END OF Question & FAISS Vector METHODOLOGY
+
+
+Generating question statistics...
